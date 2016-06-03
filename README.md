@@ -39,6 +39,7 @@ This criteria is not a strict baseline, but a **flexible guideline** for being a
 - Deep learning (2015), Y. LeCun, Y. Bengio and G. Hinton [[pdf]](http://www.nature.com/nature/journal/v521/n7553/abs/nature14539.html) :sparkles:
 - Deep learning in neural networks: An overview (2015), J. Schmidhuber [[pdf]](http://arxiv.org/pdf/1404.7828) :sparkles:
 - Representation learning: A review and new perspectives (2013), Y. Bengio et al. [[pdf]](http://arxiv.org/pdf/1206.5538) :sparkles:
+- A guide to convolution arithmetic for deep learning (2016), V. Dumoulin et al. [[pdf]](http://arxiv.org/pdf/1603.07285v1)
 
 ### Theory Future
 - Distilling the knowledge in a neural network (2015), G. Hinton et al. [[pdf]](http://arxiv.org/pdf/1503.02531)
@@ -137,6 +138,7 @@ This criteria is not a strict baseline, but a **flexible guideline** for being a
 
 ### Hardware Software
 - TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems (2016), M. Abadi et al. *(Google)* [[pdf]](http://arxiv.org/pdf/1603.04467)
+- TensorFlow: A system for large-scale machine learning (2016), M. Abadi et al. *(Google)* [[pdf]](https://arxiv.org/pdf/1605.08695v2)
 - MatConvNet: Convolutional neural networks for matlab (2015), A. Vedaldi and K. Lenc [[pdf]](http://arxiv.org/pdf/1412.4564)
 - Caffe: Convolutional architecture for fast feature embedding (2014), Y. Jia et al. [[pdf]](http://arxiv.org/pdf/1408.5093) :sparkles:
 - Theano: new features and speed improvements (2012), F. Bastien et al. *(Bengio)* [[pdf]](http://arxiv.org/pdf/1211.5590)
