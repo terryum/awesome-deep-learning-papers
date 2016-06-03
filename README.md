@@ -16,9 +16,7 @@ I believe that there exist *classic* deep learning papers which are worth readin
 - **2011** :  +500 citations (:sparkles: +1000)
 - **2010** :  +600 citations (:sparkles: +1200)
 
-This criteria is not a strict baseline, but a **flexible guideline** for being added to the awesome list. (Since the number of citations is affected by the research area, some papers under the threshold may be added to the list while some over the threshold may not.) 
-
-**I need your contributions!** Please add important papers to the awesome list as well as delete some papers if they are considered as out-of-date. I may have made mistake in the list (e.g. typo, missing :sparkles:), so please correct if you find any errors. Thank you!
+*I need your [contributions](https://github.com/terryum/awesome-deep-learning-papers/blob/master/Contributing.md)!*
 
 ## Table of Contents 
 
