@@ -22,11 +22,11 @@ This criteria is not a strict baseline, but a **flexible guideline** for being a
 * [Survey / Review](#survey-review)
 * [Theory / Future](#theory-future)
 * [Optimization / Regularization](#optimization-regularization)
-* [CNN_Models](#cnn_models)
+* [NetworkModels](#networkmodels)
 * [Image](#image)
-* [Video / Human_Activity](#video-human_activity)
-* [Word_Embedding](#word_embedding)
-* [Machine_Translation / NLP_others](#machine_translation-nlp_others)
+* [Video / HumanActivity](#video-humanactivity)
+* [WordEmbedding](#wordembedding)
+* [MachineTranslation / QnA](#machinetranslation-qna)
 * [Speech / Etc.](#speech-etc)
 * [RL / Robotics](#rl-robotics)
 * [Unsupervised](#unsupervised)
@@ -55,7 +55,7 @@ This criteria is not a strict baseline, but a **flexible guideline** for being a
 - Spatial pyramid pooling in deep convolutional networks for visual recognition (2014), K. He et al. [[pdf]](http://arxiv.org/pdf/1406.4729)
 - Random search for hyper-parameter optimization (2012) J. Bergstra and Y. Bengio [[pdf]](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a)
 
-### CNN_Models
+### NetworkModels
 - Deep residual learning for image recognition (2016), K. He et al. *(Microsoft)* [[pdf]](http://arxiv.org/pdf/1512.03385) :sparkles:
 - Going deeper with convolutions (2015), C. Szegedy et al. *(Google)* [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf) :sparkles:
 - Fast R-CNN (2015), R. Girshick [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf) :sparkles:
@@ -83,14 +83,14 @@ This criteria is not a strict baseline, but a **flexible guideline** for being a
 - Learning hierarchical invariant spatio-temporal features for action recognition with independent subspace analysis (2011), Q. Le et al. [[pdf]](http://robotics.stanford.edu/~wzou/cvpr_LeZouYeungNg11.pdf)
 - Learning mid-level features for recognition (2010), Y. Boureau *(LeCun)* [[pdf]](http://ece.duke.edu/~lcarin/boureau-cvpr-10.pdf)
 
-### Video Human_Activity
+### Video HumanActivity
 - Large-scale video classification with convolutional neural networks (2014), A. Karpathy et al. *(FeiFei)* [[pdf]](vision.stanford.edu/pdf/karpathy14.pdf)
 - A survey on human activity recognition using wearable sensors (2013), O. Lara and M. Labrador [[pdf]](http://romisatriawahono.net/lecture/rm/survey/computer%20vision/Lara%20-%20Human%20Activity%20Recognition%20-%202013.pdf)
 - 3D convolutional neural networks for human action recognition (2013), S. Ji et al. [[pdf]](http://machinelearning.wustl.edu/mlpapers/paper_files/icml2010_JiXYY10.pdf)
 - Deeppose: Human pose estimation via deep neural networks (2014), A. Toshev and C. Szegedy [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Toshev_DeepPose_Human_Pose_2014_CVPR_paper.pdf)
 - Action recognition with improved trajectories (2013), H. Wang and C. Schmid [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Wang_Action_Recognition_with_2013_ICCV_paper.pdf)
 
-### Word_Embedding
+### WordEmbedding
 - Glove: Global vectors for word representation (2014), J. Pennington et al. [[pdf]](http://llcao.net/cu-deeplearning15/presentation/nn-pres.pdf) :sparkles:
 - Sequence to sequence learning with neural networks (2014), I. Sutskever et al. [[pdf]](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
 - Distributed representations of sentences and documents (2014), Q. Le and T. Mikolov [[pdf]](http://arxiv.org/pdf/1405.4053) *(Google)* :sparkles:
@@ -98,7 +98,7 @@ This criteria is not a strict baseline, but a **flexible guideline** for being a
 - Efficient estimation of word representations in vector space (2013), T. Mikolov et al. *(Google)* [[pdf]](http://arxiv.org/pdf/1301.3781) :sparkles:
 - Word representations: a simple and general method for semi-supervised learning (2010), J. Turian *(Bengio)* [[pdf]](http://www.anthology.aclweb.org/P/P10/P10-1040.pdf)
 
-### Machine_Translation NLP_Others
+### MachineTranslation QnA
 - Towards ai-complete question answering: A set of prerequisite toy tasks (2015), J. Weston et al. [[pdf]](http://arxiv.org/pdf/1502.05698)
 - Neural machine translation by jointly learning to align and translate (2014), D. Bahdanau et al. *(Bengio)* [[pdf]](http://arxiv.org/pdf/1409.0473) :sparkles:
 - Learning phrase representations using RNN encoder-decoder for statistical machine translation (2014), K. Cho et al. *(Bengio)* [[pdf]](http://arxiv.org/pdf/1406.1078)
