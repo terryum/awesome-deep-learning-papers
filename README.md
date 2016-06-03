@@ -84,6 +84,12 @@ I believe that there exist *classic* deep learning papers which are worth readin
 - Learning hierarchical invariant spatio-temporal features for action recognition with independent subspace analysis (2011), Q. Le et al. [[pdf]](http://robotics.stanford.edu/~wzou/cvpr_LeZouYeungNg11.pdf)
 - Learning mid-level features for recognition (2010), Y. Boureau *(LeCun)* [[pdf]](http://ece.duke.edu/~lcarin/boureau-cvpr-10.pdf)
 
+#### Images - Aerial/Maps
+
+- Learning to Detect Roads in High-Resolution Aerial Images (2010), Volodymyr Mnih and Geoffrey E. Hinton. [[pdf]](http://www.cs.toronto.edu/~fritz/absps/road_detection.pdf)
+- Machine learning for Aerial Image Labelling (2013), Volodymyr Mnih. [[pdf]](https://www.cs.toronto.edu/~vmnih/docs/Mnih_Volodymyr_PhD_Thesis.pdf)
+
+
 ### Caption
 - Show, attend and tell: Neural image caption generation with visual attention (2015), K. Xu et al. *(Bengio)* [[pdf]](http://arxiv.org/pdf/1502.03044) :sparkles:
 - Show and tell: A neural image caption generator (2015), O. Vinyals et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Vinyals_Show_and_Tell_2015_CVPR_paper.pdf) :sparkles:
