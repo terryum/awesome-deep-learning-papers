@@ -13,10 +13,12 @@ If you don't know how to edit the file, please leave a message to the [Issue boa
 - **2011** :  +500 citations (:sparkles: +1000)
 - **2010** :  +600 citations (:sparkles: +1200)
 
-This criteria is not a strict baseline, but a **flexible guideline** for being added to the awesome list. 
-That is, some papers under the threshold may be added to the list while some over the threshold may not.
+This criteria is not a strict baseline, but a **flexible guideline** for being added to the awesome list. (Since the number of citations is affected by the research area, some papers under the threshold may be added to the list while some over the threshold may not.) 
 
-Thus, **please provide a enough description** when you push your contributions.
+Please add important papers to the awesome list as well as delete some papers if they are considered as out-of-date. Sparkling marks :sparkles: for outstanding papers also need to be updated as increasing number of citations.  
+
+**Please provide a enough description** when you push your contributions.
 
 Thank you.
 
+Terry
