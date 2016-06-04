@@ -34,7 +34,7 @@ I believe that there exist *classic* deep learning papers which are worth readin
 * [Unsupervised](#unsupervised)
 * [Hardware / Software](#hardware--software)
 
-(Total 82 papers)
+(Total 84 papers)
 
 ### Survey / Review
 - Deep learning (Book, 2016), Goodfellow et al. *(Bengio)* [[html]](http://www.deeplearningbook.org/) 
