@@ -196,11 +196,6 @@ Total 84 papers except for the *Hardware / Software* and *Papers Worth Reading* 
 - [Tomas Mikolov](https://scholar.google.ca/citations?hl=en&user=oBu8kMMAAAAJ), *Facebook*
 - [Trevor Darrell](https://scholar.google.ca/citations?user=bh-uRFMAAAAJ), *U.C. Berkeley* 
 
-## License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Terry T. Um](https://www.facebook.com/terryum.io/) has waived all copyright and related or neighboring rights to this work.
-
 ## Acknowledgement
 
 Thank you for all your contributions. Please make sure to read the [contributing guide](https://github.com/terryum/awesome-deep-learning-papers/blob/master/Contributing.md) before you make a pull request.
@@ -209,4 +204,8 @@ You can follow my [facebook page](https://www.facebook.com/terryum.io/) or [goog
 
 You can also check out my [blog](http://terryum.io/) where I share my thoughts on my research area (deep learning for human/robot motions). Thank you!
 
-*Terry*
+## License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Terry T. Um](https://www.facebook.com/terryum.io/) has waived all copyright and related or neighboring rights to this work.
+
