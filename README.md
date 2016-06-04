@@ -171,7 +171,6 @@ Total 84 papers except for the *papers worth reading*
 - [Quoc Le](https://scholar.google.ca/citations?user=vfT6-XIAAAAJ), *Google* :sparkles:
 - [Yann LeCun](https://scholar.google.ca/citations?user=WLN3QrAAAAAJ), *Facebook, New York University* :sparkles:
 - [Yoshua Bengio](https://scholar.google.ca/citations?user=kukA0LcAAAAJ), *University of Montreal* :sparkles:
-
 - [Aaron Courville](https://scholar.google.ca/citations?user=km6CP8cAAAAJ), *University of Montreal*
 - [Alex Graves](https://scholar.google.ca/citations?user=DaFHynwAAAAJ), *Google DeepMind*
 - [Andrej Karpathy](https://scholar.google.ca/citations?hl=en&user=l8WuQJgAAAAJ), *Stanford University*
