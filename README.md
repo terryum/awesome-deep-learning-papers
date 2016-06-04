@@ -108,7 +108,7 @@ I believe that there exist *classic* deep learning papers which are worth readin
 
 ### Machine Translation / QnA
 - Towards ai-complete question answering: A set of prerequisite toy tasks (2015), J. Weston et al. [[pdf]](http://arxiv.org/pdf/1502.05698)
-- Recurrent Continuous Translation Models (2013), N. Kalchbrenner and P. Blunsom. [[pdf]](http://www.aclweb.org/anthology/D13-1176)
+- Recurrent continuous translation models (2013), N. Kalchbrenner and P. Blunsom. [[pdf]](http://www.aclweb.org/anthology/D13-1176)
 - Neural machine translation by jointly learning to align and translate (2014), D. Bahdanau et al. *(Bengio)* [[pdf]](http://arxiv.org/pdf/1409.0473) :sparkles:
 - Sequence to sequence learning with neural networks (2014), I. Sutskever et al. [[pdf]](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
 - Learning phrase representations using RNN encoder-decoder for statistical machine translation (2014), K. Cho et al. *(Bengio)* [[pdf]](http://arxiv.org/pdf/1406.1078)
@@ -141,7 +141,7 @@ I believe that there exist *classic* deep learning papers which are worth readin
 - Stacked denoising autoencoders: Learning useful representations in a deep network with a local denoising criterion (2010), P. Vincent et al. *(Bengio)* [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.297.3484&rep=rep1&type=pdf)
 - A practical guide to training restricted boltzmann machines (2010), G. Hinton [[pdf]](http://www.csri.utoronto.ca/~hinton/absps/guideTR.pdf)
 - Stacked denoising autoencoders: Learning useful representations in a deep network with a local denoising criterion (2010), P. Vincent et al. *(Bengio)* [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.297.3484&rep=rep1&type=pdf)
-- Pixel Recurrent Neural Networks (2016), van den Oord, et al. *(DeepMind)* [[pdf]](http://arxiv.org/pdf/1601.06759v2.pdf)
+- Pixel recurrent neural networks (2016), van den Oord, et al. *(DeepMind)* [[pdf]](http://arxiv.org/pdf/1601.06759v2.pdf)
 
 ### Hardware / Software
 - TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems (2016), M. Abadi et al. *(Google)* [[pdf]](http://arxiv.org/pdf/1603.04467)
