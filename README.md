@@ -116,7 +116,7 @@ Total 84 papers except for the *Hardware / Software* and *Papers Worth Reading* 
 - Neural machine translation by jointly learning to align and translate (2014), D. Bahdanau et al. *(Bengio)* [[pdf]](http://arxiv.org/pdf/1409.0473) :sparkles:
 - Sequence to sequence learning with neural networks (2014), I. Sutskever et al. [[pdf]](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf) :sparkles:
 - Learning phrase representations using RNN encoder-decoder for statistical machine translation (2014), K. Cho et al. *(Bengio)* [[pdf]](http://arxiv.org/pdf/1406.1078)
-- A convolutional neural network for modelling sentences (2014), N. kalchbrenner et al. [[pdf]](http://arxiv.org/pdf/1404.2188v1)
+- A convolutional neural network for modelling sentences (2014), N. Kalchbrenner et al. [[pdf]](http://arxiv.org/pdf/1404.2188v1)
 - Convolutional neural networks for sentence classification (2014), Y. Kim [[pdf]](http://arxiv.org/pdf/1408.5882)
 - The stanford coreNLP natural language processing toolkit (2014), C. Manning et al. [[pdf]](http://www.surdeanu.info/mihai/papers/acl2014-corenlp.pdf) :sparkles:
 - Recursive deep models for semantic compositionality over a sentiment treebank (2013), R. Socher et al. [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.383.1327&rep=rep1&type=pdf) :sparkles:
