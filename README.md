@@ -36,7 +36,7 @@ I believe that there exist *classic* deep learning papers which are worth readin
 * [Papers Worth Reading](#papers-worth-reading)
 * [Distinguished Researchers](#distinguished-researchers)
 
-Total 84 papers except for the *Hardware / Software* and *Papers Worth Reading* sections.
+Total 85 papers except for the papers in *Hardware / Software* and *Papers Worth Reading* sections.
 
 ### Survey / Review
 - Deep learning (Book, 2016), Goodfellow et al. *(Bengio)* [[html]](http://www.deeplearningbook.org/) 
@@ -73,6 +73,7 @@ Total 84 papers except for the *Hardware / Software* and *Papers Worth Reading* 
 - OverFeat: Integrated recognition, localization and detection using convolutional networks (2014), P. Sermanet et al. *(LeCun)* [[pdf]](http://arxiv.org/pdf/1312.6229)
 - Visualizing and understanding convolutional networks (2014), M. Zeiler and R. Fergus [[pdf]](http://arxiv.org/pdf/1311.2901) :sparkles:
 - Maxout networks (2013), I. Goodfellow et al. *(Bengio)* [[pdf]](http://arxiv.org/pdf/1302.4389v4)
+- Network in network (2013), M. Lin et al. [[pdf]](http://arxiv.org/pdf/1312.4400)
 - ImageNet classification with deep convolutional neural networks (2012), A. Krizhevsky et al. *(Hinton)* [[pdf]](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) :sparkles:
 - Large scale distributed deep networks (2012), J. Dean et al. [[pdf]](http://papers.nips.cc/paper/4687-large-scale-distributed-deep-networks.pdf) :sparkles:
 - Deep sparse rectifier neural networks (2011), X. Glorot et al. *(Bengio)* [[pdf]](http://machinelearning.wustl.edu/mlpapers/paper_files/AISTATS2011_GlorotBB11.pdf)
@@ -157,10 +158,13 @@ Total 84 papers except for the *Hardware / Software* and *Papers Worth Reading* 
 
 ### Papers Worth Reading
 *Newly released papers which do not meet the criteria but worth reading*
+- SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 1MB model size (2016), F. Iandola et al. [[pdf]](http://arxiv.org/pdf/1602.07360)
 - Learning to Compose Neural Networks for Question Answering (2016), J. Andreas et al. [[pdf]](http://arxiv.org/pdf/1601.01705)
 - Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection (2016) *(Google)*, S. Levine et al. [[pdf]](http://arxiv.org/pdf/1603.02199v3)
 - Taking the human out of the loop: A review of bayesian optimization (2016), B. Shahriari et al. [[pdf]](https://www.cs.ox.ac.uk/people/nando.defreitas/publications/BayesOptLoop.pdf)
 - Eie: Efficient inference engine on compressed deep neural network (2016), S. Han et al. [[pdf]](http://arxiv.org/pdf/1602.01528)
+- Adaptive Computation Time for Recurrent Neural Networks (2016), A. Graves [[pdf]](http://arxiv.org/pdf/1603.08983)
+- Recent Advances in Convolutional Neural Networks (2015), J. Gu et al.(http://arxiv.org/pdf/1512.07108)
 - LSTM: A search space odyssey (2015), K. Greff et al. [[pdf]](http://arxiv.org/pdf/1503.04069)
 
 ### Distinguished Researchers
