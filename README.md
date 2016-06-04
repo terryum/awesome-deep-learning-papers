@@ -34,7 +34,7 @@ I believe that there exist *classic* deep learning papers which are worth readin
 * [Unsupervised](#unsupervised)
 * [Hardware / Software](#hardware--software)
 * [Papers Worth Reading](#papers-worth-reading)
-* [Researchers](#researchers)
+* [Distinguished Researchers](#distinguished-researchers)
 
 Total 84 papers except for the *Hardware / Software* and *Papers Worth Reading* sections.
 
@@ -163,8 +163,8 @@ Total 84 papers except for the *Hardware / Software* and *Papers Worth Reading* 
 - Eie: Efficient inference engine on compressed deep neural network (2016), S. Han et al. [[pdf]](http://arxiv.org/pdf/1602.01528)
 - LSTM: A search space odyssey (2015), K. Greff et al. [[pdf]](http://arxiv.org/pdf/1503.04069)
 
-### Researchers
-*Deep learning researchers who have published +3 (:sparkles: +6) papers which are on the awesome list*
+### Distinguished Researchers
+*Distinguished deep learning researchers who have published +3 (:sparkles: +6) papers which are on the awesome list*
 
 - [Jian Sun](https://scholar.google.ca/citations?user=ALVSZAYAAAAJ), *Microsoft Research* :sparkles:
 - [Geoffrey Hinton](https://scholar.google.ca/citations?user=JicYPdAAAAAJ), *Google, University of Toronto* :sparkles:
