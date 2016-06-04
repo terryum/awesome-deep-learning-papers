@@ -49,7 +49,7 @@ Total 84 papers except for the *Hardware / Software* and *Papers Worth Reading* 
 - Deep neural networks are easily fooled: High confidence predictions for unrecognizable images (2015), A. Nguyen et al. [[pdf]](http://arxiv.org/pdf/1412.1897)
 - How transferable are features in deep neural networks? (2014), J. Yosinski et al. *(Bengio)* [[pdf]](http://papers.nips.cc/paper/5347-how-transferable-are-features-in-deep-neural-networks.pdf)
 - Return of the Devil in the Details: Delving Deep into Convolutional Nets (2014), K. Chatfield et al. [[pdf]](http://arxiv.org/pdf/1405.3531) :sparkles:
-- Why does unsupervised pre-training help deep learning (2010), E. Erhan et al. *(Bengio)* [[pdf]](http://machinelearning.wustl.edu/mlpapers/paper_files/AISTATS2010_ErhanCBV10.pdf)
+- Why does unsupervised pre-training help deep learning (2010), D. Erhan et al. *(Bengio)* [[pdf]](http://machinelearning.wustl.edu/mlpapers/paper_files/AISTATS2010_ErhanCBV10.pdf)
 - Understanding the difficulty of training deep feedforward neural networks (2010), X. Glorot and Y. Bengio [[pdf]](http://machinelearning.wustl.edu/mlpapers/paper_files/AISTATS2010_GlorotB10.pdf)
 
 ### Optimization / Regularization
