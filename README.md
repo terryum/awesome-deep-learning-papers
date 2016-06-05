@@ -164,9 +164,9 @@ Total 85 papers except for the papers in *Hardware / Software* and *Papers Worth
 - Taking the human out of the loop: A review of bayesian optimization (2016), B. Shahriari et al. [[pdf]](https://www.cs.ox.ac.uk/people/nando.defreitas/publications/BayesOptLoop.pdf)
 - Eie: Efficient inference engine on compressed deep neural network (2016), S. Han et al. [[pdf]](http://arxiv.org/pdf/1602.01528)
 - Adaptive Computation Time for Recurrent Neural Networks (2016), A. Graves [[pdf]](http://arxiv.org/pdf/1603.08983)
+- Pixel Recurrent Neural Networks (2016), A. van den Oord, et al. [[pdf]](http://arxiv.org/pdf/1601.06759v2.pdf)
 - Recent Advances in Convolutional Neural Networks (2015), J. Gu et al.(http://arxiv.org/pdf/1512.07108)
 - LSTM: A search space odyssey (2015), K. Greff et al. [[pdf]](http://arxiv.org/pdf/1503.04069)
-- Pixel Recurrent Neural Networks (2016), A. van den Oord, et al. [[pdf]](http://arxiv.org/pdf/1601.06759v2.pdf)
 
 ### Distinguished Researchers
 *Distinguished deep learning researchers who have published +3 (:sparkles: +6) papers which are on the awesome list*
