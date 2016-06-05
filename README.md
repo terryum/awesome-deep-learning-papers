@@ -158,13 +158,14 @@ Total 85 papers except for the papers in *Hardware / Software* and *Papers Worth
 
 ### Papers Worth Reading
 *Newly released papers which do not meet the criteria but worth reading*
+- Understanding Convolutional Neural Networks (2016), J. Koushik [[pdf]](https://arxiv.org/pdf/1605.09081v1)
 - SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 1MB model size (2016), F. Iandola et al. [[pdf]](http://arxiv.org/pdf/1602.07360)
 - Learning to Compose Neural Networks for Question Answering (2016), J. Andreas et al. [[pdf]](http://arxiv.org/pdf/1601.01705)
 - Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection (2016) *(Google)*, S. Levine et al. [[pdf]](http://arxiv.org/pdf/1603.02199v3)
 - Taking the human out of the loop: A review of bayesian optimization (2016), B. Shahriari et al. [[pdf]](https://www.cs.ox.ac.uk/people/nando.defreitas/publications/BayesOptLoop.pdf)
 - Eie: Efficient inference engine on compressed deep neural network (2016), S. Han et al. [[pdf]](http://arxiv.org/pdf/1602.01528)
 - Adaptive Computation Time for Recurrent Neural Networks (2016), A. Graves [[pdf]](http://arxiv.org/pdf/1603.08983)
-- Pixel Recurrent Neural Networks (2016), A. van den Oord, et al. [[pdf]](http://arxiv.org/pdf/1601.06759v2.pdf)
+- Pixel Recurrent Neural Networks (2016), A. van den Oord et al. *(DeepMind)* [[pdf]](http://arxiv.org/pdf/1601.06759v2.pdf)
 - Recent Advances in Convolutional Neural Networks (2015), J. Gu et al.(http://arxiv.org/pdf/1512.07108)
 - LSTM: A search space odyssey (2015), K. Greff et al. [[pdf]](http://arxiv.org/pdf/1503.04069)
 
