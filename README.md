@@ -196,6 +196,7 @@ Total 85 papers except for the papers in *Hardware / Software* and *Papers Worth
 - [Jeff Donahue](https://scholar.google.ca/citations?hl=en&user=UfbuDH8AAAAJ), *U.C. Berkeley*
 - [Juergen Schmidhuber](https://scholar.google.ca/citations?user=gLnCTgIAAAAJ), *Swiss AI Lab IDSIA*
 - [Li Fei-Fei](https://scholar.google.ca/citations?hl=en&user=rDfyQnIAAAAJ), *Stanford University*
+- [Oriol Vinyals](https://scholar.google.ca/citations?user=NkzyCvUAAAAJ), *Google DeepMind*
 - [Pascal Vincent](https://scholar.google.ca/citations?user=WBCKQMsAAAAJ), *University of Montreal*
 - [Rob Fergus](https://scholar.google.ca/citations?user=GgQ9GEkAAAAJ), *Facebook, New York University*
 - [Ruslan Salakhutdinov](https://scholar.google.ca/citations?user=ITZ1e7MAAAAJ), *CMU*
@@ -208,7 +209,7 @@ Thank you for all your contributions. Please make sure to read the [contributing
 
 You can follow my [facebook page](https://www.facebook.com/terryum.io/) or [google plus](https://plus.google.com/+TerryTaeWoongUm/) to get useful information about machine learning and robotics. If you want to have a talk with me, please send me a message to my [facebook page](https://www.facebook.com/terryum.io/).
 
-You can also check out my [blog](http://terryum.io/) where I share my thoughts on my research area (deep learning for human/robot motions). Thank you!
+You can also check out my [blog](http://terryum.io/) where I share my thoughts on my research area (deep learning for human/robot motions). I got some thoughts while making this list and summerized them in a blog post, ["Some trends of deep learning researches"](http://terryum.io/ml_theory/2016/06/05/DeepLearningPapers/).
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
