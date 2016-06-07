@@ -158,6 +158,7 @@ Total 85 papers except for the papers in *Hardware / Software* and *Papers Worth
 
 ### Papers Worth Reading
 *Newly released papers which do not meet the criteria but worth reading*
+- Adversarially Learned Inference (2016), V. Dumoulin et al. [[web]](https://ishmaelbelghazi.github.io/ALI/)[[pdf]](https://arxiv.org/pdf/1606.00704v1)
 - Understanding Convolutional Neural Networks (2016), J. Koushik [[pdf]](https://arxiv.org/pdf/1605.09081v1)
 - SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 1MB model size (2016), F. Iandola et al. [[pdf]](http://arxiv.org/pdf/1602.07360)
 - Learning to Compose Neural Networks for Question Answering (2016), J. Andreas et al. [[pdf]](http://arxiv.org/pdf/1601.01705)
