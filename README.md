@@ -169,6 +169,7 @@ Total 85 papers except for the papers in *Hardware / Software* and *Papers Worth
 - Pixel Recurrent Neural Networks (2016), A. van den Oord et al. *(DeepMind)* [[pdf]](http://arxiv.org/pdf/1601.06759v2.pdf)
 - Recent Advances in Convolutional Neural Networks (2015), J. Gu et al.(http://arxiv.org/pdf/1512.07108)
 - LSTM: A search space odyssey (2015), K. Greff et al. [[pdf]](http://arxiv.org/pdf/1503.04069)
+- Training very deep networks (2015), R. Srivastava et al. [[pdf]](http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf)
 
 ### Distinguished Researchers
 *Distinguished deep learning researchers who have published +3 (:sparkles: +6) papers which are on the awesome list*
