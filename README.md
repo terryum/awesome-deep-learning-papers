@@ -143,7 +143,6 @@ Total 85 papers except for the papers in *Hardware / Software* and *Papers Worth
 - Generative adversarial nets (2014), I. Goodfellow et al. *(Bengio)* [[pdf]](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
 - Auto-Encoding Variational Bayes (2013), D. Kingma and M. Welling [[pdf]](http://arxiv.org/pdf/1312.6114)
 - Building high-level features using large scale unsupervised learning (2013), Q. Le et al. [[pdf]](http://arxiv.org/pdf/1112.6209) :sparkles:
-- Contractive auto-encoders: Explicit invariance during feature extraction (2011), S. Rifai et al. *(Bengio)* [[pdf]](http://machinelearning.wustl.edu/mlpapers/paper_files/ICML2011Rifai_455.pdf)
 - An analysis of single-layer networks in unsupervised feature learning (2011), A. Coates et al. [[pdf]](http://machinelearning.wustl.edu/mlpapers/paper_files/AISTATS2011_CoatesNL11.pdf)
 - Stacked denoising autoencoders: Learning useful representations in a deep network with a local denoising criterion (2010), P. Vincent et al. *(Bengio)* [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.297.3484&rep=rep1&type=pdf)
 - A practical guide to training restricted boltzmann machines (2010), G. Hinton [[pdf]](http://www.csri.utoronto.ca/~hinton/absps/guideTR.pdf)
@@ -167,7 +166,6 @@ Total 85 papers except for the papers in *Hardware / Software* and *Papers Worth
 - Eie: Efficient inference engine on compressed deep neural network (2016), S. Han et al. [[pdf]](http://arxiv.org/pdf/1602.01528)
 - Adaptive Computation Time for Recurrent Neural Networks (2016), A. Graves [[pdf]](http://arxiv.org/pdf/1603.08983)
 - Pixel Recurrent Neural Networks (2016), A. van den Oord et al. *(DeepMind)* [[pdf]](http://arxiv.org/pdf/1601.06759v2.pdf)
-- Recent Advances in Convolutional Neural Networks (2015), J. Gu et al.(http://arxiv.org/pdf/1512.07108)
 - LSTM: A search space odyssey (2015), K. Greff et al. [[pdf]](http://arxiv.org/pdf/1503.04069)
 - Training very deep networks (2015), R. Srivastava et al. [[pdf]](http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf)
 
