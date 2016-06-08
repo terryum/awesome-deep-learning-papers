@@ -173,6 +173,7 @@ Total 85 papers except for the papers in *Hardware / Software* and *Papers Worth
 
 ### Distinguished Researchers
 *Distinguished deep learning researchers who have published +3 (:sparkles: +6) papers which are on the awesome list*
+ (The papers in *Hardware / Software* and *Papers Worth Reading* sections are excluded in counting.)
 
 - [Jian Sun](https://scholar.google.ca/citations?user=ALVSZAYAAAAJ), *Microsoft Research* :sparkles:
 - [Geoffrey Hinton](https://scholar.google.ca/citations?user=JicYPdAAAAAJ), *Google, University of Toronto* :sparkles:
@@ -217,4 +218,3 @@ You can also check out my [blog](http://terryum.io/) where I share my thoughts o
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Terry T. Um](https://www.facebook.com/terryum.io/) has waived all copyright and related or neighboring rights to this work.
-
