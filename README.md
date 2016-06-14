@@ -158,6 +158,7 @@ Total 85 papers except for the papers in *Hardware / Software*, *Papers Worth Re
 
 ### Papers Worth Reading
 *Newly released papers which do not meet the criteria but worth reading*
+- Identity Mappings in Deep Residual Networks (2016), K. He et al. *(Microsoft)* [[pdf]](https://arxiv.org/pdf/1603.05027v2.pdf)
 - Adversarially learned inference (2016), V. Dumoulin et al. [[web]](https://ishmaelbelghazi.github.io/ALI/)[[pdf]](https://arxiv.org/pdf/1606.00704v1)
 - Understanding convolutional neural networks (2016), J. Koushik [[pdf]](https://arxiv.org/pdf/1605.09081v1)
 - SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 1MB model size (2016), F. Iandola et al. [[pdf]](http://arxiv.org/pdf/1602.07360)
