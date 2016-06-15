@@ -34,10 +34,10 @@ I believe that there exist *classic* deep learning papers which are worth readin
 * [Unsupervised](#unsupervised)
 * [Hardware / Software](#hardware--software)
 * [Papers Worth Reading](#papers-worth-reading)
-* [Classic papers](#classic-papers)
+* [Classic Papers](#classic-papers)
 * [Distinguished Researchers](#distinguished-researchers)
 
-Total 85 papers except for the papers in *Hardware / Software*, *Papers Worth Reading*, and *Classic papers* sections.
+Total 85 papers except for the papers in *Hardware / Software*, *Papers Worth Reading*, and *Classic Papers* sections.
 
 ### Survey / Review
 - Deep learning (Book, 2016), Goodfellow et al. *(Bengio)* [[html]](http://www.deeplearningbook.org/) 
