@@ -192,7 +192,7 @@ Total 85 papers except for the papers in *Hardware / Software*, *Papers Worth Re
 - [Yoshua Bengio](https://scholar.google.ca/citations?user=kukA0LcAAAAJ), *University of Montreal* :sparkles:
 - [Aaron Courville](https://scholar.google.ca/citations?user=km6CP8cAAAAJ), *University of Montreal*
 - [Alex Graves](https://scholar.google.ca/citations?user=DaFHynwAAAAJ), *Google DeepMind*
-- [Andrej Karpathy](https://scholar.google.ca/citations?hl=en&user=l8WuQJgAAAAJ), *Stanford University*
+- [Andrej Karpathy](https://scholar.google.ca/citations?hl=en&user=l8WuQJgAAAAJ), *OpenAI*
 - [Andrew Ng](https://scholar.google.ca/citations?user=JgDKULMAAAAJ), *Baidu*
 - [Andrew Zisserman](https://scholar.google.ca/citations?user=UZ5wscMAAAAJ), *University of Oxford*
 - [Christopher Manning](https://scholar.google.ca/citations?hl=en&user=1zmDOdwAAAAJ), *Stanford University*
@@ -203,7 +203,7 @@ Total 85 papers except for the papers in *Hardware / Software*, *Papers Worth Re
 - [Karen Simonyan](https://scholar.google.ca/citations?user=L7lMQkQAAAAJ), *Google DeepMind*
 - [Kyunghyun Cho](https://scholar.google.ca/citations?user=0RAmmIAAAAAJ), *New York University*
 - [Honglak Lee](https://scholar.google.ca/citations?hl=en&user=fmSHtE8AAAAJ), *University of Michigan*
-- [Ian Goodfellow](https://scholar.google.ca/citations?user=iYN86KEAAAAJ), *Google*
+- [Ian Goodfellow](https://scholar.google.ca/citations?user=iYN86KEAAAAJ), *OpenAI*
 - [Ilya Sutskever](https://scholar.google.ca/citations?user=x04W_mMAAAAJ), *OpenAI* 
 - [Jeff Dean](https://scholar.google.ca/citations?user=NMS69lQAAAAJ), *Google*,
 - [Jeff Donahue](https://scholar.google.ca/citations?hl=en&user=UfbuDH8AAAAJ), *U.C. Berkeley*
