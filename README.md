@@ -158,6 +158,7 @@ Total 85 papers except for the papers in *Hardware / Software*, *Papers Worth Re
 
 ### Papers Worth Reading
 *Newly released papers which do not meet the criteria but worth reading*
+- Learning to learn by gradient descent by gradient descent (2016), M. Andrychowicz et al. *(DeepMind)* [[pdf]](http://arxiv.org/pdf/1606.04474v1)
 - Identity Mappings in Deep Residual Networks (2016), K. He et al. *(Microsoft)* [[pdf]](https://arxiv.org/pdf/1603.05027v2.pdf)
 - Adversarially learned inference (2016), V. Dumoulin et al. [[web]](https://ishmaelbelghazi.github.io/ALI/)[[pdf]](https://arxiv.org/pdf/1606.00704v1)
 - Understanding convolutional neural networks (2016), J. Koushik [[pdf]](https://arxiv.org/pdf/1605.09081v1)
@@ -168,8 +169,6 @@ Total 85 papers except for the papers in *Hardware / Software*, *Papers Worth Re
 - Eie: Efficient inference engine on compressed deep neural network (2016), S. Han et al. [[pdf]](http://arxiv.org/pdf/1602.01528)
 - Adaptive Computation Time for Recurrent Neural Networks (2016), A. Graves [[pdf]](http://arxiv.org/pdf/1603.08983)
 - Pixel recurrent neural networks (2016), A. van den Oord et al. *(DeepMind)* [[pdf]](http://arxiv.org/pdf/1601.06759v2.pdf)
-- LSTM: A search space odyssey (2015), K. Greff et al. [[pdf]](http://arxiv.org/pdf/1503.04069)
-- Training very deep networks (2015), R. Srivastava et al. [[pdf]](http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf)
 
 ### Classic Papers
 *Classic papers (1997~2009) which cause the advent of deep learning era*
