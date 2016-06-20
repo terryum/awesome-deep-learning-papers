@@ -158,6 +158,7 @@ Total 85 papers except for the papers in *Hardware / Software*, *Papers Worth Re
 
 ### Papers Worth Reading
 *Newly released papers which do not meet the criteria but worth reading*
+- Deep neural network architectures for deep reinforcement learning, Z. Wang et al. *(DeepMind)* [[pdf]](http://arxiv.org/pdf/1511.06581.pdf)
 - Learning to learn by gradient descent by gradient descent (2016), M. Andrychowicz et al. *(DeepMind)* [[pdf]](http://arxiv.org/pdf/1606.04474v1)
 - Identity Mappings in Deep Residual Networks (2016), K. He et al. *(Microsoft)* [[pdf]](https://arxiv.org/pdf/1603.05027v2.pdf)
 - Adversarially learned inference (2016), V. Dumoulin et al. [[web]](https://ishmaelbelghazi.github.io/ALI/)[[pdf]](https://arxiv.org/pdf/1606.00704v1)
@@ -198,7 +199,7 @@ Total 85 papers except for the papers in *Hardware / Software*, *Papers Worth Re
 - [David Silver](https://scholar.google.ca/citations?user=-8DNE4UAAAAJ), *Google DeepMind*
 - [Dong Yu](https://scholar.google.ca/citations?hl=en&user=tMY31_gAAAAJ), *Microsoft Research*
 - [Ross Girshick](https://scholar.google.ca/citations?user=W8VIEZgAAAAJ), *Facebook*
-- [Kaiming He](https://scholar.google.ca/citations?user=DhtAFkwAAAAJ), *Microsoft Research* 
+- [Kaiming He](https://scholar.google.ca/citations?user=DhtAFkwAAAAJ), *Facebook* 
 - [Karen Simonyan](https://scholar.google.ca/citations?user=L7lMQkQAAAAJ), *Google DeepMind*
 - [Kyunghyun Cho](https://scholar.google.ca/citations?user=0RAmmIAAAAAJ), *New York University*
 - [Honglak Lee](https://scholar.google.ca/citations?hl=en&user=fmSHtE8AAAAJ), *University of Michigan*
