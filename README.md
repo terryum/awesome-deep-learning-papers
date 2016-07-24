@@ -158,6 +158,7 @@ Total 85 papers except for the papers in *Hardware / Software*, *Papers Worth Re
 
 ### Papers Worth Reading
 *Newly released papers which do not meet the criteria but worth reading*
+- Layer Normalization (2016), J. Ba et al. *(Hinton)* [[pdf]](https://arxiv.org/pdf/1607.06450v1.pdf)
 - Deep neural network architectures for deep reinforcement learning, Z. Wang et al. *(DeepMind)* [[pdf]](http://arxiv.org/pdf/1511.06581.pdf)
 - Learning to learn by gradient descent by gradient descent (2016), M. Andrychowicz et al. *(DeepMind)* [[pdf]](http://arxiv.org/pdf/1606.04474v1)
 - Identity Mappings in Deep Residual Networks (2016), K. He et al. *(Microsoft)* [[pdf]](https://arxiv.org/pdf/1603.05027v2.pdf)
