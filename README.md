@@ -85,6 +85,7 @@ Total 85 papers except for the papers in *Hardware / Software*, *Papers Worth Re
 - Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (2015), S. Ren et al. [[pdf]](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf)  :sparkles:
 - DRAW: A recurrent neural network for image generation (2015), K. Gregor et al. [[pdf]](http://arxiv.org/pdf/1502.04623)
 - Rich feature hierarchies for accurate object detection and semantic segmentation (2014), R. Girshick et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf) :sparkles:
+- Learning a Deep Convolutional Network for Image Super-Resolution (2014), C. Dong et al. [[pdf]](https://www.researchgate.net/profile/Chen_Change_Loy/publication/264552416_Learning_a_Deep_Convolutional_Network_for_Image_Super-Resolution/links/53e583e50cf25d674e9c280e.pdf) 
 - Learning and transferring mid-Level image representations using convolutional neural networks (2014), M. Oquab et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Oquab_Learning_and_Transferring_2014_CVPR_paper.pdf)
 - DeepFace: Closing the Gap to Human-Level Performance in Face Verification (2014), Y. Taigman et al. *(Facebook)* [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Taigman_DeepFace_Closing_the_2014_CVPR_paper.pdf) :sparkles:
 - Decaf: A deep convolutional activation feature for generic visual recognition (2013), J. Donahue et al. [[pdf]](http://arxiv.org/pdf/1310.1531) :sparkles:
@@ -186,7 +187,6 @@ Total 85 papers except for the papers in *Hardware / Software*, *Papers Worth Re
 *Distinguished deep learning researchers who have published +3 (:sparkles: +6) papers which are on the awesome list*
  (The papers in *Hardware / Software*, *Papers Worth Reading*, *Classic Papers* sections are excluded in counting.)
 
-- [Jian Sun](https://scholar.google.ca/citations?user=ALVSZAYAAAAJ), *Microsoft Research* :sparkles:
 - [Geoffrey Hinton](https://scholar.google.ca/citations?user=JicYPdAAAAAJ), *Google, University of Toronto* :sparkles:
 - [Quoc Le](https://scholar.google.ca/citations?user=vfT6-XIAAAAJ), *Google* :sparkles:
 - [Yann LeCun](https://scholar.google.ca/citations?user=WLN3QrAAAAAJ), *Facebook, New York University* :sparkles:
@@ -208,6 +208,7 @@ Total 85 papers except for the papers in *Hardware / Software*, *Papers Worth Re
 - [Ilya Sutskever](https://scholar.google.ca/citations?user=x04W_mMAAAAJ), *OpenAI* 
 - [Jeff Dean](https://scholar.google.ca/citations?user=NMS69lQAAAAJ), *Google*,
 - [Jeff Donahue](https://scholar.google.ca/citations?hl=en&user=UfbuDH8AAAAJ), *U.C. Berkeley*
+- [Jian Sun](https://scholar.google.ca/citations?user=ALVSZAYAAAAJ), *Microsoft Research*
 - [Juergen Schmidhuber](https://scholar.google.ca/citations?user=gLnCTgIAAAAJ), *Swiss AI Lab IDSIA*
 - [Li Fei-Fei](https://scholar.google.ca/citations?hl=en&user=rDfyQnIAAAAJ), *Stanford University*
 - [Oriol Vinyals](https://scholar.google.ca/citations?user=NkzyCvUAAAAJ), *Google DeepMind*
