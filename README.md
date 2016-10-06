@@ -43,6 +43,7 @@ Total 85 papers except for the papers in *Hardware / Software*, *Papers Worth Re
 - Deep learning (Book, 2016), Goodfellow et al. *(Bengio)* [[html]](http://www.deeplearningbook.org/) 
 - Deep learning (2015), Y. LeCun, Y. Bengio and G. Hinton [[html]](http://www.nature.com/nature/journal/v521/n7553/abs/nature14539.html) :sparkles:
 - Deep learning in neural networks: An overview (2015), J. Schmidhuber [[pdf]](http://arxiv.org/pdf/1404.7828) :sparkles:
+- Deep Learning: Methods and Applications (2014) Li Deng, Dong Yu, NOW Publishers. [[pdf]]([[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/DeepLearning-NowPublishing-Vol7-SIG-039.pdf)
 - Representation learning: A review and new perspectives (2013), Y. Bengio et al. [[pdf]](http://arxiv.org/pdf/1206.5538) :sparkles:
 
 ### Theory / Future
@@ -190,6 +191,7 @@ Total 85 papers except for the papers in *Hardware / Software*, *Papers Worth Re
 
 - [Geoffrey Hinton](https://scholar.google.ca/citations?user=JicYPdAAAAAJ), *Google, University of Toronto* :sparkles:
 - [Quoc Le](https://scholar.google.ca/citations?user=vfT6-XIAAAAJ), *Google* :sparkles:
+- [Li Deng](http://scholar.google.com/citations?user=GQWTo4MAAAAJ&hl=en), *MSR* :sparkles:
 - [Yann LeCun](https://scholar.google.ca/citations?user=WLN3QrAAAAAJ), *Facebook, New York University* :sparkles:
 - [Yoshua Bengio](https://scholar.google.ca/citations?user=kukA0LcAAAAJ), *University of Montreal* :sparkles:
 - [Aaron Courville](https://scholar.google.ca/citations?user=km6CP8cAAAAJ), *University of Montreal*
