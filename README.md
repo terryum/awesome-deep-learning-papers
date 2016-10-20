@@ -41,7 +41,7 @@ Total 85 papers except for the papers in *Hardware / Software*, *Papers Worth Re
 
 ### Survey / Review
 - Deep learning (Book, 2016), Goodfellow et al. *(Bengio)* [[html]](http://www.deeplearningbook.org/) 
-- Deep learning (2015), Y. LeCun, Y. Bengio and G. Hinton [[html]](http://www.nature.com/nature/journal/v521/n7553/abs/nature14539.html) :sparkles:
+- Deep learning (2015), Y. LeCun, Y. Bengio and G. Hinton [[pdf]](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) :sparkles:
 - Deep learning in neural networks: An overview (2015), J. Schmidhuber [[pdf]](http://arxiv.org/pdf/1404.7828) :sparkles:
 - Representation learning: A review and new perspectives (2013), Y. Bengio et al. [[pdf]](http://arxiv.org/pdf/1206.5538) :sparkles:
 
