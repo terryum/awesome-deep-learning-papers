@@ -133,6 +133,7 @@ Total 85 papers except for the papers in *Hardware / Software*, *Papers Worth Re
 - Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups (2012), G. Hinton et al. [[pdf]](http://www.cs.toronto.edu/~asamir/papers/SPM_DNN_12.pdf) :sparkles:
 - Context-dependent pre-trained deep neural networks for large-vocabulary speech recognition (2012) G. Dahl et al. [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.337.7548&rep=rep1&type=pdf) :sparkles:
 - Acoustic modeling using deep belief networks (2012), A. Mohamed et al. *(Hinton)* [[pdf]](http://www.cs.toronto.edu/~asamir/papers/speechDBN_jrnl.pdf)
+- Wavenet: A Generative Model For Raw Audio (2016), A van den Oord [[pdf]](https://arxiv.org/pdf/1609.03499.pdf)
 
 
 ### RL / Robotics
