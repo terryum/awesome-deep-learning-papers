@@ -78,6 +78,7 @@ Total 85 papers except for the papers in *Hardware / Software*, *Papers Worth Re
 - ImageNet classification with deep convolutional neural networks (2012), A. Krizhevsky et al. *(Hinton)* [[pdf]](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) :sparkles:
 - Large scale distributed deep networks (2012), J. Dean et al. [[pdf]](http://papers.nips.cc/paper/4687-large-scale-distributed-deep-networks.pdf) :sparkles:
 - Deep sparse rectifier neural networks (2011), X. Glorot et al. *(Bengio)* [[pdf]](http://machinelearning.wustl.edu/mlpapers/paper_files/AISTATS2011_GlorotBB11.pdf)
+- WaveNet: A Generative Model for Raw Audio (2016), Aaron van den Oord et al. *(DeepMind)*[[pdf]](https://arxiv.org/pdf/1609.03499v2.pdf)
 
 ### Image
 - Reading text in the wild with convolutional neural networks (2016), M. Jaderberg et al. *(DeepMind)* [[pdf]](http://arxiv.org/pdf/1412.1842)
