@@ -136,7 +136,7 @@ Total 85 papers except for the papers in *Hardware / Software*, *Papers Worth Re
 
 
 ### RL / Robotics
-- Mastering the game of Go with deep neural networks and tree search (2016), D. Silver et al. *(DeepMind)* [[pdf]](Mastering the game of Go with deep neural networks and tree search) :sparkles:
+- Mastering the game of Go with deep neural networks and tree search (2016), D. Silver et al. *(DeepMind)* [[pdf]](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html) :sparkles:
 - Human-level control through deep reinforcement learning (2015), V. Mnih et al. *(DeepMind)* [[pdf]](http://www.davidqiu.com:8888/research/nature14236.pdf) :sparkles:
 - Deep learning for detecting robotic grasps (2015), I. Lenz et al. [[pdf]](http://www.cs.cornell.edu/~asaxena/papers/lenz_lee_saxena_deep_learning_grasping_ijrr2014.pdf)
 - Playing atari with deep reinforcement learning (2013), V. Mnih et al. *(DeepMind)* [[pdf]](http://arxiv.org/pdf/1312.5602.pdf))
