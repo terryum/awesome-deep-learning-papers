@@ -93,6 +93,12 @@ Total 85 papers except for the papers in *Hardware / Software*, *Papers Worth Re
 - Learning hierarchical features for scene labeling (2013), C. Farabet et al. *(LeCun)* [[pdf]](https://hal-enpc.archives-ouvertes.fr/docs/00/74/20/77/PDF/farabet-pami-13.pdf)
 - Learning mid-level features for recognition (2010), Y. Boureau *(LeCun)* [[pdf]](http://ece.duke.edu/~lcarin/boureau-cvpr-10.pdf)
 
+#### Images - Aerial/Maps
+
+- Learning to Detect Roads in High-Resolution Aerial Images (2010), Volodymyr Mnih and Geoffrey E. Hinton. [[pdf]](http://www.cs.toronto.edu/~fritz/absps/road_detection.pdf)
+- Machine learning for Aerial Image Labelling (2013), Volodymyr Mnih. [[pdf]](https://www.cs.toronto.edu/~vmnih/docs/Mnih_Volodymyr_PhD_Thesis.pdf)
+
+
 ### Caption
 - Show, attend and tell: Neural image caption generation with visual attention (2015), K. Xu et al. *(Bengio)* [[pdf]](http://arxiv.org/pdf/1502.03044) :sparkles:
 - Show and tell: A neural image caption generator (2015), O. Vinyals et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Vinyals_Show_and_Tell_2015_CVPR_paper.pdf) :sparkles:
