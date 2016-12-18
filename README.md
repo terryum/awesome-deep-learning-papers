@@ -143,7 +143,8 @@ Total 85 papers except for the papers in *Hardware / Software*, *Papers Worth Re
 
 
 ### Unsupervised
-- CNN Features Off-the-Shelf: An Astounding Baseline for Recognition (2014), A. Razavian et al. [[pdf]](http://www.cv-foundation.org//openaccess/content_cvpr_workshops_2014/W15/papers/Razavian_CNN_Features_Off-the-Shelf_2014_CVPR_paper.pdf) :sparkles:
+- Unsupervised representation learning with deep convolutional generative adversarial networks (2015), A. Radford et al. [[pdf]](https://arxiv.org/pdf/1511.06434v2)
+- CNN features off-the-Shelf: An astounding baseline for recognition (2014), A. Razavian et al. [[pdf]](http://www.cv-foundation.org//openaccess/content_cvpr_workshops_2014/W15/papers/Razavian_CNN_Features_Off-the-Shelf_2014_CVPR_paper.pdf) :sparkles:
 - Generative adversarial nets (2014), I. Goodfellow et al. *(Bengio)* [[pdf]](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
 - Auto-encoding variational Bayes (2013), D. Kingma and M. Welling [[pdf]](http://arxiv.org/pdf/1312.6114)
 - Building high-level features using large scale unsupervised learning (2013), Q. Le et al. [[pdf]](http://arxiv.org/pdf/1112.6209) :sparkles:
