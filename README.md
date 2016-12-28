@@ -1,10 +1,10 @@
-# Awesome - Most Cited Deep Learning Papers 
+# Awesome - Most Cited Deep Learning Papers
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of the most cited deep learning papers (since 2010)
 
-I believe that there exist *classic* deep learning papers which are worth reading regardless of their applications. Rather than providing overwhelming amount of papers, I would like to provide a *curated list* of the classic deep learning papers which can be considered as *must-reads* in some area. 
+I believe that there exist *classic* deep learning papers which are worth reading regardless of their applications. Rather than providing overwhelming amount of papers, I would like to provide a *curated list* of the classic deep learning papers which can be considered as *must-reads* in some area.
 
 ## Awesome list criteria
 
@@ -18,7 +18,7 @@ I believe that there exist *classic* deep learning papers which are worth readin
 
 *I need your contributions! Please read the [contributing guide](https://github.com/terryum/awesome-deep-learning-papers/blob/master/Contributing.md) before you make a pull request.*
 
-## Table of Contents 
+## Table of Contents
 
 * [Survey / Review](#survey--review)
 * [Theory / Future](#theory--future)
@@ -40,7 +40,7 @@ I believe that there exist *classic* deep learning papers which are worth readin
 Total 85 papers except for the papers in *Hardware / Software*, *Papers Worth Reading*, and *Classic Papers* sections.
 
 ### Survey / Review
-- Deep learning (Book, 2016), Goodfellow et al. *(Bengio)* [[html]](http://www.deeplearningbook.org/) 
+- Deep learning (Book, 2016), Goodfellow et al. *(Bengio)* [[html]](http://www.deeplearningbook.org/)
 - Deep learning (2015), Y. LeCun, Y. Bengio and G. Hinton [[pdf]](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) :sparkles:
 - Deep learning in neural networks: An overview (2015), J. Schmidhuber [[pdf]](http://arxiv.org/pdf/1404.7828) :sparkles:
 - Representation learning: A review and new perspectives (2013), Y. Bengio et al. [[pdf]](http://arxiv.org/pdf/1206.5538) :sparkles:
@@ -86,7 +86,7 @@ Total 85 papers except for the papers in *Hardware / Software*, *Papers Worth Re
 - Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (2015), S. Ren et al. [[pdf]](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf)  :sparkles:
 - DRAW: A recurrent neural network for image generation (2015), K. Gregor et al. [[pdf]](http://arxiv.org/pdf/1502.04623)
 - Rich feature hierarchies for accurate object detection and semantic segmentation (2014), R. Girshick et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf) :sparkles:
-- Learning a Deep Convolutional Network for Image Super-Resolution (2014), C. Dong et al. [[pdf]](https://www.researchgate.net/profile/Chen_Change_Loy/publication/264552416_Learning_a_Deep_Convolutional_Network_for_Image_Super-Resolution/links/53e583e50cf25d674e9c280e.pdf) 
+- Learning a Deep Convolutional Network for Image Super-Resolution (2014), C. Dong et al. [[pdf]](https://www.researchgate.net/profile/Chen_Change_Loy/publication/264552416_Learning_a_Deep_Convolutional_Network_for_Image_Super-Resolution/links/53e583e50cf25d674e9c280e.pdf)
 - Learning and transferring mid-Level image representations using convolutional neural networks (2014), M. Oquab et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Oquab_Learning_and_Transferring_2014_CVPR_paper.pdf)
 - DeepFace: Closing the Gap to Human-Level Performance in Face Verification (2014), Y. Taigman et al. *(Facebook)* [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Taigman_DeepFace_Closing_the_2014_CVPR_paper.pdf) :sparkles:
 - Decaf: A deep convolutional activation feature for generic visual recognition (2013), J. Donahue et al. [[pdf]](http://arxiv.org/pdf/1310.1531) :sparkles:
@@ -176,6 +176,7 @@ Total 85 papers except for the papers in *Hardware / Software*, *Papers Worth Re
 - Eie: Efficient inference engine on compressed deep neural network (2016), S. Han et al. [[pdf]](http://arxiv.org/pdf/1602.01528)
 - Adaptive Computation Time for Recurrent Neural Networks (2016), A. Graves [[pdf]](http://arxiv.org/pdf/1603.08983)
 - Pixel recurrent neural networks (2016), A. van den Oord et al. *(DeepMind)* [[pdf]](http://arxiv.org/pdf/1601.06759v2.pdf)
+- Densely connected convolutional networks (2016), G. Huang et al. [[pdf]](https://arxiv.org/pdf/1608.06993v1)
 
 ### Classic Papers
 *Classic papers (1997~2009) which cause the advent of deep learning era*
@@ -184,7 +185,7 @@ Total 85 papers except for the papers in *Hardware / Software*, *Papers Worth Re
 - Greedy layer-wise training of deep networks (2007), Y. Bengio et al. [[pdf]](http://machinelearning.wustl.edu/mlpapers/paper_files/NIPS2006_739.pdf)
 - Reducing the dimensionality of data with neural networks, G. Hinton and R. Salakhutdinov. [[pdf]](http://homes.mpimf-heidelberg.mpg.de/~mhelmsta/pdf/2006%20Hinton%20Salakhudtkinov%20Science.pdf)
 - A fast learning algorithm for deep belief nets (2006), G. Hinton et al. [[pdf]](http://nuyoo.utm.mx/~jjf/rna/A8%20A%20fast%20learning%20algorithm%20for%20deep%20belief%20nets.pdf)
-- Gradient-based learning applied to document recognition (1998), Y. LeCun et al. [[pdf]](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf) 
+- Gradient-based learning applied to document recognition (1998), Y. LeCun et al. [[pdf]](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
 - Long short-term memory (1997), S. Hochreiter and J. Schmidhuber. [[pdf]](http://www.mitpressjournals.org/doi/pdfplus/10.1162/neco.1997.9.8.1735)
 
 ### Distinguished Researchers
@@ -204,12 +205,12 @@ Total 85 papers except for the papers in *Hardware / Software*, *Papers Worth Re
 - [David Silver](https://scholar.google.ca/citations?user=-8DNE4UAAAAJ), *Google DeepMind*
 - [Dong Yu](https://scholar.google.ca/citations?hl=en&user=tMY31_gAAAAJ), *Microsoft Research*
 - [Ross Girshick](https://scholar.google.ca/citations?user=W8VIEZgAAAAJ), *Facebook*
-- [Kaiming He](https://scholar.google.ca/citations?user=DhtAFkwAAAAJ), *Facebook* 
+- [Kaiming He](https://scholar.google.ca/citations?user=DhtAFkwAAAAJ), *Facebook*
 - [Karen Simonyan](https://scholar.google.ca/citations?user=L7lMQkQAAAAJ), *Google DeepMind*
 - [Kyunghyun Cho](https://scholar.google.ca/citations?user=0RAmmIAAAAAJ), *New York University*
 - [Honglak Lee](https://scholar.google.ca/citations?hl=en&user=fmSHtE8AAAAJ), *University of Michigan*
 - [Ian Goodfellow](https://scholar.google.ca/citations?user=iYN86KEAAAAJ), *OpenAI*
-- [Ilya Sutskever](https://scholar.google.ca/citations?user=x04W_mMAAAAJ), *OpenAI* 
+- [Ilya Sutskever](https://scholar.google.ca/citations?user=x04W_mMAAAAJ), *OpenAI*
 - [Jeff Dean](https://scholar.google.ca/citations?user=NMS69lQAAAAJ), *Google*,
 - [Jeff Donahue](https://scholar.google.ca/citations?hl=en&user=UfbuDH8AAAAJ), *U.C. Berkeley*
 - [Jian Sun](https://scholar.google.ca/citations?user=ALVSZAYAAAAJ), *Microsoft Research*
@@ -220,7 +221,7 @@ Total 85 papers except for the papers in *Hardware / Software*, *Papers Worth Re
 - [Rob Fergus](https://scholar.google.ca/citations?user=GgQ9GEkAAAAJ), *Facebook, New York University*
 - [Ruslan Salakhutdinov](https://scholar.google.ca/citations?user=ITZ1e7MAAAAJ), *CMU*
 - [Tomas Mikolov](https://scholar.google.ca/citations?hl=en&user=oBu8kMMAAAAJ), *Facebook*
-- [Trevor Darrell](https://scholar.google.ca/citations?user=bh-uRFMAAAAJ), *U.C. Berkeley* 
+- [Trevor Darrell](https://scholar.google.ca/citations?user=bh-uRFMAAAAJ), *U.C. Berkeley*
 
 ## Acknowledgement
 
