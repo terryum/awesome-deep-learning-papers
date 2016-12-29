@@ -73,6 +73,7 @@ Total 85 papers except for the papers in *Hardware / Software*, *Papers Worth Re
 - Region-based convolutional networks for accurate object detection and segmentation (2016), R. Girshick et al. *(He)* [[pdf]](https://www.cs.berkeley.edu/~rbg/papers/pami/rcnn_pami.pdf)
 - Going deeper with convolutions (2015), C. Szegedy et al. *(Google)* [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf) :sparkles:
 - Fast R-CNN (2015), R. Girshick *(He)* [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf) :sparkles:
+- An Empirical Exploration of Recurrent Network Architectures (2015), R. Jozefowicz et al. *Sutskever: Google* [[pdf]](http://www.jmlr.org/proceedings/papers/v37/jozefowicz15.pdf)
 - Fully convolutional networks for semantic segmentation (2015), J. Long et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf) :sparkles:
 - Very deep convolutional networks for large-scale image recognition (2014), K. Simonyan and A. Zisserman [[pdf]](http://arxiv.org/pdf/1409.1556) :sparkles:
 - OverFeat: Integrated recognition, localization and detection using convolutional networks (2014), P. Sermanet et al. *(LeCun)* [[pdf]](http://arxiv.org/pdf/1312.6229)
@@ -83,8 +84,6 @@ Total 85 papers except for the papers in *Hardware / Software*, *Papers Worth Re
 - Large scale distributed deep networks (2012), J. Dean et al. [[pdf]](http://papers.nips.cc/paper/4687-large-scale-distributed-deep-networks.pdf) :sparkles:
 - Deep sparse rectifier neural networks (2011), X. Glorot et al. *(Bengio)* [[pdf]](http://machinelearning.wustl.edu/mlpapers/paper_files/AISTATS2011_GlorotBB11.pdf)
 
-### RNN / LSTM
-- An Empirical Exploration of Recurrent Network Architectures (2015), R. Jozefowicz et al. *Sutskever: Google* [[pdf]](http://www.jmlr.org/proceedings/papers/v37/jozefowicz15.pdf)
 
 ### Unsupervised / Adversarial
 - Unsupervised representation learning with deep convolutional generative adversarial networks (2015), A. Radford et al. [[pdf]](https://arxiv.org/pdf/1511.06434v2)
@@ -97,20 +96,14 @@ Total 85 papers except for the papers in *Hardware / Software*, *Papers Worth Re
 - Stacked denoising autoencoders: Learning useful representations in a deep network with a local denoising criterion (2010), P. Vincent et al. *(Bengio)* [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.297.3484&rep=rep1&type=pdf)
 - A practical guide to training restricted boltzmann machines (2010), G. Hinton [[pdf]](http://www.csri.utoronto.ca/~hinton/absps/guideTR.pdf)
 
-
-### Image: Segmentation
-
-### Image: Object detection
-- Scalable object detection using deep neural networks (2014), D. Erhan et al. *(Google)* [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Erhan_Scalable_Object_Detection_2014_CVPR_paper.pdf)
-
-
-### Image: Super-resolution, etc.
+### Image
 - Image Super-Resolution Using Deep Convolutional Networks (2016), C. Dong et al. *(He)* [[pdf]](https://arxiv.org/pdf/1501.00092v3.pdf)  :sparkles:
 - Reading text in the wild with convolutional neural networks (2016), M. Jaderberg et al. *(DeepMind)* [[pdf]](http://arxiv.org/pdf/1412.1842)
 - Learning Deconvolution Network for Semantic Segmentation (2015), H. Noh et al. [[pdf]](https://arxiv.org/pdf/1505.04366v1)
 - Imagenet large scale visual recognition challenge (2015), O. Russakovsky et al. [[pdf]](http://arxiv.org/pdf/1409.0575) :sparkles:
 - Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (2015), S. Ren et al. [[pdf]] (http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf) :sparkles:
 - DRAW: A recurrent neural network for image generation (2015), K. Gregor et al. [[pdf]](http://arxiv.org/pdf/1502.04623)
+- Scalable object detection using deep neural networks (2014), D. Erhan et al. *(Google)* [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Erhan_Scalable_Object_Detection_2014_CVPR_paper.pdf)
 - Learning a Deep Convolutional Network for Image Super-Resolution (2014, C. Dong et al. *(He)* [[pdf]](https://www.researchgate.net/profile/Chen_Change_Loy/publication/264552416_Lecture_Notes_in_Computer_Science/links/53e583e50cf25d674e9c280e.pdf)
 - Rich feature hierarchies for accurate object detection and semantic segmentation (2014), R. Girshick et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf) :sparkles:
 - Learning a Deep Convolutional Network for Image Super-Resolution (2014), C. Dong et al. [[pdf]](https://www.researchgate.net/profile/Chen_Change_Loy/publication/264552416_Learning_a_Deep_Convolutional_Network_for_Image_Super-Resolution/links/53e583e50cf25d674e9c280e.pdf)
@@ -178,7 +171,6 @@ Total 85 papers except for the papers in *Hardware / Software*, *Papers Worth Re
 - Human-level control through deep reinforcement learning (2015), V. Mnih et al. *(DeepMind)* [[pdf]](http://www.davidqiu.com:8888/research/nature14236.pdf) :sparkles:
 - Deep learning for detecting robotic grasps (2015), I. Lenz et al. [[pdf]](http://www.cs.cornell.edu/~asaxena/papers/lenz_lee_saxena_deep_learning_grasping_ijrr2014.pdf)
 - Playing atari with deep reinforcement learning (2013), V. Mnih et al. *(DeepMind)* [[pdf]](http://arxiv.org/pdf/1312.5602.pdf))
-
 
 
 
