@@ -22,7 +22,7 @@ I believe that there exist *classic* deep learning papers which are worth readin
 ## Table of Contents
 
 * [Book / Survey / Review](#survey--review)
-* [Theory / Distillation](#theory--future)
+* [Theory / Distillation](#theory--distillation)
 * [Optimization / Regularization](#optimization--regularization)
 * [Network Models](#network-models)
 * [Image](#image)
