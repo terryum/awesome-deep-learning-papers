@@ -183,6 +183,7 @@ Total 85 papers except for the papers in *Hardware / Software*, *Papers Worth Re
 
 ### Papers Worth Reading
 *Newly released papers which do not meet the criteria but worth reading*
+- Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models, S. Ioffe. *(Google)* [[pdf]](https://arxiv.org/abs/1702.03275)
 - WaveNet: A Generative Model for Raw Audio (2016), A. Oord et al. *(DeepMind)* [[pdf]](https://arxiv.org/pdf/1609.03499v2) [[web]](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
 - Layer Normalization (2016), J. Ba et al. *(Hinton)* [[pdf]](https://arxiv.org/pdf/1607.06450v1.pdf)
 - Deep neural network architectures for deep reinforcement learning, Z. Wang et al. *(DeepMind)* [[pdf]](http://arxiv.org/pdf/1511.06581.pdf)
@@ -255,9 +256,7 @@ Total 85 papers except for the papers in *Hardware / Software*, *Papers Worth Re
 
 Thank you for all your contributions. Please make sure to read the [contributing guide](https://github.com/terryum/awesome-deep-learning-papers/blob/master/Contributing.md) before you make a pull request.
 
-You can follow my [facebook page](https://www.facebook.com/terryum.io/) or [google plus](https://plus.google.com/+TerryTaeWoongUm/) to get useful information about machine learning and robotics. If you want to have a talk with me, please send me a message to my [facebook page](https://www.facebook.com/terryum.io/).
-
-You can also check out my [blog](http://terryum.io/) where I share my thoughts on my research area (deep learning for human/robot motions). I got some thoughts while making this list and summerized them in a blog post, ["Some trends of recent deep learning researches"](http://terryum.io/ml_theory/2016/06/05/DeepLearningPapers/).
+You can follow my [facebook page](https://www.facebook.com/terryum.io/), [twitter](https://twitter.com/TerryUm_ML) or [google plus](https://plus.google.com/+TerryTaeWoongUm/) to get useful information about machine learning and deep learning.
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
