@@ -23,7 +23,6 @@ We believe that there exist *classic* deep learning papers which are worth readi
 
 ## Table of Contents
 
-
 * [Understanding / Generalization](#understanding--generalization)
 * [Optimization / Training Technique](#optimization--training-technique)
 * [Unsupervised Learning / GAN](#unsupervised-learning--gan)
