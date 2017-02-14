@@ -20,13 +20,13 @@ Although the *Roadmap List* includes lots of important deep learning papers, it 
 4. Please refer to *New Papers* and *Old Papers* sections for the papers published in recent 6 months or before 2012.
 
 *(Citation criteria)*
-- **< 6 months** : can be added to *New Papers* section by discussion
+- **< 6 months** : *New Papers* (by discussion)
 - **2016** :  +60 citations 
 - **2015** :  +200 citations 
 - **2014** :  +400 citations 
 - **2013** :  +600 citations 
 - **2012** :  +800 citations
-- **~2012** : can be added to *Old Papers* section by discussion
+- **~2012** : *Old Papers* (by discussion)
 
 Please note that we prefer seminal deep learning papers that can be applied to various researches rather than application papers. For that reason, some papers that meet the criteria may not be accepted while others can be. It depends on the impact of the paper, applicability to other researches scarcity of the research domain, and so on.
 
@@ -50,8 +50,8 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 *(More than Top 100)*
 
-* [New Papers](#new-papers) : < 6 months
-* [Old Papers](#old-papers) : < 2012
+* [New Papers](#new-papers) : Less than 6 months
+* [Old Papers](#old-papers) : Before 2012
 * [HW / SW / Dataset](#hw--sw--dataset) : Technical reports
 * [Book / Survey / Review](#book--survey--review)
 * [Video Lectures / Tutorials / Blogs](#video-lectures--tutorials--blogs) 
@@ -231,6 +231,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 
 ### Appendix: More than Top 100
+*(on the construction...)*
 - Domain-adversarial training of neural networks (2016), Y. Ganin et al. [[pdf]](http://www.jmlr.org/papers/volume17/15-239/source/15-239.pdf)
 - Understanding deep learning requires rethinking generalization, C. Zhang et al. [[pdf]](https://arxiv.org/pdf/1611.03530)
 - WaveNet: A Generative Model for Raw Audio (2016), A. Oord et al. [[pdf]](https://arxiv.org/pdf/1609.03499v2) [[web]](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
