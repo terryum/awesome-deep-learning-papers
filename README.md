@@ -20,12 +20,13 @@ Although the *Roadmap List* includes lots of important deep learning papers, it 
 4. Papers that are published (or preprinted) within 6 months can be listed in *New Papers* section by discussion.
 5. Papers that are published before 2012 can be listed in *Old Papers* section by discussion.
 
+
 - **< 6 months** : can be added to *New Papers* section by discussion
-- **2016** :  +30 citations (:sparkles: +60)
-- **2015** :  +100 citations (:sparkles: +200)
-- **2014** :  +200 citations (:sparkles: +400)
-- **2013** :  +300 citations (:sparkles: +600)
-- **2012** :  +400 citations (:sparkles: +800)
+- **2016** :  +30 citations (Bold +60)
+- **2015** :  +100 citations (Bold +200)
+- **2014** :  +200 citations (Bold +400)
+- **2013** :  +300 citations (Bold +600)
+- **2012** :  +400 citations (Bold +800)
 - **~2011** : can be added to *Old Papers* section by discussion
 
 Please note that we prefer not application papers, but seminal deep learning papers that can help various researches. Thus, some papers that meet the critera may not be accepted while others can be. It depends on the impact of the paper, applicability to other researches scarcity of the research domain, and so on.
@@ -41,34 +42,39 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 * [Optimization / Training Techniques](#optimization--training-techniques)
 * [Unsupervised / Generative Models](#unsupervised--generative-models)
 * [Convolutional Network Models](#convolutional-neural-network-models)
-* [Recurrent Neural Network Models](#recurrent-neural-network-models)
 * [Image Segmentation / Object Detection](#image-segmentation--object-detection)
 * [Visual QnA / Captioning / Video / Etc](#visual-qna--captioning--video--etc)
+* [Recurrent Neural Network Models](#recurrent-neural-network-models)
 * [Natural Language Process](#natural-language-process)
 * [Reinforcement Learning](#reinforcement-learning)
 * [Speech / Other Domain](#speech--other-domain)
+
+*(More than Top 100)*
 
 * [New Papers](#new-papers) : < 6 months
 * [Old Papers](#old-papers) : < 2012
 * [More than Top 100](#more-than-top-100) : Important papers not included in the top 100 list
 * [HW / SW / Dataset](#hw--sw--dataset) : Technical reports
-
 * [Book / Survey / Review](#book--survey--review)
 * [Video Lectures / Tutorials / Blogs](#video-lectures--tutorials--blogs) 
 
+* * *
 
 ### Understanding / Generalization / Transfer
-- Distilling the knowledge in a neural network (2015), G. Hinton et al. *(Hinton, Vinyals, Dean: Google)* [[pdf]](http://arxiv.org/pdf/1503.02531) :sparkles:
+- Distilling the knowledge in a neural network (2015), G. Hinton et al. [[pdf]](http://arxiv.org/pdf/1503.02531) :sparkles:
 - Deep neural networks are easily fooled: High confidence predictions for unrecognizable images (2015), A. Nguyen et al. [[pdf]](http://arxiv.org/pdf/1412.1897)
-- How transferable are features in deep neural networks? (2014), J. Yosinski et al. *(Bengio)* [[pdf]](http://papers.nips.cc/paper/5347-how-transferable-are-features-in-deep-neural-networks.pdf)
+- How transferable are features in deep neural networks? (2014), J. Yosinski et al. [[pdf]](http://papers.nips.cc/paper/5347-how-transferable-are-features-in-deep-neural-networks.pdf)
 - Return of the devil in the details: delving deep into convolutional nets (2014), K. Chatfield et al. [[pdf]](http://arxiv.org/pdf/1405.3531) :sparkles:
-- Why does unsupervised pre-training help deep learning (2010), D. Erhan et al. *(Bengio)* [[pdf]](http://machinelearning.wustl.edu/mlpapers/paper_files/AISTATS2010_ErhanCBV10.pdf)
+- Why does unsupervised pre-training help deep learning (2010), D. Erhan et al. [[pdf]](http://machinelearning.wustl.edu/mlpapers/paper_files/AISTATS2010_ErhanCBV10.pdf)
 - Understanding the difficulty of training deep feedforward neural networks (2010), X. Glorot and Y. Bengio [[pdf]](http://machinelearning.wustl.edu/mlpapers/paper_files/AISTATS2010_GlorotB10.pdf)
 
 ### Optimization / Training Techniques
+- Deep networks with stochastic depth (2016), G. Huang et al., [[pdf]](https://arxiv.org/pdf/1603.09382)
 - Batch normalization: Accelerating deep network training by reducing internal covariate shift (2015), S. Loffe and C. Szegedy *(Google)* [[pdf]](http://arxiv.org/pdf/1502.03167) :sparkles:
+- Fast and accurate deep network learning by exponential linear units (ELUS) (2015), D. Clevert et al. [[pdf]]()
 - Delving deep into rectifiers: Surpassing human-level performance on imagenet classification (2015), K. He et al. *(He)* [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/He_Delving_Deep_into_ICCV_2015_paper.pdf) :sparkles:
-- Recurrent neural network regularization (2014), W. Zaremba et al. *(Sutskever, Vinyals: Google)* [[pdf]](http://arxiv.org/pdf/1409.2329)
+- Training very deep networks (2015), R. Srivastava et al. [[pdf]](http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf)
+- Recurrent neural network regularization (2014), W. Zaremba et al. [[pdf]](http://arxiv.org/pdf/1409.2329)
 - Dropout: A simple way to prevent neural networks from overfitting (2014), N. Srivastava et al. *(Hinton)* [[pdf]](http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf) :sparkles:
 - Adam: A method for stochastic optimization (2014), D. Kingma and J. Ba [[pdf]](http://arxiv.org/pdf/1412.6980)
 - Spatial pyramid pooling in deep convolutional networks for visual recognition (2014), K. He et al. [[pdf]](http://arxiv.org/pdf/1406.4729)  :sparkles:
@@ -80,11 +86,11 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 ### Unsupervised / Generative Models
 - Generative visual manipulation on the natural image manifold (2016), J. Zhu et al. [[pdf]](https://arxiv.org/pdf/1609.03552)
 - Conditional image generation with pixelcnn decoders (2016), A. van den Oord et al. [[pdf]](http://papers.nips.cc/paper/6527-tree-structured-reinforcement-learning-for-sequential-object-localization.pdf)
-- Pixel recurrent neural networks (2016), A. van den Oord et al. *(DeepMind)* [[pdf]](http://arxiv.org/pdf/1601.06759v2.pdf)
+- Pixel recurrent neural networks (2016), A. van den Oord et al. [[pdf]](http://arxiv.org/pdf/1601.06759v2.pdf)
 - Unsupervised representation learning with deep convolutional generative adversarial networks (2015), A. Radford et al. [[pdf]](https://arxiv.org/pdf/1511.06434v2)
 - DRAW: A recurrent neural network for image generation (2015), K. Gregor et al. [[pdf]](http://arxiv.org/pdf/1502.04623)
 - CNN features off-the-Shelf: An astounding baseline for recognition (2014), A. Razavian et al. [[pdf]](http://www.cv-foundation.org//openaccess/content_cvpr_workshops_2014/W15/papers/Razavian_CNN_Features_Off-the-Shelf_2014_CVPR_paper.pdf) :sparkles:
-- Generative adversarial nets (2014), I. Goodfellow et al. *(Bengio)* [[pdf]](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
+- Generative adversarial nets (2014), I. Goodfellow et al. [[pdf]](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
 - Intriguing properties of neural networks (2014), C. Szegedy et al. *(Sutskever, Goodfellow: Google)* [[pdf]](https://arxiv.org/pdf/1312.6199.pdf)
 - Auto-encoding variational Bayes (2013), D. Kingma and M. Welling [[pdf]](http://arxiv.org/pdf/1312.6114)
 - Building high-level features using large scale unsupervised learning (2013), Q. Le et al. [[pdf]](http://arxiv.org/pdf/1112.6209) :sparkles:
@@ -109,15 +115,8 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - Network in network (2013), M. Lin et al. [[pdf]](http://arxiv.org/pdf/1312.4400)
 - ImageNet classification with deep convolutional neural networks (2012), A. Krizhevsky et al. *(Hinton)* [[pdf]](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) :sparkles:
 - Large scale distributed deep networks (2012), J. Dean et al. [[pdf]](http://papers.nips.cc/paper/4687-large-scale-distributed-deep-networks.pdf) :sparkles:
-- Deep sparse rectifier neural networks (2011), X. Glorot et al. *(Bengio)* [[pdf]](http://machinelearning.wustl.edu/mlpapers/paper_files/AISTATS2011_GlorotBB11.pdf)
+- Deep sparse rectifier neural networks (2011), X. Glorot et al. [[pdf]](http://machinelearning.wustl.edu/mlpapers/paper_files/AISTATS2011_GlorotBB11.pdf)
 
-### Recurrent Neural Network Models
-- Hybrid computing using a neural network with dynamic external memory (2016), A. Graves et al. [[pdf]](https://www.gwern.net/docs/2016-graves.pdf)
-- Improved semantic representations from tree-structured long short-term memory networks (2015), K. Tai et al. [[pdf]](https://arxiv.org/pdf/1503.00075)
-- End-to-end memory networks (2015), S. Sukbaatar et al. [[pdf]](http://papers.nips.cc/paper/5846-end-to-end-memory-networks.pdf)
-- Conditional random fields as recurrent neural networks (2015), S. Zheng and S. Jayasumana. [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zheng_Conditional_Random_Fields_ICCV_2015_paper.pdf) :sparkles:
-- Memory networks (2014), J. Weston et al. [[pdf]](https://arxiv.org/pdf/1410.3916)
-- Neural turing machines (2014), A. Graves et al. [[pdf]](https://arxiv.org/pdf/1410.5401)
 
 ### Image: Segmentation / Object Detection
 - Instance-aware semantic segmentation via multi-task network cascades (2016), J. Dai et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Dai_Instance-Aware_Semantic_Segmentation_CVPR_2016_paper.pdf)
@@ -135,6 +134,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 ### Visual QnA / Captioning / Video / Etc
 - Brain tumor segmentation with deep neural networks (2017), M. Havaei et al. *(Bengio)* [[pdf]](https://arxiv.org/pdf/1505.03540)
 - Weakly supervised object localization with multi-fold multiple instance learning (2017), R. Gokberk et al. [[pdf]](https://arxiv.org/pdf/1503.00949)
+- Dynamic memory networks for visual and textual question answering (2016), C. Xiong et al. [[pdf]](http://www.jmlr.org/proceedings/papers/v48/xiong16.pdf)
 - Inside-outside net: Detecting objects in context with skip pooling and recurrent neural networks (2016), S. Bell et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bell_Inside-Outside_Net_Detecting_CVPR_2016_paper.pdf).
 - Perceptual losses for real-time style transfer and super-resolution (2016), J. Johnson et al. [[pdf]](https://arxiv.org/pdf/1603.08155)
 - Colorful image colorization (2016), R. Zhang et al. [[pdf]](https://arxiv.org/pdf/1603.08511) 
@@ -172,13 +172,16 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - Action recognition with improved trajectories (2013), H. Wang and C. Schmid [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Wang_Action_Recognition_with_2013_ICCV_paper.pdf)
 - Learning hierarchical invariant spatio-temporal features for action recognition with independent subspace analysis (2011), Q. Le et al. [[pdf]](http://robotics.stanford.edu/~wzou/cvpr_LeZouYeungNg11.pdf)
 
+### Recurrent Neural Network Models
+- Hybrid computing using a neural network with dynamic external memory (2016), A. Graves et al. [[pdf]](https://www.gwern.net/docs/2016-graves.pdf)
+- Improved semantic representations from tree-structured long short-term memory networks (2015), K. Tai et al. [[pdf]](https://arxiv.org/pdf/1503.00075)
+- End-to-end memory networks (2015), S. Sukbaatar et al. [[pdf]](http://papers.nips.cc/paper/5846-end-to-end-memory-networks.pdf)
+- Conditional random fields as recurrent neural networks (2015), S. Zheng and S. Jayasumana. [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zheng_Conditional_Random_Fields_ICCV_2015_paper.pdf) :sparkles:
+- Memory networks (2014), J. Weston et al. [[pdf]](https://arxiv.org/pdf/1410.3916)
+- Neural turing machines (2014), A. Graves et al. [[pdf]](https://arxiv.org/pdf/1410.5401)
+
+
 ### Natural Language Process
-- Glove: Global vectors for word representation (2014), J. Pennington et al. [[pdf]](http://anthology.aclweb.org/D/D14/D14-1162.pdf) :sparkles:
-- Distributed representations of sentences and documents (2014), Q. Le and T. Mikolov *(Le, Mikolov: Google)* [[pdf]](http://arxiv.org/pdf/1405.4053) *(Google)* :sparkles:
-- Distributed representations of words and phrases and their compositionality (2013), T. Mikolov et al. *(Google)* [[pdf]](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) :sparkles:
-- Efficient estimation of word representations in vector space (2013), T. Mikolov et al. *(Google)* [[pdf]](http://arxiv.org/pdf/1301.3781) :sparkles:
-- Devise: A deep visual-semantic embedding model (2013), A. Frome et al., *(Mikolov: Google)* [[pdf]](http://papers.nips.cc/paper/5204-devise-a-deep-visual-semantic-embedding-model.pdf)
-- Word representations: a simple and general method for semi-supervised learning (2010), J. Turian *(Bengio)* [[pdf]](http://www.anthology.aclweb.org/P/P10/P10-1040.pdf)
 - A Character-Level Decoder without Explicit Segmentation for Neural Machine Translation (2016), J. Chung et al. [[pdf]]
 - A thorough examination of the cnn/daily mail reading comprehension task (2016), D. Chen et al. [[pdf]](https://arxiv.org/pdf/1606.02858)
 - Achieving open vocabulary neural machine translation with hybrid word-character models, M. Luong and C. Manning. [[pdf]](https://arxiv.org/pdf/1604.00788)
@@ -199,6 +202,13 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - Convolutional neural networks for sentence classification (2014), Y. Kim [[pdf]](http://arxiv.org/pdf/1408.5882)
 - Addressing the rare word problem in neural machine translation (2014), M. Luong et al. [[pdf]](https://arxiv.org/pdf/1410.8206)
 - The stanford coreNLP natural language processing toolkit (2014), C. Manning et al. [[pdf]](http://www.surdeanu.info/mihai/papers/acl2014-corenlp.pdf) :sparkles:
+- Glove: Global vectors for word representation (2014), J. Pennington et al. [[pdf]](http://anthology.aclweb.org/D/D14/D14-1162.pdf) :sparkles:
+- Distributed representations of sentences and documents (2014), Q. Le and T. Mikolov *(Le, Mikolov: Google)* [[pdf]](http://arxiv.org/pdf/1405.4053) *(Google)* :sparkles:
+- Distributed representations of words and phrases and their compositionality (2013), T. Mikolov et al. *(Google)* [[pdf]](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) :sparkles:
+- Efficient estimation of word representations in vector space (2013), T. Mikolov et al. *(Google)* [[pdf]](http://arxiv.org/pdf/1301.3781) :sparkles:
+- Devise: A deep visual-semantic embedding model (2013), A. Frome et al., *(Mikolov: Google)* [[pdf]](http://papers.nips.cc/paper/5204-devise-a-deep-visual-semantic-embedding-model.pdf)
+- Word representations: a simple and general method for semi-supervised learning (2010), J. Turian *(Bengio)* [[pdf]](http://www.anthology.aclweb.org/P/P10/P10-1040.pdf)
+
 - Recursive deep models for semantic compositionality over a sentiment treebank (2013), R. Socher et al. [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.383.1327&rep=rep1&type=pdf) :sparkles:
 - Linguistic Regularities in Continuous Space Word Representations (2013), T. Mikolov et al. *(Mikolov: Microsoft)* [[pdf]](http://www.aclweb.org/anthology/N13-1#page=784)
 - Natural language processing (almost) from scratch (2011), R. Collobert et al. [[pdf]](http://arxiv.org/pdf/1103.0398) :sparkles:
@@ -227,7 +237,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - Context-dependent pre-trained deep neural networks for large-vocabulary speech recognition (2012) G. Dahl et al. [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.337.7548&rep=rep1&type=pdf) :sparkles:
 - Acoustic modeling using deep belief networks (2012), A. Mohamed et al. *(Hinton)* [[pdf]](http://www.cs.toronto.edu/~asamir/papers/speechDBN_jrnl.pdf)
 
-
+* * *
 
 ### New papers
 *Newly released papers (< 6 months) which are worth reading*
@@ -258,8 +268,11 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - Gradient-based learning applied to document recognition (1998), Y. LeCun et al. [[pdf]](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
 - Long short-term memory (1997), S. Hochreiter and J. Schmidhuber. [[pdf]](http://www.mitpressjournals.org/doi/pdfplus/10.1162/neco.1997.9.8.1735)
 
-### More than top 100
-
+### More than Top 100
+- Gated Feedback Recurrent Neural Networks (2015), J. Chung et al. [[pdf]](http://www.jmlr.org/proceedings/papers/v37/chung15.pdf)
+- Pointer networks (2015), O. Vinyals et al. [[pdf]](http://papers.nips.cc/paper/5866-pointer-networks.pdf)
+- Visualizing and Understanding Recurrent Networks (2015), A. Karpathy et al. [[pdf]](https://arxiv.org/pdf/1506.02078)
+- Attention-based models for speech recognition (2015), J. Chorowski et al. [[pdf]](http://papers.nips.cc/paper/5847-attention-based-models-for-speech-recognition.pdf)
 
 ### HW / SW / Dataset
 - OpenAI gym (2016), G. Brockman et al. [[pdf]](https://arxiv.org/pdf/1606.01540)
@@ -270,8 +283,10 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 ### Book / Survey / Review
 - Deep learning (Book, 2016), Goodfellow et al. [[html]](http://www.deeplearningbook.org/)
+- LSTM: A search space odyssey (2016), K. Greff et al. [[pdf]](https://arxiv.org/pdf/1503.04069.pdf?utm_content=buffereddc5&utm_medium=social&utm_source=plus.google.com&utm_campaign=buffer)
 - Deep learning (2015), Y. LeCun, Y. Bengio and G. Hinton [[pdf]](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) :sparkles:
 - Deep learning in neural networks: An overview (2015), J. Schmidhuber [[pdf]](http://arxiv.org/pdf/1404.7828) :sparkles:
+
 - Representation learning: A review and new perspectives (2013), Y. Bengio et al. [[pdf]](http://arxiv.org/pdf/1206.5538) :sparkles:
 
 ### Video Lectures / Tutorials / Blogs
