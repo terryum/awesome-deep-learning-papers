@@ -4,7 +4,7 @@
 
 A curated list of the most cited deep learning papers (since 2012)
 
-We believe that there exist *classic* deep learning papers which are worth reading regardless of their application domain. Rather than providing overwhelming amount of papers, We would like to provide a *curated list* of the awewome deep learning papers (less than 150 papers) which are considered as *must-reads* in a certain researh domain.
+We believe that there exist *classic* deep learning papers which are worth reading regardless of their application domain. Rather than providing overwhelming amount of papers, We would like to provide a *curated list* of the awewome deep learning papers which are considered as *must-reads* in certain researh domains.
 
 ## Backgroud
 
