@@ -6,66 +6,58 @@ A curated list of the most cited deep learning papers (since 2012)
 
 We believe that there exist *classic* deep learning papers which are worth reading regardless of their application domain. Rather than providing overwhelming amount of papers, We would like to provide a *curated list* of the awewome deep learning papers (less than 150 papers) which are considered as *must-reads* in a certain researh domain.
 
+## Backgroud
+
+Before this list, there exist other *awesome deep learning lists*, for example, [Deep Vision](https://github.com/kjw0612/awesome-deep-vision) and [Awesome Recurrent Neural Networks](https://github.com/kjw0612/awesome-rnn). Also, after this list comes out, another awesome list for deep learning beginners. called [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap), has been created and loved by many deep learning researchers.
+
+Although the *Roadmap List* includes lots of important deep learning papers, it feels overwhelming for me to read them all. As I mentioned in the introduction, I believe that seminal works can give us lessons regardless of their application domain. Thus, I would like to **top 100 deep learning papers** here as a good starting point of overviewing deep learning researches.
+
 ## Awesome list criteria
 
-- **< 6 months** : by discussion (See *New Papers*)
+1. A list of **top 100 deep learning papers** published from 2012 to 2016 is suggested.
+2. If a paper is added to the list, another paper should be removed from the list to keep top 100 papers. (Thus, removing papers is also important contributions as well as adding papers)
+3. Papers that are important, but failed to be included in the list, will be listed in *More than top 100* section. 
+4. Papers that are published (or preprinted) within 6 months can be listed in *New Papers* section by discussion.
+5. Papers that are published before 2012 can be listed in *Old Papers* section by discussion.
+
+- **< 6 months** : can be added to *New Papers* section by discussion
 - **2016** :  +30 citations (:sparkles: +60)
 - **2015** :  +100 citations (:sparkles: +200)
 - **2014** :  +200 citations (:sparkles: +400)
 - **2013** :  +300 citations (:sparkles: +600)
 - **2012** :  +400 citations (:sparkles: +800)
-- **Before 2012** : Please refer to *Classic papers* section
+- **~2011** : can be added to *Old Papers* section by discussion
 
-* Since the number of citations can be affected by the research domain, some important papers have been included in the list though they do not meet the criteria.
+Please note that we prefer not application papers, but seminal deep learning papers that can help various researches. Thus, some papers that meet the critera may not be accepted while others can be. It depends on the impact of the paper, applicability to other researches scarcity of the research domain, and so on.
 
-*We need your contributions! If you find any missing papers, project links, names of distinguished researhers, etc., please feel free to edit and pull a request.
-(Please read the [contributing guide](https://github.com/terryum/awesome-deep-learning-papers/blob/master/Contributing.md) for futher instructions, though letting me know only the title of papers is also a big contribution to us.)*
+**We need your contributions!** 
+
+If you have any suggestions (missing papers, new papers, key researchers or typos), please feel free to edit and pull a request.
+(Please read the [contributing guide](https://github.com/terryum/awesome-deep-learning-papers/blob/master/Contributing.md) for futher instructions, though just letting me know the title of papers can also be a big contribution to us.)
 
 ## Table of Contents
 
-* [Understanding / Generalization](#understanding--generalization)
-* [Optimization / Training Technique](#optimization--training-technique)
-* [Unsupervised Learning / GAN](#unsupervised-learning--gan)
-* [Image: Network Models](#image--network-models)
-* [Image: Segmentation](#image--segmentation)
-* [Image: Object Detection](#image--objecte-detection)
-* [Image: Visual QnA, Caption](#image--visual-qna-caption)
-* [Video / Human Activity](#video--human-activity)
-* [Machine Translation / Word Embedding](#machine-translation--qna)
-* [Speech / ](#speech--etc)
-* [Reinforcement Learning / Robotics](#rl--robotics)
-* [Hardware / Software](#hardware--software)
+* [Understanding / Generalization / Transfer](#understanding--generalization--transfer)
+* [Optimization / Training Techniques](#optimization--training-techniques)
+* [Unsupervised / Generative Models](#unsupervised--generative-models)
+* [Convolutional Network Models](#convolutional-neural-network-models)
+* [Recurrent Neural Network Models](#recurrent-neural-network-models)
+* [Image Segmentation / Object Detection](#image-segmentation--object-detection)
+* [Visual QnA / Captioning / Video / Etc](#visual-qna--captioning--video--etc)
+* [Natural Language Process](#natural-language-process)
+* [Reinforcement Learning](#reinforcement-learning)
+* [Speech / Other Domain](#speech--other-domain)
 
-* [New papers](#new--papers)
+* [New Papers](#new-papers) : < 6 months
+* [Old Papers](#old-papers) : < 2012
+* [More than Top 100](#more-than-top-100) : Important papers not included in the top 100 list
+* [HW / SW / Dataset](#hw--sw--dataset) : Technical reports
 
-* [Book / Survey / Review / Tutorial](#survey--review)
-* [Video Lecture / Tutorial](#survey--review)
-* [Classic Papers](#classic-papers)
-
-* [Distinguished Researchers](#distinguished-researchers)
-
-Total 85 papers except for the papers in *Hardware / Software*, *Papers Worth Reading*, and *Classic Papers* sections.
-
-### New papers
-*Newly released papers (< 6 months) which are worth reading*
-- Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models, S. Ioffe. *(Google)* [[pdf]](https://arxiv.org/abs/1702.03275)
-- Understanding deep learning requires rethinking generalization, C. Zhang et al. *(Vinyals)* [[pdf]](https://arxiv.org/pdf/1611.03530)
-- WaveNet: A Generative Model for Raw Audio (2016), A. Oord et al. *(DeepMind)* [[pdf]](https://arxiv.org/pdf/1609.03499v2) [[web]](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
-- Layer Normalization (2016), J. Ba et al. *(Hinton)* [[pdf]](https://arxiv.org/pdf/1607.06450v1.pdf)
-- Deep neural network architectures for deep reinforcement learning, Z. Wang et al. *(DeepMind)* [[pdf]](http://arxiv.org/pdf/1511.06581.pdf)
-- Learning to learn by gradient descent by gradient descent (2016), M. Andrychowicz et al. *(DeepMind)* [[pdf]](http://arxiv.org/pdf/1606.04474v1)
-- Adversarially learned inference (2016), V. Dumoulin et al. [[web]](https://ishmaelbelghazi.github.io/ALI/)[[pdf]](https://arxiv.org/pdf/1606.00704v1)
-- Understanding convolutional neural networks (2016), J. Koushik [[pdf]](https://arxiv.org/pdf/1605.09081v1)
-- SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 1MB model size (2016), F. Iandola et al. [[pdf]](http://arxiv.org/pdf/1602.07360)
-- Learning to compose neural networks for question answering (2016), J. Andreas et al. [[pdf]](http://arxiv.org/pdf/1601.01705)
-- Learning hand-eye coordination for robotic grasping with deep learning and large-scale data collection (2016) *(Google)*, S. Levine et al. [[pdf]](http://arxiv.org/pdf/1603.02199v3)
-- Taking the human out of the loop: A review of bayesian optimization (2016), B. Shahriari et al. [[pdf]](https://www.cs.ox.ac.uk/people/nando.defreitas/publications/BayesOptLoop.pdf)
-- Eie: Efficient inference engine on compressed deep neural network (2016), S. Han et al. [[pdf]](http://arxiv.org/pdf/1602.01528)
-- Adaptive Computation Time for Recurrent Neural Networks (2016), A. Graves [[pdf]](http://arxiv.org/pdf/1603.08983)
-- Densely connected convolutional networks (2016), G. Huang et al. [[pdf]](https://arxiv.org/pdf/1608.06993v1)
+* [Book / Survey / Review](#book--survey--review)
+* [Video Lectures / Tutorials / Blogs](#video-lectures--tutorials--blogs) 
 
 
-### Understanding / Generalization
+### Understanding / Generalization / Transfer
 - Distilling the knowledge in a neural network (2015), G. Hinton et al. *(Hinton, Vinyals, Dean: Google)* [[pdf]](http://arxiv.org/pdf/1503.02531) :sparkles:
 - Deep neural networks are easily fooled: High confidence predictions for unrecognizable images (2015), A. Nguyen et al. [[pdf]](http://arxiv.org/pdf/1412.1897)
 - How transferable are features in deep neural networks? (2014), J. Yosinski et al. *(Bengio)* [[pdf]](http://papers.nips.cc/paper/5347-how-transferable-are-features-in-deep-neural-networks.pdf)
@@ -73,7 +65,7 @@ Total 85 papers except for the papers in *Hardware / Software*, *Papers Worth Re
 - Why does unsupervised pre-training help deep learning (2010), D. Erhan et al. *(Bengio)* [[pdf]](http://machinelearning.wustl.edu/mlpapers/paper_files/AISTATS2010_ErhanCBV10.pdf)
 - Understanding the difficulty of training deep feedforward neural networks (2010), X. Glorot and Y. Bengio [[pdf]](http://machinelearning.wustl.edu/mlpapers/paper_files/AISTATS2010_GlorotB10.pdf)
 
-### Optimization / Training Technique
+### Optimization / Training Techniques
 - Batch normalization: Accelerating deep network training by reducing internal covariate shift (2015), S. Loffe and C. Szegedy *(Google)* [[pdf]](http://arxiv.org/pdf/1502.03167) :sparkles:
 - Delving deep into rectifiers: Surpassing human-level performance on imagenet classification (2015), K. He et al. *(He)* [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/He_Delving_Deep_into_ICCV_2015_paper.pdf) :sparkles:
 - Recurrent neural network regularization (2014), W. Zaremba et al. *(Sutskever, Vinyals: Google)* [[pdf]](http://arxiv.org/pdf/1409.2329)
@@ -85,7 +77,23 @@ Total 85 papers except for the papers in *Hardware / Software*, *Papers Worth Re
 - Improving neural networks by preventing co-adaptation of feature detectors (2012), G. Hinton et al. [[pdf]](http://arxiv.org/pdf/1207.0580.pdf) :sparkles:
 - Random search for hyper-parameter optimization (2012) J. Bergstra and Y. Bengio [[pdf]](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a)
 
-### Network Models
+### Unsupervised / Generative Models
+- Generative visual manipulation on the natural image manifold (2016), J. Zhu et al. [[pdf]](https://arxiv.org/pdf/1609.03552)
+- Conditional image generation with pixelcnn decoders (2016), A. van den Oord et al. [[pdf]](http://papers.nips.cc/paper/6527-tree-structured-reinforcement-learning-for-sequential-object-localization.pdf)
+- Pixel recurrent neural networks (2016), A. van den Oord et al. *(DeepMind)* [[pdf]](http://arxiv.org/pdf/1601.06759v2.pdf)
+- Unsupervised representation learning with deep convolutional generative adversarial networks (2015), A. Radford et al. [[pdf]](https://arxiv.org/pdf/1511.06434v2)
+- DRAW: A recurrent neural network for image generation (2015), K. Gregor et al. [[pdf]](http://arxiv.org/pdf/1502.04623)
+- CNN features off-the-Shelf: An astounding baseline for recognition (2014), A. Razavian et al. [[pdf]](http://www.cv-foundation.org//openaccess/content_cvpr_workshops_2014/W15/papers/Razavian_CNN_Features_Off-the-Shelf_2014_CVPR_paper.pdf) :sparkles:
+- Generative adversarial nets (2014), I. Goodfellow et al. *(Bengio)* [[pdf]](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
+- Intriguing properties of neural networks (2014), C. Szegedy et al. *(Sutskever, Goodfellow: Google)* [[pdf]](https://arxiv.org/pdf/1312.6199.pdf)
+- Auto-encoding variational Bayes (2013), D. Kingma and M. Welling [[pdf]](http://arxiv.org/pdf/1312.6114)
+- Building high-level features using large scale unsupervised learning (2013), Q. Le et al. [[pdf]](http://arxiv.org/pdf/1112.6209) :sparkles:
+- An analysis of single-layer networks in unsupervised feature learning (2011), A. Coates et al. [[pdf]](http://machinelearning.wustl.edu/mlpapers/paper_files/AISTATS2011_CoatesNL11.pdf)
+- Stacked denoising autoencoders: Learning useful representations in a deep network with a local denoising criterion (2010), P. Vincent et al. *(Bengio)* [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.297.3484&rep=rep1&type=pdf)
+- A practical guide to training restricted boltzmann machines (2010), G. Hinton [[pdf]](http://www.csri.utoronto.ca/~hinton/absps/guideTR.pdf)
+
+
+### Convolutional Neural Network Models
 - Binarized neural networks: Training deep neural networks with weights and activations constrained to+ 1 or-1 (2016), M. Courbariaux et al. [[pdf]](https://arxiv.org/pdf/1602.02830)
 - Inception-v4, inception-resnet and the impact of residual connections on learning (2016), C. Szegedy et al. *(Google)* [[pdf]](http://arxiv.org/pdf/1602.07261)
 - Identity Mappings in Deep Residual Networks (2016), K. He et al. *(He)* [[pdf]](https://arxiv.org/pdf/1603.05027v2.pdf)
@@ -103,7 +111,15 @@ Total 85 papers except for the papers in *Hardware / Software*, *Papers Worth Re
 - Large scale distributed deep networks (2012), J. Dean et al. [[pdf]](http://papers.nips.cc/paper/4687-large-scale-distributed-deep-networks.pdf) :sparkles:
 - Deep sparse rectifier neural networks (2011), X. Glorot et al. *(Bengio)* [[pdf]](http://machinelearning.wustl.edu/mlpapers/paper_files/AISTATS2011_GlorotBB11.pdf)
 
-### Object Detection
+### Recurrent Neural Network Models
+- Hybrid computing using a neural network with dynamic external memory (2016), A. Graves et al. [[pdf]](https://www.gwern.net/docs/2016-graves.pdf)
+- Improved semantic representations from tree-structured long short-term memory networks (2015), K. Tai et al. [[pdf]](https://arxiv.org/pdf/1503.00075)
+- End-to-end memory networks (2015), S. Sukbaatar et al. [[pdf]](http://papers.nips.cc/paper/5846-end-to-end-memory-networks.pdf)
+- Conditional random fields as recurrent neural networks (2015), S. Zheng and S. Jayasumana. [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zheng_Conditional_Random_Fields_ICCV_2015_paper.pdf) :sparkles:
+- Memory networks (2014), J. Weston et al. [[pdf]](https://arxiv.org/pdf/1410.3916)
+- Neural turing machines (2014), A. Graves et al. [[pdf]](https://arxiv.org/pdf/1410.5401)
+
+### Image: Segmentation / Object Detection
 - Instance-aware semantic segmentation via multi-task network cascades (2016), J. Dai et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Dai_Instance-Aware_Semantic_Segmentation_CVPR_2016_paper.pdf)
 - Efficient piecewise training of deep structured models for semantic segmentation (2016), G. Lin et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lin_Efficient_Piecewise_Training_CVPR_2016_paper.pdf)
 - SSD: Single shot multibox detector (2016), W. Liu et al. [[pdf]](https://arxiv.org/pdf/1512.02325) 
@@ -116,24 +132,7 @@ Total 85 papers except for the papers in *Hardware / Software*, *Papers Worth Re
 - Semantic image segmentation with deep convolutional nets and fully connected CRFs, L. Chen et al. [[pdf]](https://arxiv.org/pdf/1412.7062)
 - Deep neural networks for object detection (2013), C. Szegedy et al. [[pdf]](http://papers.nips.cc/paper/5207-deep-neural-networks-for-object-detection.pdf)
 
-### Unsupervised / Adversarial
-- Generative visual manipulation on the natural image manifold (2016), J. Zhu et al. [[pdf]](https://arxiv.org/pdf/1609.03552)
-- Conditional image generation with pixelcnn decoders (2016), A. van den Oord et al. [[pdf]](http://papers.nips.cc/paper/6527-tree-structured-reinforcement-learning-for-sequential-object-localization.pdf)
-- Pixel recurrent neural networks (2016), A. van den Oord et al. *(DeepMind)* [[pdf]](http://arxiv.org/pdf/1601.06759v2.pdf)
-- Unsupervised representation learning with deep convolutional generative adversarial networks (2015), A. Radford et al. [[pdf]](https://arxiv.org/pdf/1511.06434v2)
-- DRAW: A recurrent neural network for image generation (2015), K. Gregor et al. [[pdf]](http://arxiv.org/pdf/1502.04623)
-- CNN features off-the-Shelf: An astounding baseline for recognition (2014), A. Razavian et al. [[pdf]](http://www.cv-foundation.org//openaccess/content_cvpr_workshops_2014/W15/papers/Razavian_CNN_Features_Off-the-Shelf_2014_CVPR_paper.pdf) :sparkles:
-- Generative adversarial nets (2014), I. Goodfellow et al. *(Bengio)* [[pdf]](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
-- Intriguing properties of neural networks (2014), C. Szegedy et al. *(Sutskever, Goodfellow: Google)* [[pdf]](https://arxiv.org/pdf/1312.6199.pdf)
-- Auto-encoding variational Bayes (2013), D. Kingma and M. Welling [[pdf]](http://arxiv.org/pdf/1312.6114)
-- Building high-level features usi
-ng large scale unsupervised learning (2013), Q. Le et al. [[pdf]](http://arxiv.org/pdf/1112.6209) :sparkles:
-- An analysis of single-layer networks in unsupervised feature learning (2011), A. Coates et al. [[pdf]](http://machinelearning.wustl.edu/mlpapers/paper_files/AISTATS2011_CoatesNL11.pdf)
-- Stacked denoising autoencoders: Learning useful representations in a deep network with a local denoising criterion (2010), P. Vincent et al. *(Bengio)* [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.297.3484&rep=rep1&type=pdf)
-- A practical guide to training restricted boltzmann machines (2010), G. Hinton [[pdf]](http://www.csri.utoronto.ca/~hinton/absps/guideTR.pdf)
-
-
-### Image
+### Visual QnA / Captioning / Video / Etc
 - Brain tumor segmentation with deep neural networks (2017), M. Havaei et al. *(Bengio)* [[pdf]](https://arxiv.org/pdf/1505.03540)
 - Weakly supervised object localization with multi-fold multiple instance learning (2017), R. Gokberk et al. [[pdf]](https://arxiv.org/pdf/1503.00949)
 - Inside-outside net: Detecting objects in context with skip pooling and recurrent neural networks (2016), S. Bell et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bell_Inside-Outside_Net_Detecting_CVPR_2016_paper.pdf).
@@ -145,16 +144,13 @@ ng large scale unsupervised learning (2013), Q. Le et al. [[pdf]](http://arxiv.o
 - A neural algorithm of artistic style (2015), L. Gatys et al. [[pdf]](https://arxiv.org/pdf/1508.06576)
 - Learning Deconvolution Network for Semantic Segmentation (2015), H. Noh et al. [[pdf]](https://arxiv.org/pdf/1505.04366v1)
 - Imagenet large scale visual recognition challenge (2015), O. Russakovsky et al. [[pdf]](http://arxiv.org/pdf/1409.0575) :sparkles:
-
-- Learning a Deep Convolutional Network for Image Super-Resolution (2014, C. Dong et al. *(He)* [[pdf]](https://www.researchgate.net/profile/Chen_Change_Loy/publication/264552416_Lecture_Notes_in_Computer_Science/links/53e583e50cf25d674e9c280e.pdf)
-- Learning a Deep Convolutional Network for Image Super-Resolution (2014), C. Dong et al. [[pdf]](https://www.researchgate.net/profile/Chen_Change_Loy/publication/264552416_Learning_a_Deep_Convolutional_Network_for_Image_Super-Resolution/links/53e583e50cf25d674e9c280e.pdf)
+- Learning a Deep Convolutional Network for Image Super-Resolution (2014, C. Dong et al. [[pdf]](https://www.researchgate.net/profile/Chen_Change_Loy/publication/264552416_Lecture_Notes_in_Computer_Science/links/53e583e50cf25d674e9c280e.pdf)
 - Learning and transferring mid-Level image representations using convolutional neural networks (2014), M. Oquab et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Oquab_Learning_and_Transferring_2014_CVPR_paper.pdf)
 - DeepFace: Closing the Gap to Human-Level Performance in Face Verification (2014), Y. Taigman et al. *(Facebook)* [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Taigman_DeepFace_Closing_the_2014_CVPR_paper.pdf) :sparkles:
 - Decaf: A deep convolutional activation feature for generic visual recognition (2013), J. Donahue et al. [[pdf]](http://arxiv.org/pdf/1310.1531) :sparkles:
 - Learning hierarchical features for scene labeling (2013), C. Farabet et al. *(LeCun)* [[pdf]](https://hal-enpc.archives-ouvertes.fr/docs/00/74/20/77/PDF/farabet-pami-13.pdf)
 - Learning mid-level features for recognition (2010), Y. Boureau *(LeCun)* [[pdf]](http://ece.duke.edu/~lcarin/boureau-cvpr-10.pdf)
 
-### Caption / Visual QnA
 - Mind's eye: A recurrent visual representation for image caption generation (2015), X. Chen and C. Zitnick. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Chen_Minds_Eye_A_2015_CVPR_paper.pdf)
 - From captions to visual concepts and back (2015), H. Fang et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Fang_From_Captions_to_2015_CVPR_paper.pdf).
 - VQA: Visual question answering (2015), S. Antol et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Antol_VQA_Visual_Question_ICCV_2015_paper.pdf)
@@ -167,8 +163,6 @@ ng large scale unsupervised learning (2013), Q. Le et al. [[pdf]](http://arxiv.o
 - Deep visual-semantic alignments for generating image descriptions (2015), A. Karpathy and L. Fei-Fei [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.pdf) :sparkles:
 - Deep captioning with multimodal recurrent neural networks (m-rnn) (2014), J. Mao et al. [[pdf]](https://arxiv.org/pdf/1412.6632)
 
-
-### Video / Human Activity
 - Beyond short snippents: Deep networks for video classification (2015) *(Vinyals: Google)* [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Ng_Beyond_Short_Snippets_2015_CVPR_paper.pdf)  :sparkles:
 - Large-scale video classification with convolutional neural networks (2014), A. Karpathy et al. *(FeiFei)* [[pdf]](http://vision.stanford.edu/pdf/karpathy14.pdf) :sparkles:
 - DeepPose: Human pose estimation via deep neural networks (2014), A. Toshev and C. Szegedy *(Google)* [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Toshev_DeepPose_Human_Pose_2014_CVPR_paper.pdf)
@@ -178,15 +172,13 @@ ng large scale unsupervised learning (2013), Q. Le et al. [[pdf]](http://arxiv.o
 - Action recognition with improved trajectories (2013), H. Wang and C. Schmid [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Wang_Action_Recognition_with_2013_ICCV_paper.pdf)
 - Learning hierarchical invariant spatio-temporal features for action recognition with independent subspace analysis (2011), Q. Le et al. [[pdf]](http://robotics.stanford.edu/~wzou/cvpr_LeZouYeungNg11.pdf)
 
-### Word Embedding
+### Natural Language Process
 - Glove: Global vectors for word representation (2014), J. Pennington et al. [[pdf]](http://anthology.aclweb.org/D/D14/D14-1162.pdf) :sparkles:
 - Distributed representations of sentences and documents (2014), Q. Le and T. Mikolov *(Le, Mikolov: Google)* [[pdf]](http://arxiv.org/pdf/1405.4053) *(Google)* :sparkles:
 - Distributed representations of words and phrases and their compositionality (2013), T. Mikolov et al. *(Google)* [[pdf]](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) :sparkles:
 - Efficient estimation of word representations in vector space (2013), T. Mikolov et al. *(Google)* [[pdf]](http://arxiv.org/pdf/1301.3781) :sparkles:
 - Devise: A deep visual-semantic embedding model (2013), A. Frome et al., *(Mikolov: Google)* [[pdf]](http://papers.nips.cc/paper/5204-devise-a-deep-visual-semantic-embedding-model.pdf)
 - Word representations: a simple and general method for semi-supervised learning (2010), J. Turian *(Bengio)* [[pdf]](http://www.anthology.aclweb.org/P/P10/P10-1040.pdf)
-
-### Machine Translation / QnA
 - A Character-Level Decoder without Explicit Segmentation for Neural Machine Translation (2016), J. Chung et al. [[pdf]]
 - A thorough examination of the cnn/daily mail reading comprehension task (2016), D. Chen et al. [[pdf]](https://arxiv.org/pdf/1606.02858)
 - Achieving open vocabulary neural machine translation with hybrid word-character models, M. Luong and C. Manning. [[pdf]](https://arxiv.org/pdf/1604.00788)
@@ -212,25 +204,7 @@ ng large scale unsupervised learning (2013), Q. Le et al. [[pdf]](http://arxiv.o
 - Natural language processing (almost) from scratch (2011), R. Collobert et al. [[pdf]](http://arxiv.org/pdf/1103.0398) :sparkles:
 - Recurrent neural network based language model (2010), T. Mikolov et al. [[pdf]](http://www.fit.vutbr.cz/research/groups/speech/servite/2010/rnnlm_mikolov.pdf)
 
-### RNN / LSTM / Memory Network
-- Hybrid computing using a neural network with dynamic external memory (2016), A. Graves et al. [[pdf]](https://www.gwern.net/docs/2016-graves.pdf)
-- Improved semantic representations from tree-structured long short-term memory networks (2015), K. Tai et al. [[pdf]](https://arxiv.org/pdf/1503.00075)
-- End-to-end memory networks (2015), S. Sukbaatar et al. [[pdf]](http://papers.nips.cc/paper/5846-end-to-end-memory-networks.pdf)
-- Conditional random fields as recurrent neural networks (2015), S. Zheng and S. Jayasumana. [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zheng_Conditional_Random_Fields_ICCV_2015_paper.pdf) :sparkles:
-- Memory networks (2014), J. Weston et al. [[pdf]](https://arxiv.org/pdf/1410.3916)
-- Neural turing machines (2014), A. Graves et al. [[pdf]](https://arxiv.org/pdf/1410.5401)
-
-
-### Speech / Etc.
-- Automatic speech recognition - A deep learning approach (Book, 2015), D. Yu and L. Deng. [[html]](http://www.springer.com/us/book/9781447157786)
-- Deep speech 2: End-to-end speech recognition in English and Mandarin (2015), D. Amodei et al. [[pdf]](https://arxiv.org/pdf/1512.02595) 
-- Towards end-to-end speech recognition with recurrent neural networks (2014), A. Graves and N. Jaitly. [[pdf]](http://www.jmlr.org/proceedings/papers/v32/graves14.pdf)
-- Speech recognition with deep recurrent neural networks (2013), A. Graves *(Hinton)* [[pdf]](http://arxiv.org/pdf/1303.5778.pdf)
-- Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups (2012), G. Hinton et al. [[pdf]](http://www.cs.toronto.edu/~asamir/papers/SPM_DNN_12.pdf) :sparkles:
-- Context-dependent pre-trained deep neural networks for large-vocabulary speech recognition (2012) G. Dahl et al. [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.337.7548&rep=rep1&type=pdf) :sparkles:
-- Acoustic modeling using deep belief networks (2012), A. Mohamed et al. *(Hinton)* [[pdf]](http://www.cs.toronto.edu/~asamir/papers/speechDBN_jrnl.pdf)
-
-### RL / Robotics
+### Reinforcement Learning
 - End-to-end training of deep visuomotor policies (2016), S. Levine et al. [[pdf]](http://www.jmlr.org/papers/volume17/15-522/source/15-522.pdf) :sparkles:
 - Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection (2016), S. Levine et al. [[pdf]](https://arxiv.org/pdf/1603.02199)
 - Continuous deep q-learning with model-based acceleration (2016), S. Gu et al. [[pdf]](http://www.jmlr.org/proceedings/papers/v48/gu16.pdf)
@@ -244,30 +218,64 @@ ng large scale unsupervised learning (2013), Q. Le et al. [[pdf]](http://arxiv.o
 - Playing atari with deep reinforcement learning (2013), V. Mnih et al. [[pdf]](http://arxiv.org/pdf/1312.5602.pdf))
 
 
-### Hardware / Software
+### Speech / Other Domain
+- Automatic speech recognition - A deep learning approach (Book, 2015), D. Yu and L. Deng. [[html]](http://www.springer.com/us/book/9781447157786)
+- Deep speech 2: End-to-end speech recognition in English and Mandarin (2015), D. Amodei et al. [[pdf]](https://arxiv.org/pdf/1512.02595) 
+- Towards end-to-end speech recognition with recurrent neural networks (2014), A. Graves and N. Jaitly. [[pdf]](http://www.jmlr.org/proceedings/papers/v32/graves14.pdf)
+- Speech recognition with deep recurrent neural networks (2013), A. Graves *(Hinton)* [[pdf]](http://arxiv.org/pdf/1303.5778.pdf)
+- Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups (2012), G. Hinton et al. [[pdf]](http://www.cs.toronto.edu/~asamir/papers/SPM_DNN_12.pdf) :sparkles:
+- Context-dependent pre-trained deep neural networks for large-vocabulary speech recognition (2012) G. Dahl et al. [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.337.7548&rep=rep1&type=pdf) :sparkles:
+- Acoustic modeling using deep belief networks (2012), A. Mohamed et al. *(Hinton)* [[pdf]](http://www.cs.toronto.edu/~asamir/papers/speechDBN_jrnl.pdf)
+
+
+
+### New papers
+*Newly released papers (< 6 months) which are worth reading*
+- Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models, S. Ioffe. *(Google)* [[pdf]](https://arxiv.org/abs/1702.03275)
+- Understanding deep learning requires rethinking generalization, C. Zhang et al. *(Vinyals)* [[pdf]](https://arxiv.org/pdf/1611.03530)
+- WaveNet: A Generative Model for Raw Audio (2016), A. Oord et al. *(DeepMind)* [[pdf]](https://arxiv.org/pdf/1609.03499v2) [[web]](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
+- Layer Normalization (2016), J. Ba et al. *(Hinton)* [[pdf]](https://arxiv.org/pdf/1607.06450v1.pdf)
+- Deep neural network architectures for deep reinforcement learning, Z. Wang et al. *(DeepMind)* [[pdf]](http://arxiv.org/pdf/1511.06581.pdf)
+- Learning to learn by gradient descent by gradient descent (2016), M. Andrychowicz et al. *(DeepMind)* [[pdf]](http://arxiv.org/pdf/1606.04474v1)
+- Adversarially learned inference (2016), V. Dumoulin et al. [[web]](https://ishmaelbelghazi.github.io/ALI/)[[pdf]](https://arxiv.org/pdf/1606.00704v1)
+- Understanding convolutional neural networks (2016), J. Koushik [[pdf]](https://arxiv.org/pdf/1605.09081v1)
+- SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 1MB model size (2016), F. Iandola et al. [[pdf]](http://arxiv.org/pdf/1602.07360)
+- Learning to compose neural networks for question answering (2016), J. Andreas et al. [[pdf]](http://arxiv.org/pdf/1601.01705)
+- Learning hand-eye coordination for robotic grasping with deep learning and large-scale data collection (2016) *(Google)*, S. Levine et al. [[pdf]](http://arxiv.org/pdf/1603.02199v3)
+- Taking the human out of the loop: A review of bayesian optimization (2016), B. Shahriari et al. [[pdf]](https://www.cs.ox.ac.uk/people/nando.defreitas/publications/BayesOptLoop.pdf)
+- Eie: Efficient inference engine on compressed deep neural network (2016), S. Han et al. [[pdf]](http://arxiv.org/pdf/1602.01528)
+- Adaptive Computation Time for Recurrent Neural Networks (2016), A. Graves [[pdf]](http://arxiv.org/pdf/1603.08983)
+- Densely connected convolutional networks (2016), G. Huang et al. [[pdf]](https://arxiv.org/pdf/1608.06993v1)
+
+### Old Papers
+*Classic papers (1997~2011) which cause the advent of deep learning era*
+- Recurrent neural network based language model (2010), T. Mikolov et al. [[pdf]](http://www.fit.vutbr.cz/research/groups/speech/servite/2010/rnnlm_mikolov.pdf)
+- Learning deep architectures for AI (2009), Y. Bengio. [[pdf]](http://sanghv.com/download/soft/machine%20learning,%20artificial%20intelligence,%20mathematics%20ebooks/ML/learning%20deep%20architectures%20for%20AI%20(2009).pdf)
+- Convolutional deep belief networks for scalable unsupervised learning of hierarchical representations (2009), H. Lee et al. [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.149.802&rep=rep1&type=pdf)
+- Greedy layer-wise training of deep networks (2007), Y. Bengio et al. [[pdf]](http://machinelearning.wustl.edu/mlpapers/paper_files/NIPS2006_739.pdf)
+- Reducing the dimensionality of data with neural networks, G. Hinton and R. Salakhutdinov. [[pdf]](http://homes.mpimf-heidelberg.mpg.de/~mhelmsta/pdf/2006%20Hinton%20Salakhudtkinov%20Science.pdf)
+- A fast learning algorithm for deep belief nets (2006), G. Hinton et al. [[pdf]](http://nuyoo.utm.mx/~jjf/rna/A8%20A%20fast%20learning%20algorithm%20for%20deep%20belief%20nets.pdf)
+- Gradient-based learning applied to document recognition (1998), Y. LeCun et al. [[pdf]](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
+- Long short-term memory (1997), S. Hochreiter and J. Schmidhuber. [[pdf]](http://www.mitpressjournals.org/doi/pdfplus/10.1162/neco.1997.9.8.1735)
+
+### More than top 100
+
+
+### HW / SW / Dataset
 - OpenAI gym (2016), G. Brockman et al. [[pdf]](https://arxiv.org/pdf/1606.01540)
 - TensorFlow: Large-scale machine learning on heterogeneous distributed systems (2016), M. Abadi et al. [[pdf]](http://arxiv.org/pdf/1603.04467) :sparkles:
 - Theano: A Python framework for fast computation of mathematical expressions, R. Al-Rfou et al. *(Bengio)*
 - MatConvNet: Convolutional neural networks for matlab (2015), A. Vedaldi and K. Lenc [[pdf]](http://arxiv.org/pdf/1412.4564)
 - Caffe: Convolutional architecture for fast feature embedding (2014), Y. Jia et al. [[pdf]](http://arxiv.org/pdf/1408.5093) :sparkles:
 
-### Book / Survey / Review / Tutorial / Blog
+### Book / Survey / Review
 - Deep learning (Book, 2016), Goodfellow et al. [[html]](http://www.deeplearningbook.org/)
 - Deep learning (2015), Y. LeCun, Y. Bengio and G. Hinton [[pdf]](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) :sparkles:
 - Deep learning in neural networks: An overview (2015), J. Schmidhuber [[pdf]](http://arxiv.org/pdf/1404.7828) :sparkles:
 - Representation learning: A review and new perspectives (2013), Y. Bengio et al. [[pdf]](http://arxiv.org/pdf/1206.5538) :sparkles:
 
-### Classic Papers
-*Classic papers (1997~2011) which cause the advent of deep learning era*
-- Recurrent neural network based language model (2010), T. Mikolov et al. [[pdf]](http://www.fit.vutbr.cz/research/groups/speech/servite/2010/rnnlm_mikolov.pdf)
-- Learning deep architectures for AI (2009), Y. Bengio. [[pdf]](http://sanghv.com/download/soft/machine%20learning,%20artificial%20intelligence,%20mathematics%20ebooks/ML/learning%20deep%20architectures%20for%20AI%20(2009).pdf)
-- Convolutional deep belief networks for scalable unsupervised learning of hierarchical representations (2009), H. Lee et al. [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.149.802&rep=rep1&type=pdf)
-- Greedy layer-wise training of deep networks (2007), Y. Bengio et al. [[pdf]](http://machinelearning.wustl.edu/mlpapers/paper_files/NIPS2006_739.pdf)
+### Video Lectures / Tutorials / Blogs
 
-- Reducing the dimensionality of data with neural networks, G. Hinton and R. Salakhutdinov. [[pdf]](http://homes.mpimf-heidelberg.mpg.de/~mhelmsta/pdf/2006%20Hinton%20Salakhudtkinov%20Science.pdf)
-- A fast learning algorithm for deep belief nets (2006), G. Hinton et al. [[pdf]](http://nuyoo.utm.mx/~jjf/rna/A8%20A%20fast%20learning%20algorithm%20for%20deep%20belief%20nets.pdf)
-- Gradient-based learning applied to document recognition (1998), Y. LeCun et al. [[pdf]](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
-- Long short-term memory (1997), S. Hochreiter and J. Schmidhuber. [[pdf]](http://www.mitpressjournals.org/doi/pdfplus/10.1162/neco.1997.9.8.1735)
 
 ### Distinguished Researchers
 *Distinguished deep learning researchers who have published +3 (:sparkles: +6) papers on the awesome list*
