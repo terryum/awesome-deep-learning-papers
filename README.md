@@ -10,16 +10,14 @@ We believe that there exist *classic* deep learning papers which are worth readi
 
 Before this list, there exist other *awesome deep learning lists*, for example, [Deep Vision](https://github.com/kjw0612/awesome-deep-vision) and [Awesome Recurrent Neural Networks](https://github.com/kjw0612/awesome-rnn). Also, after this list comes out, another awesome list for deep learning beginners. called [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap), has been created and loved by many deep learning researchers.
 
-Although the *Roadmap List* includes lots of important deep learning papers, it feels overwhelming for me to read them all. As I mentioned in the introduction, I believe that seminal works can give us lessons regardless of their application domain. Thus, I would like to **top 100 deep learning papers** here as a good starting point of overviewing deep learning researches.
+Although the *Roadmap List* includes lots of important deep learning papers, it feels overwhelming for me to read them all. As I mentioned in the introduction, I believe that seminal works can give us lessons regardless of their application domain. Thus, I would like to introduce **top 100 deep learning papers** here as a good starting point of overviewing deep learning researches.
 
 ## Awesome list criteria
 
 1. A list of **top 100 deep learning papers** published from 2012 to 2016 is suggested.
 2. If a paper is added to the list, another paper should be removed from the list to keep top 100 papers. (Thus, removing papers is also important contributions as well as adding papers)
-3. Papers that are important, but failed to be included in the list, will be listed in *More than top 100* section. 
-4. Papers that are published (or preprinted) within 6 months can be listed in *New Papers* section by discussion.
-5. Papers that are published before 2012 can be listed in *Old Papers* section by discussion.
-
+3. Papers that are important, but failed to be included in the list, will be listed in *More than Top 100* section. 
+4. Please refer to *New Papers* and *Old Papers* sections for the papers published in recent 6 months or before 2012.
 
 - **< 6 months** : can be added to *New Papers* section by discussion
 - **2016** :  +30 citations (Bold +60)
@@ -29,7 +27,7 @@ Although the *Roadmap List* includes lots of important deep learning papers, it 
 - **2012** :  +400 citations (Bold +800)
 - **~2011** : can be added to *Old Papers* section by discussion
 
-Please note that we prefer not application papers, but seminal deep learning papers that can help various researches. Thus, some papers that meet the critera may not be accepted while others can be. It depends on the impact of the paper, applicability to other researches scarcity of the research domain, and so on.
+Please note that we prefer seminal deep learning papers that can be applied to various researches rather than application papers. For that reason, some papers that meet the critera may not be accepted while others can be. It depends on the impact of the paper, applicability to other researches scarcity of the research domain, and so on.
 
 **We need your contributions!** 
 
