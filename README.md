@@ -288,7 +288,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - Learning to compose neural networks for question answering (2016), J. Andreas et al. [[pdf]](https://arxiv.org/pdf/1601.01705)
 - Perceptual losses for real-time style transfer and super-resolution (2016), J. Johnson et al. [[pdf]](https://arxiv.org/pdf/1603.08155)
 - Reading text in the wild with convolutional neural networks (2016), M. Jaderberg et al. [[pdf]](http://arxiv.org/pdf/1412.1842)
-- What makes for effective detection proposals? (2016), J. Hosan et al.[[pdf]](https://arxiv.org/pdf/1502.05082)
+- What makes for effective detection proposals? (2016), J. Hosang et al. [[pdf]](https://arxiv.org/pdf/1502.05082)
 - Inside-outside net: Detecting objects in context with skip pooling and recurrent neural networks (2016), S. Bell et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bell_Inside-Outside_Net_Detecting_CVPR_2016_paper.pdf).
 - Instance-aware semantic segmentation via multi-task network cascades (2016), J. Dai et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Dai_Instance-Aware_Semantic_Segmentation_CVPR_2016_paper.pdf)
 - Conditional image generation with pixelcnn decoders (2016), A. van den Oord et al. [[pdf]](http://papers.nips.cc/paper/6527-tree-structured-reinforcement-learning-for-sequential-object-localization.pdf)
