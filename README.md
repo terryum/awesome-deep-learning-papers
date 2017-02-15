@@ -185,8 +185,6 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 [Key researchers]  [Sergey Levine](https://scholar.google.ca/citations?user=8R35rCwAAAAJ), [Volodymyr Mnih](https://scholar.google.ca/citations?hl=en&user=rLdfJ1gAAAAJ), [David Silver](https://scholar.google.ca/citations?user=-8DNE4UAAAAJ)
 
 ### More Papers from 2016
-
-
 - **Layer Normalization** (2016), J. Ba et al. [[pdf]](https://arxiv.org/pdf/1607.06450v1.pdf)
 - **Learning to learn by gradient descent by gradient descent** (2016), M. Andrychowicz et al. [[pdf]](http://arxiv.org/pdf/1606.04474v1)
 - **Domain-adversarial training of neural networks** (2016), Y. Ganin et al. [[pdf]](http://www.jmlr.org/papers/volume17/15-239/source/15-239.pdf)
@@ -209,6 +207,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 ### New papers
 *Newly published papers (< 6 months) which are worth reading*
 - Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models, S. Ioffe. [[pdf]](https://arxiv.org/abs/1702.03275)
+- Wasserstein GAN, M. Arjovsky et al. [[pdf]](https://arxiv.org/pdf/1701.07875v1)
 - Understanding deep learning requires rethinking generalization, C. Zhang et al. [[pdf]](https://arxiv.org/pdf/1611.03530)
 
 
