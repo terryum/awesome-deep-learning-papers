@@ -175,7 +175,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - **End-to-end training of deep visuomotor policies** (2016), S. Levine et al. [[pdf]](http://www.jmlr.org/papers/volume17/15-522/source/15-522.pdf) 
 - **Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection** (2016), S. Levine et al. [[pdf]](https://arxiv.org/pdf/1603.02199)
 - **Asynchronous methods for deep reinforcement learning** (2016), V. Mnih et al. [[pdf]](http://www.jmlr.org/proceedings/papers/v48/mniha16.pdf)
-- **Deep Reinforcement Learning with Double Q-Learning** (2016), H. Hasselt et al. [[pdf]](http://www.aaai.org/Conferences/AAAI/2016/Papers/12vanHasselt12389.pdf)
+- **Deep Reinforcement Learning with Double Q-Learning** (2016), H. Hasselt et al. [[pdf]](https://arxiv.org/pdf/1509.06461.pdf )
 - **Mastering the game of Go with deep neural networks and tree search** (2016), D. Silver et al. [[pdf]](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html) 
 - **Continuous control with deep reinforcement learning** (2015), T. Lillicrap et al. [[pdf]](https://arxiv.org/pdf/1509.02971)
 - **Human-level control through deep reinforcement learning** (2015), V. Mnih et al. [[pdf]](http://www.davidqiu.com:8888/research/nature14236.pdf) 
