@@ -6,7 +6,7 @@ A curated list of the most cited deep learning papers (since 2012)
 
 We believe that there exist *classic* deep learning papers which are worth reading regardless of their application domain. Rather than providing overwhelming amount of papers, We would like to provide a *curated list* of the awewome deep learning papers which are considered as *must-reads* in certain researh domains.
 
-## Backgroud
+## Background
 
 Before this list, there exist other *awesome deep learning lists*, for example, [Deep Vision](https://github.com/kjw0612/awesome-deep-vision) and [Awesome Recurrent Neural Networks](https://github.com/kjw0612/awesome-rnn). Also, after this list comes out, another awesome list for deep learning beginners. called [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap), has been created and loved by many deep learning researchers.
 
@@ -83,7 +83,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 ### Unsupervised / Generative Models
 - **Pixel recurrent neural networks** (2016), A. Oord et al. [[pdf]](http://arxiv.org/pdf/1601.06759v2.pdf)
-- **Improved techniques for training GANs** (2016), T. Sallmans et al. [[pdf]](http://papers.nips.cc/paper/6124-improved-techniques-for-training-gans.pdf)
+- **Improved techniques for training GANs** (2016), T. Salimans et al. [[pdf]](http://papers.nips.cc/paper/6124-improved-techniques-for-training-gans.pdf)
 - **Unsupervised representation learning with deep convolutional generative adversarial networks** (2015), A. Radford et al. [[pdf]](https://arxiv.org/pdf/1511.06434v2)
 - **DRAW: A recurrent neural network for image generation** (2015), K. Gregor et al. [[pdf]](http://arxiv.org/pdf/1502.04623)
 - **Generative adversarial nets** (2014), I. Goodfellow et al. [[pdf]](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
