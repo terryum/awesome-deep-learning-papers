@@ -1,19 +1,11 @@
 '''
-
 Author: doodhwala
 Python3 script to fetch the top 100 papers
-
-Instructions:
-    1) clone repo
-    2) python3 fetch_papers.py
-    3) enjoy :)
-
 '''
 
 import os, re, requests
 
 directory = 'papers'
-
 if not os.path.exists(directory):
     os.makedirs(directory)
 
@@ -30,15 +22,13 @@ with open('README.md', 'r') as f:
                 os.makedirs(section_path)
         if('[[pdf]]' in line):
             # The stars ensure you pick up only the top 100 papers
-            # modify this if you want to fetch all other papers as well :)
+            # Modify the expression if you want to fetch all other papers as well
             result = re.search('\*\*(.*?)\*\*.*?\[\[pdf\]\]\((.*?)\)', line)
             if(result):
                 paper, url = result.groups()
+                # Auto - resume functionality
                 if(not os.path.exists(os.path.join(section_path, paper + '.pdf'))):
                     print('Fetching', paper)
                     response = requests.get(url)
                     with open(os.path.join(section_path, paper + '.pdf'), 'wb') as f:
                         f.write(response.content)
-
-# Sorry for the quick and dirty approach
-# Feel free to add features
