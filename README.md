@@ -35,6 +35,9 @@ Please note that we prefer seminal deep learning papers that can be applied to v
 If you have any suggestions (missing papers, new papers, key researchers or typos), please feel free to edit and pull a request.
 (Please read the [contributing guide](https://github.com/terryum/awesome-deep-learning-papers/blob/master/Contributing.md) for further instructions, though just letting me know the title of papers can also be a big contribution to us.)
 
+(Update) You can download all top-100 papers with [this python code](https://github.com/terryum/awesome-deep-learning-papers/blob/master/fetch_papers.py). Thanks, [doodhwala](https://github.com/doodhwala)! + Can anyone contribute the code for obataining the statistics of the authors of Top-100 papers?
+
+
 ## Table of Contents
 
 * [Understanding / Generalization / Transfer](#understanding--generalization--transfer)
@@ -46,7 +49,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 * [Recurrent Neural Network Models](#recurrent-neural-network-models)
 * [Natural Language Process](#natural-language-process)
 * [Speech / Other Domain](#speech--other-domain)
-* [Reinforcement Learning](#reinforcement-learning)
+* [Reinforcement Learning / Robotics](#reinforcement-learning--robotics)
 * [More Papers from 2016](#more-papers-from-2016)
 
 *(More than Top 100)*
@@ -171,7 +174,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 <!---[Key researchers]  [Alex Graves](https://scholar.google.ca/citations?user=DaFHynwAAAAJ), [Geoffrey Hinton](https://scholar.google.ca/citations?user=JicYPdAAAAAJ), [Dong Yu](https://scholar.google.ca/citations?hl=en&user=tMY31_gAAAAJ)-->
 
-### Reinforcement Learning
+### Reinforcement Learning / Robotics
 - **End-to-end training of deep visuomotor policies** (2016), S. Levine et al. [[pdf]](http://www.jmlr.org/papers/volume17/15-522/source/15-522.pdf) 
 - **Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection** (2016), S. Levine et al. [[pdf]](https://arxiv.org/pdf/1603.02199)
 - **Asynchronous methods for deep reinforcement learning** (2016), V. Mnih et al. [[pdf]](http://www.jmlr.org/proceedings/papers/v48/mniha16.pdf)
@@ -292,9 +295,11 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - Instance-aware semantic segmentation via multi-task network cascades (2016), J. Dai et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Dai_Instance-Aware_Semantic_Segmentation_CVPR_2016_paper.pdf)
 - Conditional image generation with pixelcnn decoders (2016), A. van den Oord et al. [[pdf]](http://papers.nips.cc/paper/6527-tree-structured-reinforcement-learning-for-sequential-object-localization.pdf)
 - Deep networks with stochastic depth (2016), G. Huang et al., [[pdf]](https://arxiv.org/pdf/1603.09382)
+- Generative Short Term Stochastic Gibbs Networks 2016), I. Lenz et al. [[pdf]](https://arxiv.org/pdf/1301.3592)
 
 *(2015)*
 
+- Spatial transformer network (2015), M. Jaderberg et al., [[pdf]](http://papers.nips.cc/paper/5854-spatial-transformer-networks.pdf)
 - Ask your neurons: A neural-based approach to answering questions about images (2015), M. Malinowski et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Malinowski_Ask_Your_Neurons_ICCV_2015_paper.pdf)
 - Exploring models and data for image question answering (2015), M. Ren et al. [[pdf]](http://papers.nips.cc/paper/5640-stochastic-variational-inference-for-hidden-markov-models.pdf)
 - Are you talking to a machine? dataset and methods for multilingual image question (2015), H. Gao et al. [[pdf]](http://papers.nips.cc/paper/5641-are-you-talking-to-a-machine-dataset-and-methods-for-multilingual-image-question.pdf)
