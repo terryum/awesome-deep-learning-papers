@@ -33,7 +33,7 @@ Please note that we prefer seminal deep learning papers that can be applied to v
 **We need your contributions!** 
 
 If you have any suggestions (missing papers, new papers, key researchers or typos), please feel free to edit and pull a request.
-(Please read the [contributing guide](https://github.com/terryum/awesome-deep-learning-papers/blob/master/Contributing.md) for futher instructions, though just letting me know the title of papers can also be a big contribution to us.)
+(Please read the [contributing guide](https://github.com/terryum/awesome-deep-learning-papers/blob/master/Contributing.md) for further instructions, though just letting me know the title of papers can also be a big contribution to us.)
 
 ## Table of Contents
 
