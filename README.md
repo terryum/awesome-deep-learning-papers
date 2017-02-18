@@ -35,7 +35,9 @@ Please note that we prefer seminal deep learning papers that can be applied to v
 If you have any suggestions (missing papers, new papers, key researchers or typos), please feel free to edit and pull a request.
 (Please read the [contributing guide](https://github.com/terryum/awesome-deep-learning-papers/blob/master/Contributing.md) for further instructions, though just letting me know the title of papers can also be a big contribution to us.)
 
-(Update) You can download all top-100 papers with [this python code](https://github.com/terryum/awesome-deep-learning-papers/blob/master/fetch_papers.py). Thanks, [doodhwala](https://github.com/doodhwala)! + Can anyone contribute the code for obataining the statistics of the authors of Top-100 papers?
+(Update) You can download all top-100 papers with [this python code](https://github.com/terryum/awesome-deep-learning-papers/blob/master/fetch_papers.py). Also, [bib file](https://github.com/terryum/awesome-deep-learning-papers/blob/master/top100papers.bib) for all top-100 papers are available. Thanks, [doodhwala](https://github.com/doodhwala) and grepinsight(https://github.com/grepinsight)! 
+
++ Can anyone contribute the code for obataining the statistics of the authors of Top-100 papers?
 
 
 ## Table of Contents
