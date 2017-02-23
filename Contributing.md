@@ -1,6 +1,6 @@
 # Contributing Guide
 
-You can directly edit(add/delete/modify) the [README.md](https://github.com/terryum/awesome-deep-learning-papers/blob/master/README.md) file for contribution. If you don't know how to edit the file, please leave a message to the [Issue board](https://github.com/terryum/awesome-deep-learning-papers/issues). 
+You can directly edit(add/delete/modify) the [README.md](https://github.com/terryum/awesome-deep-learning-papers/blob/master/README.md) file for contribution. If you don't know how to edit the file, please leave a message to the [Issue board](https://github.com/terryum/awesome-deep-learning-papers/issues).
 
 ## Awesome list criteria
 
@@ -12,13 +12,13 @@ You can directly edit(add/delete/modify) the [README.md](https://github.com/terr
 - **2011** :  +500 citations (:sparkles: +1000)
 - **2010** :  +600 citations (:sparkles: +1200)
 
-This criteria is not a strict baseline, but a **flexible guideline** for being added to the awesome list. (Since the number of citations is affected by the research area, some papers under the threshold may be added to the list while some over the threshold may not.) If you add papers which are under the above criteria, please provide **enough descrpitions** which the papers should be added.
+This criteria is not a strict baseline, but a **flexible guideline** for being added to the awesome list. (Since the number of citations is affected by the research area, some papers under the threshold may be added to the list while some over the threshold may not.) If you add papers which are under the above criteria, please provide **enough descriptions** which the papers should be added.
 
 ## Edit the awesome list
 You can **add / delete / modify** the papers on the awesome list.
 
 #### Addition
-As mentioned above, please provide **enough descrpitions** when you push a request, especially for the papers which do not meet the criteria or for the papers for the *Papers Worth Reading* section.
+As mentioned above, please provide **enough descriptions** when you push a request, especially for the papers which do not meet the criteria or for the papers for the *Papers Worth Reading* section.
 
 Here is an example of markdown code for a paper on the list.
 
@@ -29,12 +29,12 @@ The pdf link which can directly download the pdf file rather than links to anoth
 #### Deletion
 If a paper seems to be out-of-date or be a duplication of another paper, you can suggest deletion. Deletion is also an important contribution to maintain a tractable number of papers on the awesome list.
 
-#### Modification 
-Modification (or Updates) that can usually happen is 
+#### Modification
+Modification (or Updates) that can usually happen is
 - addition of :sparkles: marks (as increasing number of citations)
-- addition of distingushed researchers
-- move papers from a section from another 
-- correction of typo, grammatic error, etc.
+- addition of distinguished researchers
+- move papers from a section from another
+- correction of typo, grammatical error, etc.
 
 Note that you are *not* allowed to add or modify the sections.
 

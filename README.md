@@ -16,28 +16,28 @@ Although the *Roadmap List* includes lots of important deep learning papers, it 
 
 1. A list of **top 100 deep learning papers** published from 2012 to 2016 is suggested.
 2. If a paper is added to the list, another paper (usually from *More Papers from 2016" section) should be removed to keep top 100 papers. (Thus, removing papers is also important contributions as well as adding papers)
-3. Papers that are important, but failed to be included in the list, will be listed in *More than Top 100* section. 
+3. Papers that are important, but failed to be included in the list, will be listed in *More than Top 100* section.
 4. Please refer to *New Papers* and *Old Papers* sections for the papers published in recent 6 months or before 2012.
 
 *(Citation criteria)*
 - **< 6 months** : *New Papers* (by discussion)
 - **2016** :  +60 citations or "More Papers from 2016"
-- **2015** :  +200 citations 
-- **2014** :  +400 citations 
-- **2013** :  +600 citations 
+- **2015** :  +200 citations
+- **2014** :  +400 citations
+- **2013** :  +600 citations
 - **2012** :  +800 citations
 - **~2012** : *Old Papers* (by discussion)
 
 Please note that we prefer seminal deep learning papers that can be applied to various researches rather than application papers. For that reason, some papers that meet the criteria may not be accepted while others can be. It depends on the impact of the paper, applicability to other researches scarcity of the research domain, and so on.
 
-**We need your contributions!** 
+**We need your contributions!**
 
 If you have any suggestions (missing papers, new papers, key researchers or typos), please feel free to edit and pull a request.
 (Please read the [contributing guide](https://github.com/terryum/awesome-deep-learning-papers/blob/master/Contributing.md) for further instructions, though just letting me know the title of papers can also be a big contribution to us.)
 
-(Update) You can download all top-100 papers with [this python code](https://github.com/terryum/awesome-deep-learning-papers/blob/master/fetch_papers.py). Also, [bib file](https://github.com/terryum/awesome-deep-learning-papers/blob/master/top100papers.bib) for all top-100 papers are available. Thanks, [doodhwala](https://github.com/doodhwala) and grepinsight(https://github.com/grepinsight)! 
+(Update) You can download all top-100 papers with [this python code](https://github.com/terryum/awesome-deep-learning-papers/blob/master/fetch_papers.py). Also, [bib file](https://github.com/terryum/awesome-deep-learning-papers/blob/master/top100papers.bib) for all top-100 papers are available. Thanks, [doodhwala](https://github.com/doodhwala) and grepinsight(https://github.com/grepinsight)!
 
-+ Can anyone contribute the code for obataining the statistics of the authors of Top-100 papers?
++ Can anyone contribute the code for obtaining the statistics of the authors of Top-100 papers?
 
 
 ## Table of Contents
@@ -60,7 +60,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 * [Old Papers](#old-papers) : Before 2012
 * [HW / SW / Dataset](#hw--sw--dataset) : Technical reports
 * [Book / Survey / Review](#book--survey--review)
-* [Video Lectures / Tutorials / Blogs](#video-lectures--tutorials--blogs) 
+* [Video Lectures / Tutorials / Blogs](#video-lectures--tutorials--blogs)
 * [Appendix: More than Top 100](#appendix-more-than-top-100) : More papers not in the list
 
 * * *
@@ -69,17 +69,17 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - **Distilling the knowledge in a neural network** (2015), G. Hinton et al. [[pdf]](http://arxiv.org/pdf/1503.02531)
 - **Deep neural networks are easily fooled: High confidence predictions for unrecognizable images** (2015), A. Nguyen et al. [[pdf]](http://arxiv.org/pdf/1412.1897)
 - **How transferable are features in deep neural networks?** (2014), J. Yosinski et al. [[pdf]](http://papers.nips.cc/paper/5347-how-transferable-are-features-in-deep-neural-networks.pdf)
-- **CNN features off-the-Shelf: An astounding baseline for recognition** (2014), A. Razavian et al. [[pdf]](http://www.cv-foundation.org//openaccess/content_cvpr_workshops_2014/W15/papers/Razavian_CNN_Features_Off-the-Shelf_2014_CVPR_paper.pdf) 
+- **CNN features off-the-Shelf: An astounding baseline for recognition** (2014), A. Razavian et al. [[pdf]](http://www.cv-foundation.org//openaccess/content_cvpr_workshops_2014/W15/papers/Razavian_CNN_Features_Off-the-Shelf_2014_CVPR_paper.pdf)
 - **Learning and transferring mid-Level image representations using convolutional neural networks** (2014), M. Oquab et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Oquab_Learning_and_Transferring_2014_CVPR_paper.pdf)
-- **Visualizing and understanding convolutional networks** (2014), M. Zeiler and R. Fergus [[pdf]](http://arxiv.org/pdf/1311.2901) 
-- **Decaf: A deep convolutional activation feature for generic visual recognition** (2014), J. Donahue et al. [[pdf]](http://arxiv.org/pdf/1310.1531) 
+- **Visualizing and understanding convolutional networks** (2014), M. Zeiler and R. Fergus [[pdf]](http://arxiv.org/pdf/1311.2901)
+- **Decaf: A deep convolutional activation feature for generic visual recognition** (2014), J. Donahue et al. [[pdf]](http://arxiv.org/pdf/1310.1531)
 
 <!---[Key researchers]  [Geoffrey Hinton](https://scholar.google.ca/citations?user=JicYPdAAAAAJ), [Yoshua Bengio](https://scholar.google.ca/citations?user=kukA0LcAAAAJ), [Jason Yosinski](https://scholar.google.ca/citations?hl=en&user=gxL1qj8AAAAJ) -->
 
 ### Optimization / Training Techniques
 - **Batch normalization: Accelerating deep network training by reducing internal covariate shift** (2015), S. Loffe and C. Szegedy [[pdf]](http://arxiv.org/pdf/1502.03167)
-- **Delving deep into rectifiers: Surpassing human-level performance on imagenet classification** (2015), K. He et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/He_Delving_Deep_into_ICCV_2015_paper.pdf) 
-- **Dropout: A simple way to prevent neural networks from overfitting** (2014), N. Srivastava et al. [[pdf]](http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf) 
+- **Delving deep into rectifiers: Surpassing human-level performance on imagenet classification** (2015), K. He et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/He_Delving_Deep_into_ICCV_2015_paper.pdf)
+- **Dropout: A simple way to prevent neural networks from overfitting** (2014), N. Srivastava et al. [[pdf]](http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
 - **Adam: A method for stochastic optimization** (2014), D. Kingma and J. Ba [[pdf]](http://arxiv.org/pdf/1412.6980)
 - **Improving neural networks by preventing co-adaptation of feature detectors** (2012), G. Hinton et al. [[pdf]](http://arxiv.org/pdf/1207.0580.pdf)
 - **Random search for hyper-parameter optimization** (2012) J. Bergstra and Y. Bengio [[pdf]](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a)
@@ -93,32 +93,32 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - **DRAW: A recurrent neural network for image generation** (2015), K. Gregor et al. [[pdf]](http://arxiv.org/pdf/1502.04623)
 - **Generative adversarial nets** (2014), I. Goodfellow et al. [[pdf]](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
 - **Auto-encoding variational Bayes** (2013), D. Kingma and M. Welling [[pdf]](http://arxiv.org/pdf/1312.6114)
-- **Building high-level features using large scale unsupervised learning** (2013), Q. Le et al. [[pdf]](http://arxiv.org/pdf/1112.6209) 
+- **Building high-level features using large scale unsupervised learning** (2013), Q. Le et al. [[pdf]](http://arxiv.org/pdf/1112.6209)
 
 <!---[Key researchers] [Yoshua Bengio](https://scholar.google.ca/citations?user=kukA0LcAAAAJ), [Ian Goodfellow](https://scholar.google.ca/citations?user=iYN86KEAAAAJ), [Alex Graves](https://scholar.google.ca/citations?user=DaFHynwAAAAJ)-->
 ### Convolutional Neural Network Models
 - **Rethinking the inception architecture for computer vision** (2016), C. Szegedy et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Szegedy_Rethinking_the_Inception_CVPR_2016_paper.pdf)
 - **Inception-v4, inception-resnet and the impact of residual connections on learning** (2016), C. Szegedy et al. [[pdf]](http://arxiv.org/pdf/1602.07261)
 - **Identity Mappings in Deep Residual Networks** (2016), K. He et al. [[pdf]](https://arxiv.org/pdf/1603.05027v2.pdf)
-- **Deep residual learning for image recognition** (2016), K. He et al. [[pdf]](http://arxiv.org/pdf/1512.03385) 
-- **Going deeper with convolutions** (2015), C. Szegedy et al.  [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf) 
-- **Very deep convolutional networks for large-scale image recognition** (2014), K. Simonyan and A. Zisserman [[pdf]](http://arxiv.org/pdf/1409.1556) 
+- **Deep residual learning for image recognition** (2016), K. He et al. [[pdf]](http://arxiv.org/pdf/1512.03385)
+- **Going deeper with convolutions** (2015), C. Szegedy et al.  [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf)
+- **Very deep convolutional networks for large-scale image recognition** (2014), K. Simonyan and A. Zisserman [[pdf]](http://arxiv.org/pdf/1409.1556)
 - **Spatial pyramid pooling in deep convolutional networks for visual recognition** (2014), K. He et al. [[pdf]](http://arxiv.org/pdf/1406.4729)
-- **Return of the devil in the details: delving deep into convolutional nets** (2014), K. Chatfield et al. [[pdf]](http://arxiv.org/pdf/1405.3531) 
+- **Return of the devil in the details: delving deep into convolutional nets** (2014), K. Chatfield et al. [[pdf]](http://arxiv.org/pdf/1405.3531)
 - **OverFeat: Integrated recognition, localization and detection using convolutional networks** (2013), P. Sermanet et al. [[pdf]](http://arxiv.org/pdf/1312.6229)
 - **Maxout networks** (2013), I. Goodfellow et al. [[pdf]](http://arxiv.org/pdf/1302.4389v4)
 - **Network in network** (2013), M. Lin et al. [[pdf]](http://arxiv.org/pdf/1312.4400)
-- **ImageNet classification with deep convolutional neural networks** (2012), A. Krizhevsky et al. [[pdf]](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) 
+- **ImageNet classification with deep convolutional neural networks** (2012), A. Krizhevsky et al. [[pdf]](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 
 <!---[Key researchers]  [Christian Szegedy](https://scholar.google.ca/citations?hl=en&user=3QeF7mAAAAAJ), [Kaming He](https://scholar.google.ca/citations?hl=en&user=DhtAFkwAAAAJ), [Shaoqing Ren](https://scholar.google.ca/citations?hl=en&user=AUhj438AAAAJ), [Jian Sun](https://scholar.google.ca/citations?hl=en&user=ALVSZAYAAAAJ), [Geoffrey Hinton](https://scholar.google.ca/citations?user=JicYPdAAAAAJ), [Yoshua Bengio](https://scholar.google.ca/citations?user=kukA0LcAAAAJ), [Yann LeCun](https://scholar.google.ca/citations?hl=en&user=WLN3QrAAAAAJ)-->
 
 ### Image: Segmentation / Object Detection
 - **You only look once: Unified, real-time object detection** (2016), J. Redmon et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf)
 - **Region-based convolutional networks for accurate object detection and segmentation** (2016), R. Girshick et al. [[pdf]](https://www.cs.berkeley.edu/~rbg/papers/pami/rcnn_pami.pdf)
-- **Fully convolutional networks for semantic segmentation** (2015), J. Long et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf) 
+- **Fully convolutional networks for semantic segmentation** (2015), J. Long et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)
 - **Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks** (2015), S. Ren et al. [[pdf]] (http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf)
 - **Fast R-CNN** (2015), R. Girshick [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf)
-- **Rich feature hierarchies for accurate object detection and semantic segmentation** (2014), R. Girshick et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf) 
+- **Rich feature hierarchies for accurate object detection and semantic segmentation** (2014), R. Girshick et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf)
 - **Semantic image segmentation with deep convolutional nets and fully connected CRFs**, L. Chen et al. [[pdf]](https://arxiv.org/pdf/1412.7062)
 - **Learning hierarchical features for scene labeling** (2013), C. Farabet et al. [[pdf]](https://hal-enpc.archives-ouvertes.fr/docs/00/74/20/77/PDF/farabet-pami-13.pdf)
 
@@ -127,13 +127,13 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 ### Image / Video / Etc
 - **Image Super-Resolution Using Deep Convolutional Networks** (2016), C. Dong et al. [[pdf]](https://arxiv.org/pdf/1501.00092v3.pdf)
 - **A neural algorithm of artistic style** (2015), L. Gatys et al. [[pdf]](https://arxiv.org/pdf/1508.06576)
-- **Deep visual-semantic alignments for generating image descriptions** (2015), A. Karpathy and L. Fei-Fei [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.pdf) 
-- **Show, attend and tell: Neural image caption generation with visual attention** (2015), K. Xu et al. [[pdf]](http://arxiv.org/pdf/1502.03044) 
+- **Deep visual-semantic alignments for generating image descriptions** (2015), A. Karpathy and L. Fei-Fei [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.pdf)
+- **Show, attend and tell: Neural image caption generation with visual attention** (2015), K. Xu et al. [[pdf]](http://arxiv.org/pdf/1502.03044)
 - **Show and tell: A neural image caption generator (2015)**, O. Vinyals et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Vinyals_Show_and_Tell_2015_CVPR_paper.pdf)
-- **Long-term recurrent convolutional networks for visual recognition and description** (2015), J. Donahue et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Donahue_Long-Term_Recurrent_Convolutional_2015_CVPR_paper.pdf) 
+- **Long-term recurrent convolutional networks for visual recognition and description** (2015), J. Donahue et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Donahue_Long-Term_Recurrent_Convolutional_2015_CVPR_paper.pdf)
 - **VQA: Visual question answering** (2015), S. Antol et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Antol_VQA_Visual_Question_ICCV_2015_paper.pdf)
 - **DeepFace: Closing the gap to human-level performance in face verification** (2014), Y. Taigman et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Taigman_DeepFace_Closing_the_2014_CVPR_paper.pdf):
-- **Large-scale video classification with convolutional neural networks** (2014), A. Karpathy et al. [[pdf]](http://vision.stanford.edu/pdf/karpathy14.pdf) 
+- **Large-scale video classification with convolutional neural networks** (2014), A. Karpathy et al. [[pdf]](http://vision.stanford.edu/pdf/karpathy14.pdf)
 - **DeepPose: Human pose estimation via deep neural networks** (2014), A. Toshev and C. Szegedy [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Toshev_DeepPose_Human_Pose_2014_CVPR_paper.pdf)
 - **Two-stream convolutional networks for action recognition in videos** (2014), K. Simonyan et al. [[pdf]](http://papers.nips.cc/paper/5353-two-stream-convolutional-networks-for-action-recognition-in-videos.pdf)
 - **3D convolutional neural networks for human action recognition** (2013), S. Ji et al. [[pdf]](http://machinelearning.wustl.edu/mlpapers/paper_files/icml2010_JiXYY10.pdf)
@@ -141,7 +141,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 <!---[Key researchers]  [Oriol Vinyals](https://scholar.google.ca/citations?user=NkzyCvUAAAAJ), [Andrej Karpathy](https://scholar.google.ca/citations?user=l8WuQJgAAAAJ)-->
 
 ### Recurrent Neural Network Models
-- **Conditional random fields as recurrent neural networks** (2015), S. Zheng and S. Jayasumana. [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zheng_Conditional_Random_Fields_ICCV_2015_paper.pdf) 
+- **Conditional random fields as recurrent neural networks** (2015), S. Zheng and S. Jayasumana. [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zheng_Conditional_Random_Fields_ICCV_2015_paper.pdf)
 - **Memory networks** (2014), J. Weston et al. [[pdf]](https://arxiv.org/pdf/1410.3916)
 - **Neural turing machines** (2014), A. Graves et al. [[pdf]](https://arxiv.org/pdf/1410.5401)
 - **Generating sequences with recurrent neural networks** (2013), A. Graves. [[pdf]](https://arxiv.org/pdf/1308.0850)
@@ -153,37 +153,37 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - **Exploring the limits of language modeling** (2016), R. Jozefowicz et al. [[pdf]](http://arxiv.org/pdf/1602.02410)
 - **Teaching machines to read and comprehend** (2015), K. Hermann et al. [[pdf]](http://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf)
 - **Effective approaches to attention-based neural machine translation** (2015), M. Luong et al. [[pdf]](https://arxiv.org/pdf/1508.04025)
-- **Neural machine translation by jointly learning to align and translate** (2014), D. Bahdanau et al. [[pdf]](http://arxiv.org/pdf/1409.0473) 
-- **Sequence to sequence learning with neural networks** (2014), I. Sutskever et al. [[pdf]](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf) 
+- **Neural machine translation by jointly learning to align and translate** (2014), D. Bahdanau et al. [[pdf]](http://arxiv.org/pdf/1409.0473)
+- **Sequence to sequence learning with neural networks** (2014), I. Sutskever et al. [[pdf]](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
 - **Learning phrase representations using RNN encoder-decoder for statistical machine translation** (2014), K. Cho et al. [[pdf]](http://arxiv.org/pdf/1406.1078)
-- **A convolutional neural network for modelling sentences** (2014), N. Kalchbrenner et al. [[pdf]](http://arxiv.org/pdf/1404.2188v1)
+- **A convolutional neural network for modeling sentences** (2014), N. Kalchbrenner et al. [[pdf]](http://arxiv.org/pdf/1404.2188v1)
 - **Convolutional neural networks for sentence classification** (2014), Y. Kim [[pdf]](http://arxiv.org/pdf/1408.5882)
-- **Glove: Global vectors for word representation** (2014), J. Pennington et al. [[pdf]](http://anthology.aclweb.org/D/D14/D14-1162.pdf) 
-- **Distributed representations of sentences and documents** (2014), Q. Le and T. Mikolov [[pdf]](http://arxiv.org/pdf/1405.4053) 
+- **Glove: Global vectors for word representation** (2014), J. Pennington et al. [[pdf]](http://anthology.aclweb.org/D/D14/D14-1162.pdf)
+- **Distributed representations of sentences and documents** (2014), Q. Le and T. Mikolov [[pdf]](http://arxiv.org/pdf/1405.4053)
 - **Distributed representations of words and phrases and their compositionality** (2013), T. Mikolov et al. [[pdf]](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
-- **Efficient estimation of word representations in vector space** (2013), T. Mikolov et al.  [[pdf]](http://arxiv.org/pdf/1301.3781) 
-- **Recursive deep models for semantic compositionality over a sentiment treebank** (2013), R. Socher et al. [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.383.1327&rep=rep1&type=pdf) 
+- **Efficient estimation of word representations in vector space** (2013), T. Mikolov et al.  [[pdf]](http://arxiv.org/pdf/1301.3781)
+- **Recursive deep models for semantic compositionality over a sentiment treebank** (2013), R. Socher et al. [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.383.1327&rep=rep1&type=pdf)
 
 <!---[Key researchers]  [Kyunghyun Cho](https://scholar.google.ca/citations?user=0RAmmIAAAAAJ), [Oriol Vinyals](https://scholar.google.ca/citations?user=NkzyCvUAAAAJ), [Richard Socher](https://scholar.google.ca/citations?hl=en&user=FaOcyfMAAAAJ), [Tomas Mikolov](https://scholar.google.ca/citations?user=oBu8kMMAAAAJ), [Christopher D. Manning](https://scholar.google.ca/citations?user=1zmDOdwAAAAJ), [Yoshua Bengio](https://scholar.google.ca/citations?user=kukA0LcAAAAJ)-->
 
 ### Speech / Other Domain
 - **End-to-end attention-based large vocabulary speech recognition** (2016), D. Bahdanau et al. [[pdf]](https://arxiv.org/pdf/1508.04395)
-- **Deep speech 2: End-to-end speech recognition in English and Mandarin** (2015), D. Amodei et al. [[pdf]](https://arxiv.org/pdf/1512.02595) 
+- **Deep speech 2: End-to-end speech recognition in English and Mandarin** (2015), D. Amodei et al. [[pdf]](https://arxiv.org/pdf/1512.02595)
 - **Speech recognition with deep recurrent neural networks** (2013), A. Graves [[pdf]](http://arxiv.org/pdf/1303.5778.pdf)
-- **Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups** (2012), G. Hinton et al. [[pdf]](http://www.cs.toronto.edu/~asamir/papers/SPM_DNN_12.pdf) 
-- **Context-dependent pre-trained deep neural networks for large-vocabulary speech recognition** (2012) G. Dahl et al. [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.337.7548&rep=rep1&type=pdf) 
+- **Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups** (2012), G. Hinton et al. [[pdf]](http://www.cs.toronto.edu/~asamir/papers/SPM_DNN_12.pdf)
+- **Context-dependent pre-trained deep neural networks for large-vocabulary speech recognition** (2012) G. Dahl et al. [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.337.7548&rep=rep1&type=pdf)
 - **Acoustic modeling using deep belief networks** (2012), A. Mohamed et al. [[pdf]](http://www.cs.toronto.edu/~asamir/papers/speechDBN_jrnl.pdf)
 
 <!---[Key researchers]  [Alex Graves](https://scholar.google.ca/citations?user=DaFHynwAAAAJ), [Geoffrey Hinton](https://scholar.google.ca/citations?user=JicYPdAAAAAJ), [Dong Yu](https://scholar.google.ca/citations?hl=en&user=tMY31_gAAAAJ)-->
 
 ### Reinforcement Learning / Robotics
-- **End-to-end training of deep visuomotor policies** (2016), S. Levine et al. [[pdf]](http://www.jmlr.org/papers/volume17/15-522/source/15-522.pdf) 
+- **End-to-end training of deep visuomotor policies** (2016), S. Levine et al. [[pdf]](http://www.jmlr.org/papers/volume17/15-522/source/15-522.pdf)
 - **Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection** (2016), S. Levine et al. [[pdf]](https://arxiv.org/pdf/1603.02199)
 - **Asynchronous methods for deep reinforcement learning** (2016), V. Mnih et al. [[pdf]](http://www.jmlr.org/proceedings/papers/v48/mniha16.pdf)
 - **Deep Reinforcement Learning with Double Q-Learning** (2016), H. Hasselt et al. [[pdf]](https://arxiv.org/pdf/1509.06461.pdf )
-- **Mastering the game of Go with deep neural networks and tree search** (2016), D. Silver et al. [[pdf]](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html) 
+- **Mastering the game of Go with deep neural networks and tree search** (2016), D. Silver et al. [[pdf]](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html)
 - **Continuous control with deep reinforcement learning** (2015), T. Lillicrap et al. [[pdf]](https://arxiv.org/pdf/1509.02971)
-- **Human-level control through deep reinforcement learning** (2015), V. Mnih et al. [[pdf]](http://www.davidqiu.com:8888/research/nature14236.pdf) 
+- **Human-level control through deep reinforcement learning** (2015), V. Mnih et al. [[pdf]](http://www.davidqiu.com:8888/research/nature14236.pdf)
 - **Deep learning for detecting robotic grasps** (2015), I. Lenz et al. [[pdf]](http://www.cs.cornell.edu/~asaxena/papers/lenz_lee_saxena_deep_learning_grasping_ijrr2014.pdf)
 - **Playing atari with deep reinforcement learning** (2013), V. Mnih et al. [[pdf]](http://arxiv.org/pdf/1312.5602.pdf))
 
@@ -194,10 +194,10 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - **Learning to learn by gradient descent by gradient descent** (2016), M. Andrychowicz et al. [[pdf]](http://arxiv.org/pdf/1606.04474v1)
 - **Domain-adversarial training of neural networks** (2016), Y. Ganin et al. [[pdf]](http://www.jmlr.org/papers/volume17/15-239/source/15-239.pdf)
 - **WaveNet: A Generative Model for Raw Audio** (2016), A. Oord et al. [[pdf]](https://arxiv.org/pdf/1609.03499v2) [[web]](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
-- **Colorful image colorization** (2016), R. Zhang et al. [[pdf]](https://arxiv.org/pdf/1603.08511) 
+- **Colorful image colorization** (2016), R. Zhang et al. [[pdf]](https://arxiv.org/pdf/1603.08511)
 - **Generative visual manipulation on the natural image manifold** (2016), J. Zhu et al. [[pdf]](https://arxiv.org/pdf/1609.03552)
 - **Texture networks: Feed-forward synthesis of textures and stylized images** (2016), D Ulyanov et al. [[pdf]](http://www.jmlr.org/proceedings/papers/v48/ulyanov16.pdf)
-- **SSD: Single shot multibox detector** (2016), W. Liu et al. [[pdf]](https://arxiv.org/pdf/1512.02325) 
+- **SSD: Single shot multibox detector** (2016), W. Liu et al. [[pdf]](https://arxiv.org/pdf/1512.02325)
 - **SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 1MB model size** (2016), F. Iandola et al. [[pdf]](http://arxiv.org/pdf/1602.07360)
 - **Eie: Efficient inference engine on compressed deep neural network** (2016), S. Han et al. [[pdf]](http://arxiv.org/pdf/1602.01528)
 - **Binarized neural networks: Training deep neural networks with weights and activations constrained to+ 1 or-1** (2016), M. Courbariaux et al. [[pdf]](https://arxiv.org/pdf/1602.02830)
@@ -221,7 +221,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 *Classic papers published before 2012*
 - An analysis of single-layer networks in unsupervised feature learning (2011), A. Coates et al. [[pdf]](http://machinelearning.wustl.edu/mlpapers/paper_files/AISTATS2011_CoatesNL11.pdf)
 - Deep sparse rectifier neural networks (2011), X. Glorot et al. [[pdf]](http://machinelearning.wustl.edu/mlpapers/paper_files/AISTATS2011_GlorotBB11.pdf)
-- Natural language processing (almost) from scratch (2011), R. Collobert et al. [[pdf]](http://arxiv.org/pdf/1103.0398) 
+- Natural language processing (almost) from scratch (2011), R. Collobert et al. [[pdf]](http://arxiv.org/pdf/1103.0398)
 - Recurrent neural network based language model (2010), T. Mikolov et al. [[pdf]](http://www.fit.vutbr.cz/research/groups/speech/servite/2010/rnnlm_mikolov.pdf)
 - Stacked denoising autoencoders: Learning useful representations in a deep network with a local denoising criterion (2010), P. Vincent et al. [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.297.3484&rep=rep1&type=pdf)
 - Learning mid-level features for recognition (2010), Y. Boureau [[pdf]](http://ece.duke.edu/~lcarin/boureau-cvpr-10.pdf)
@@ -239,19 +239,19 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 ### HW / SW / Dataset
 - OpenAI gym (2016), G. Brockman et al. [[pdf]](https://arxiv.org/pdf/1606.01540)
-- TensorFlow: Large-scale machine learning on heterogeneous distributed systems (2016), M. Abadi et al. [[pdf]](http://arxiv.org/pdf/1603.04467) 
-- Theano: A Python framework for fast computation of mathematical expressions, R. Al-Rfou et al. 
+- TensorFlow: Large-scale machine learning on heterogeneous distributed systems (2016), M. Abadi et al. [[pdf]](http://arxiv.org/pdf/1603.04467)
+- Theano: A Python framework for fast computation of mathematical expressions, R. Al-Rfou et al.
 - MatConvNet: Convolutional neural networks for matlab (2015), A. Vedaldi and K. Lenc [[pdf]](http://arxiv.org/pdf/1412.4564)
 - Imagenet large scale visual recognition challenge (2015), O. Russakovsky et al. [[pdf]](http://arxiv.org/pdf/1409.0575)
-- Caffe: Convolutional architecture for fast feature embedding (2014), Y. Jia et al. [[pdf]](http://arxiv.org/pdf/1408.5093) 
+- Caffe: Convolutional architecture for fast feature embedding (2014), Y. Jia et al. [[pdf]](http://arxiv.org/pdf/1408.5093)
 
 
 ### Book / Survey / Review
 - Deep learning (Book, 2016), Goodfellow et al. [[html]](http://www.deeplearningbook.org/)
 - LSTM: A search space odyssey (2016), K. Greff et al. [[pdf]](https://arxiv.org/pdf/1503.04069.pdf?utm_content=buffereddc5&utm_medium=social&utm_source=plus.google.com&utm_campaign=buffer)
-- Deep learning (2015), Y. LeCun, Y. Bengio and G. Hinton [[pdf]](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) 
-- Deep learning in neural networks: An overview (2015), J. Schmidhuber [[pdf]](http://arxiv.org/pdf/1404.7828) 
-- Representation learning: A review and new perspectives (2013), Y. Bengio et al. [[pdf]](http://arxiv.org/pdf/1206.5538) 
+- Deep learning (2015), Y. LeCun, Y. Bengio and G. Hinton [[pdf]](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
+- Deep learning in neural networks: An overview (2015), J. Schmidhuber [[pdf]](http://arxiv.org/pdf/1404.7828)
+- Representation learning: A review and new perspectives (2013), Y. Bengio et al. [[pdf]](http://arxiv.org/pdf/1206.5538)
 
 ### Video Lectures / Tutorials / Blogs
 
@@ -316,7 +316,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - Character-aware neural language models (2015), Y. Kim et al. [[pdf]](https://arxiv.org/pdf/1508.06615)
 - Grammar as a foreign language (2015), O. Vinyals et al. [[pdf]](http://papers.nips.cc/paper/5635-grammar-as-a-foreign-language.pdf)
 - Trust Region Policy Optimization (2015), J. Schulman et al. [[pdf]](http://www.jmlr.org/proceedings/papers/v37/schulman15.pdf)
-- Beyond short snippents: Deep networks for video classification (2015) [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Ng_Beyond_Short_Snippets_2015_CVPR_paper.pdf) 
+- Beyond short snippents: Deep networks for video classification (2015) [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Ng_Beyond_Short_Snippets_2015_CVPR_paper.pdf)
 - Learning Deconvolution Network for Semantic Segmentation (2015), H. Noh et al. [[pdf]](https://arxiv.org/pdf/1505.04366v1)
 - Learning spatiotemporal features with 3d convolutional networks (2015), D. Tran et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Tran_Learning_Spatiotemporal_Features_ICCV_2015_paper.pdf)
 - Understanding neural networks through deep visualization (2015), J. Yosinski et al. [[pdf]](https://arxiv.org/pdf/1506.06579)
@@ -347,7 +347,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - Regularization of neural networks using dropconnect (2013), L. Wan et al. [[pdf]](http://machinelearning.wustl.edu/mlpapers/paper_files/icml2013_wan13.pdf)
 - Learning Hierarchical Features for Scene Labeling (2013), C. Farabet et al. [[pdf]](https://hal-enpc.archives-ouvertes.fr/docs/00/74/20/77/PDF/farabet-pami-13.pdf)
 - Linguistic Regularities in Continuous Space Word Representations (2013), T. Mikolov et al. [[pdf]](http://www.aclweb.org/anthology/N13-1#page=784)
-- Large scale distributed deep networks (2012), J. Dean et al. [[pdf]](http://papers.nips.cc/paper/4687-large-scale-distributed-deep-networks.pdf) 
+- Large scale distributed deep networks (2012), J. Dean et al. [[pdf]](http://papers.nips.cc/paper/4687-large-scale-distributed-deep-networks.pdf)
 
 
 
@@ -356,7 +356,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 Thank you for all your contributions. Please make sure to read the [contributing guide](https://github.com/terryum/awesome-deep-learning-papers/blob/master/Contributing.md) before you make a pull request.
 
-You can follow my [facebook page](https://www.facebook.com/terryum.io/), [twitter](https://twitter.com/TerryUm_ML) or [google plus](https://plus.google.com/+TerryTaeWoongUm/) to get useful information about machine learning and deep learning reseraches. Thank you.
+You can follow my [facebook page](https://www.facebook.com/terryum.io/), [twitter](https://twitter.com/TerryUm_ML) or [google plus](https://plus.google.com/+TerryTaeWoongUm/) to get useful information about machine learning and deep learning research. Thank you.
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
