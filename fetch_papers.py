@@ -16,7 +16,8 @@ with codecs.open('README.md', encoding='utf-8', mode='r', buffering=1, errors='s
     for line in lines:
         if('###' in line):
             heading = line.strip().split('###')[1]
-            heading = heading.replace('/', '|')
+            win_restricted_chars = re.compile(r'[\^\/\\\:\*\?\"<>\|]')
+            heading = win_restricted_chars.sub("", heading)
             section_path = os.path.join(directory, heading)
             if not os.path.exists(section_path):
                 os.makedirs(section_path)
@@ -26,6 +27,7 @@ with codecs.open('README.md', encoding='utf-8', mode='r', buffering=1, errors='s
             result = re.search('\*\*(.*?)\*\*.*?\[\[pdf\]\]\((.*?)\)', line)
             if(result):
                 paper, url = result.groups()
+                paper = win_restricted_chars.sub("", paper)
                 # Auto - resume functionality
                 if(not os.path.exists(os.path.join(section_path, paper + '.pdf'))):
                     print('Fetching', paper)
