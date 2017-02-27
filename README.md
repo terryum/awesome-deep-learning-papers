@@ -241,6 +241,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - OpenAI gym (2016), G. Brockman et al. [[pdf]](https://arxiv.org/pdf/1606.01540)
 - TensorFlow: Large-scale machine learning on heterogeneous distributed systems (2016), M. Abadi et al. [[pdf]](http://arxiv.org/pdf/1603.04467)
 - Theano: A Python framework for fast computation of mathematical expressions, R. Al-Rfou et al.
+- Torch7: A matlab-like environment for machine learning, R. Collobert et al. [[pdf]](https://ronan.collobert.com/pub/matos/2011_torch7_nipsw.pdf)
 - MatConvNet: Convolutional neural networks for matlab (2015), A. Vedaldi and K. Lenc [[pdf]](http://arxiv.org/pdf/1412.4564)
 - Imagenet large scale visual recognition challenge (2015), O. Russakovsky et al. [[pdf]](http://arxiv.org/pdf/1409.0575)
 - Caffe: Convolutional architecture for fast feature embedding (2014), Y. Jia et al. [[pdf]](http://arxiv.org/pdf/1408.5093)
