@@ -17,9 +17,7 @@ proxies = {
 
 
 def rename(name):
-    if ':' in name:
-        name = name.replace(':', '-')
-    return name.replace('?', '')
+    return name.replace(':', '-').replace('?', '')
 
 
 directory = 'papers'
@@ -33,7 +31,7 @@ with codecs.open('README.md', encoding='utf-8', mode='r', buffering=1, errors='s
     for line in lines:
         if ('###' in line):
             heading = line.strip().split('###')[1]
-            heading = heading.replace('/', '&')
+            heading = heading.replace('/', '&').replace(':', '-')
             section_path = os.path.join(directory, heading)
             if not os.path.exists(section_path):
                 os.makedirs(section_path)
