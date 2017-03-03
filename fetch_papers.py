@@ -45,6 +45,9 @@ with codecs.open('README.md', encoding='utf-8', mode='r', buffering=1, errors='s
                 filename = rename(paper)
                 if (not os.path.exists(os.path.join(section_path, filename + '.pdf'))):
                     print('Fetching', paper)
-                    response = requests.get(url, proxies=proxies)
-                    with open(os.path.join(section_path, filename + '.pdf'), 'wb') as f:
-                        f.write(response.content)
+                    try:
+                        response = requests.get(url, proxies=proxies)
+                        with open(os.path.join(section_path, filename + '.pdf'), 'wb') as f:
+                            f.write(response.content)
+                    except:
+                        print("Exception occur.")
