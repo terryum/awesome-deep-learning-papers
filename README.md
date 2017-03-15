@@ -336,6 +336,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - A neural conversational model (2015), O. Vinyals and Q. Le. [[pdf]](https://arxiv.org/pdf/1506.05869.pdf)
 - Transition-Based Dependency Parsing with Stack Long Short-Term Memory (2015), C. Dyer et al., [[pdf]](http://aclweb.org/anthology/P/P15/P15-1033.pdf)
 - Improved Transition-Based Parsing by Modeling Characters instead of Words with LSTMs (2015), M. Ballesteros et al., [[pdf]](http://aclweb.org/anthology/D/D15/D15-1041.pdf)
+- Finding function in form: Compositional character models for open vocabulary word representation (2015), W. Ling et al., [[pdf]] (http://aclweb.org/anthology/D/D15/D15-1176.pdf)
 
 
 *(~2014)*
