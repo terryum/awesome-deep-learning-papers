@@ -148,8 +148,9 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 <!---[Key researchers]  [Alex Graves](https://scholar.google.ca/citations?user=DaFHynwAAAAJ)-->
 
-### Natural Language Process
-- **A character-level decoder without explicit segmentation for neural machine translation** (2016), J. Chung et al. [[pdf]](https://arxiv.org/pdf/1603.06147)
+### Natural Language Processing
+- **Neural Architectures for Named Entity Recognition** (2016), G. Lample et al. [[pdf]]
+ (http://aclweb.org/anthology/N/N16/N16-1030.pdf)
 - **Exploring the limits of language modeling** (2016), R. Jozefowicz et al. [[pdf]](http://arxiv.org/pdf/1602.02410)
 - **Teaching machines to read and comprehend** (2015), K. Hermann et al. [[pdf]](http://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf)
 - **Effective approaches to attention-based neural machine translation** (2015), M. Luong et al. [[pdf]](https://arxiv.org/pdf/1508.04025)
@@ -277,6 +278,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 ### Appendix: More than Top 100
 *(2016)*
+- A character-level decoder without explicit segmentation for neural machine translation (2016), J. Chung et al. [[pdf]](https://arxiv.org/pdf/1603.06147)
 - Dermatologist-level classification of skin cancer with deep neural networks (2017), A. Esteva et al. [[html]](http://www.nature.com/nature/journal/v542/n7639/full/nature21056.html)
 - Weakly supervised object localization with multi-fold multiple instance learning (2017), R. Gokberk et al. [[pdf]](https://arxiv.org/pdf/1503.00949)
 - Brain tumor segmentation with deep neural networks (2017), M. Havaei et al. [[pdf]](https://arxiv.org/pdf/1505.03540)
@@ -303,7 +305,6 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - Generative Short Term Stochastic Gibbs Networks 2016), I. Lenz et al. [[pdf]](https://arxiv.org/pdf/1301.3592)
 
 *(2015)*
-
 - Spatial transformer network (2015), M. Jaderberg et al., [[pdf]](http://papers.nips.cc/paper/5854-spatial-transformer-networks.pdf)
 - Ask your neurons: A neural-based approach to answering questions about images (2015), M. Malinowski et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Malinowski_Ask_Your_Neurons_ICCV_2015_paper.pdf)
 - Exploring models and data for image question answering (2015), M. Ren et al. [[pdf]](http://papers.nips.cc/paper/5640-stochastic-variational-inference-for-hidden-markov-models.pdf)
@@ -333,6 +334,9 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - End-to-end memory networks (2015), S. Sukbaatar et al. [[pdf]](http://papers.nips.cc/paper/5846-end-to-end-memory-networks.pdf)
 - Describing videos by exploiting temporal structure (2015), L. Yao et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Yao_Describing_Videos_by_ICCV_2015_paper.pdf)
 - A neural conversational model (2015), O. Vinyals and Q. Le. [[pdf]](https://arxiv.org/pdf/1506.05869.pdf)
+- Transition-Based Dependency Parsing with Stack Long Short-Term Memory (2015), C. Dyer et al., [[pdf]](http://aclweb.org/anthology/P/P15/P15-1033.pdf)
+- Improved Transition-Based Parsing by Modeling Characters instead of Words with LSTMs (2015), M. Ballesteros et al., [[pdf]](http://aclweb.org/anthology/D/D15/D15-1041.pdf)
+
 
 *(~2014)*
 
