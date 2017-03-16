@@ -334,6 +334,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - End-to-end memory networks (2015), S. Sukbaatar et al. [[pdf]](http://papers.nips.cc/paper/5846-end-to-end-memory-networks.pdf)
 - Describing videos by exploiting temporal structure (2015), L. Yao et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Yao_Describing_Videos_by_ICCV_2015_paper.pdf)
 - A neural conversational model (2015), O. Vinyals and Q. Le. [[pdf]](https://arxiv.org/pdf/1506.05869.pdf)
+- Improving distributional similarity with lessons learned from word embeddings, O. Levy et al., [[pdf]] (https://www.transacl.org/ojs/index.php/tacl/article/download/570/124)
 - Transition-Based Dependency Parsing with Stack Long Short-Term Memory (2015), C. Dyer et al., [[pdf]](http://aclweb.org/anthology/P/P15/P15-1033.pdf)
 - Improved Transition-Based Parsing by Modeling Characters instead of Words with LSTMs (2015), M. Ballesteros et al., [[pdf]](http://aclweb.org/anthology/D/D15/D15-1041.pdf)
 - Finding function in form: Compositional character models for open vocabulary word representation (2015), W. Ling et al., [[pdf]] (http://aclweb.org/anthology/D/D15/D15-1176.pdf)
