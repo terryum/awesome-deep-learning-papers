@@ -362,7 +362,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - Learning Hierarchical Features for Scene Labeling (2013), C. Farabet et al. [[pdf]](https://hal-enpc.archives-ouvertes.fr/docs/00/74/20/77/PDF/farabet-pami-13.pdf)
 - Linguistic Regularities in Continuous Space Word Representations (2013), T. Mikolov et al. [[pdf]](http://www.aclweb.org/anthology/N13-1#page=784)
 - Large scale distributed deep networks (2012), J. Dean et al. [[pdf]](http://papers.nips.cc/paper/4687-large-scale-distributed-deep-networks.pdf)
-- A Fast and Accurate Dependency Parser using Neural Networks. Chen and Manning. [[pdf]] (http://cs.stanford.edu/people/danqi/papers/emnlp2014.pdf)
+- A Fast and Accurate Dependency Parser using Neural Networks. Chen and Manning. [[pdf]](http://cs.stanford.edu/people/danqi/papers/emnlp2014.pdf)
 
 
 
