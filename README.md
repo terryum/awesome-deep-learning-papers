@@ -205,20 +205,21 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - **Dynamic memory networks for visual and textual question answering** (2016), C. Xiong et al. [[pdf]](http://www.jmlr.org/proceedings/papers/v48/xiong16.pdf)
 - **Stacked attention networks for image question answering** (2016), Z. Yang et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yang_Stacked_Attention_Networks_CVPR_2016_paper.pdf)
 - **Hybrid computing using a neural network with dynamic external memory** (2016), A. Graves et al. [[pdf]](https://www.gwern.net/docs/2016-graves.pdf)
-- **Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation** (2016), Y. Wu et al. [[pdf]](https://arxiv.org/pdf/1609.08144)
+- **Google's neural machine translation system: Bridging the gap between human and machine translation** (2016), Y. Wu et al. [[pdf]](https://arxiv.org/pdf/1609.08144)
 
 * * *
 
 
 ### New papers
 *Newly published papers (< 6 months) which are worth reading*
-- Learning to Discover Cross-Domain Relations with Generative Adversarial Networks (2017), T. Kim et al. [[pdf]](http://arxiv.org/pdf/1703.05192v1.pdf) 
-- Deep Voice: Real-time Neural Text-to-Speech (2017), S. Arik et al., [[pdf]](http://arxiv.org/pdf/1702.07825v2.pdf)
+- Mask R-CNN (2017), K. He. [[pdf]](https://128.84.21.199/pdf/1703.06870)
+- Learning to discover cross-domain relations with generative adversarial networks (2017), T. Kim et al. [[pdf]](http://arxiv.org/pdf/1703.05192v1.pdf) 
+- Deep voice: Real-time neural text-to-speech (2017), S. Arik et al., [[pdf]](http://arxiv.org/pdf/1702.07825v2.pdf)
 - PixelNet: Representation of the pixels, by the pixels, and for the pixels (2017), A. Bansal et al. [[pdf]](http://arxiv.org/pdf/1702.06506v1.pdf)
-- Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models (2017), S. Ioffe. [[pdf]](https://arxiv.org/abs/1702.03275)
+- Batch renormalization: Towards reducing minibatch dependence in batch-normalized models (2017), S. Ioffe. [[pdf]](https://arxiv.org/abs/1702.03275)
 - Wasserstein GAN (2017), M. Arjovsky et al. [[pdf]](https://arxiv.org/pdf/1701.07875v1)
 - Understanding deep learning requires rethinking generalization (2017), C. Zhang et al. [[pdf]](https://arxiv.org/pdf/1611.03530)
-
+- Least squares generative adversarial networks (2016), X. Mao et al. [[pdf]](https://arxiv.org/abs/1611.04076v2)
 
 
 ### Old Papers
