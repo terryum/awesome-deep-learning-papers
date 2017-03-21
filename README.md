@@ -212,9 +212,12 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 ### New papers
 *Newly published papers (< 6 months) which are worth reading*
-- Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models, S. Ioffe. [[pdf]](https://arxiv.org/abs/1702.03275)
-- Wasserstein GAN, M. Arjovsky et al. [[pdf]](https://arxiv.org/pdf/1701.07875v1)
-- Understanding deep learning requires rethinking generalization, C. Zhang et al. [[pdf]](https://arxiv.org/pdf/1611.03530)
+- Learning to Discover Cross-Domain Relations with Generative Adversarial Networks (2017), T. Kim et al. [[pdf]](http://arxiv.org/pdf/1703.05192v1.pdf) 
+- Deep Voice: Real-time Neural Text-to-Speech (2017), S. Arik et al., [[pdf]](http://arxiv.org/pdf/1702.07825v2.pdf)
+- PixelNet: Representation of the pixels, by the pixels, and for the pixels (2017), A. Bansal et al. [[pdf]](http://arxiv.org/pdf/1702.06506v1.pdf)
+- Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models (2017), S. Ioffe. [[pdf]](https://arxiv.org/abs/1702.03275)
+- Wasserstein GAN (2017), M. Arjovsky et al. [[pdf]](https://arxiv.org/pdf/1701.07875v1)
+- Understanding deep learning requires rethinking generalization (2017), C. Zhang et al. [[pdf]](https://arxiv.org/pdf/1611.03530)
 
 
 
@@ -249,6 +252,9 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 
 ### Book / Survey / Review
+- On the Origin of Deep Learning (2017), H. Wang and Bhiksha Raj. [[pdf]](https://arxiv.org/pdf/1702.07800)
+- Deep Reinforcement Learning: An Overview (2017), Y. Li, [[pdf]](http://arxiv.org/pdf/1701.07274v2.pdf)
+- Neural Machine Translation and Sequence-to-sequence Models(2017): A Tutorial, G. Neubig. [[pdf]](http://arxiv.org/pdf/1703.01619v1.pdf)
 - Neural Network and Deep Learning (Book, Jan 2017), Michael Nielsen. [[html]](http://neuralnetworksanddeeplearning.com/index.html)
 - Deep learning (Book, 2016), Goodfellow et al. [[html]](http://www.deeplearningbook.org/)
 - LSTM: A search space odyssey (2016), K. Greff et al. [[pdf]](https://arxiv.org/pdf/1503.04069.pdf?utm_content=buffereddc5&utm_medium=social&utm_source=plus.google.com&utm_campaign=buffer)
@@ -334,10 +340,10 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - End-to-end memory networks (2015), S. Sukbaatar et al. [[pdf]](http://papers.nips.cc/paper/5846-end-to-end-memory-networks.pdf)
 - Describing videos by exploiting temporal structure (2015), L. Yao et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Yao_Describing_Videos_by_ICCV_2015_paper.pdf)
 - A neural conversational model (2015), O. Vinyals and Q. Le. [[pdf]](https://arxiv.org/pdf/1506.05869.pdf)
-- Improving distributional similarity with lessons learned from word embeddings, O. Levy et al., [[pdf]] (https://www.transacl.org/ojs/index.php/tacl/article/download/570/124)
-- Transition-Based Dependency Parsing with Stack Long Short-Term Memory (2015), C. Dyer et al., [[pdf]](http://aclweb.org/anthology/P/P15/P15-1033.pdf)
-- Improved Transition-Based Parsing by Modeling Characters instead of Words with LSTMs (2015), M. Ballesteros et al., [[pdf]](http://aclweb.org/anthology/D/D15/D15-1041.pdf)
-- Finding function in form: Compositional character models for open vocabulary word representation (2015), W. Ling et al., [[pdf]] (http://aclweb.org/anthology/D/D15/D15-1176.pdf)
+- Improving distributional similarity with lessons learned from word embeddings, O. Levy et al. [[pdf]] (https://www.transacl.org/ojs/index.php/tacl/article/download/570/124)
+- Transition-Based Dependency Parsing with Stack Long Short-Term Memory (2015), C. Dyer et al. [[pdf]](http://aclweb.org/anthology/P/P15/P15-1033.pdf)
+- Improved Transition-Based Parsing by Modeling Characters instead of Words with LSTMs (2015), M. Ballesteros et al. [[pdf]](http://aclweb.org/anthology/D/D15/D15-1041.pdf)
+- Finding function in form: Compositional character models for open vocabulary word representation (2015), W. Ling et al. [[pdf]](http://aclweb.org/anthology/D/D15/D15-1176.pdf)
 
 
 *(~2014)*
