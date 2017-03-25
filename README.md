@@ -279,6 +279,8 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - Bay Area Deep Learning School 2016, Stanford [[web]](https://www.bayareadlschool.org/)
 
 *(Blogs)*
+- OpenAI [[web]](https://www.openai.com/)
+- Distill [[web]](http://distill.pub/)
 - Andrej Karpathy Blog [[web]](http://karpathy.github.io/)
 - Colah's Blog [[Web]](http://colah.github.io/)
 - WildML [[Web]](http://www.wildml.com/)
