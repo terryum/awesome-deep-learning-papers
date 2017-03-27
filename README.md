@@ -51,7 +51,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 * [Image Segmentation / Object Detection](#image-segmentation--object-detection)
 * [Image / Video / Etc](#image--video--etc)
 * [Recurrent Neural Network Models](#recurrent-neural-network-models)
-* [Natural Language Process](#natural-language-process)
+* [Natural Language Processing](#natural-language-processing)
 * [Speech / Other Domain](#speech--other-domain)
 * [Reinforcement Learning / Robotics](#reinforcement-learning--robotics)
 * [More Papers from 2016](#more-papers-from-2016)
