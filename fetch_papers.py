@@ -31,6 +31,9 @@ with codecs.open('README.md', encoding='utf-8', mode='r', buffering=1, errors='s
                 # Auto - resume functionality
                 if(not os.path.exists(os.path.join(section_path, paper + '.pdf'))):
                     print('Fetching', paper)
-                    response = requests.get(url)
-                    with open(os.path.join(section_path, paper + '.pdf'), 'wb') as f:
-                        f.write(response.content)
+                    try:
+                        response = requests.get(url)
+                        with open(os.path.join(section_path, paper + '.pdf'), 'wb') as f:
+                            f.write(response.content)
+                    except requests.exceptions.RequestException as e:
+                        print "Error: {}".format(e)
