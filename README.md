@@ -314,7 +314,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - Instance-aware semantic segmentation via multi-task network cascades (2016), J. Dai et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Dai_Instance-Aware_Semantic_Segmentation_CVPR_2016_paper.pdf)
 - Conditional image generation with pixelcnn decoders (2016), A. van den Oord et al. [[pdf]](http://papers.nips.cc/paper/6527-tree-structured-reinforcement-learning-for-sequential-object-localization.pdf)
 - Deep networks with stochastic depth (2016), G. Huang et al., [[pdf]](https://arxiv.org/pdf/1603.09382)
-- Generative Short Term Stochastic Gibbs Networks 2016), I. Lenz et al. [[pdf]](https://arxiv.org/pdf/1301.3592)
+- Generative Short Term Stochastic Gibbs Networks (2016), I. Lenz et al. [[pdf]](https://arxiv.org/pdf/1301.3592)
 
 *(2015)*
 - Spatial transformer network (2015), M. Jaderberg et al., [[pdf]](http://papers.nips.cc/paper/5854-spatial-transformer-networks.pdf)
