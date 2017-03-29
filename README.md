@@ -260,6 +260,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - Neural Network and Deep Learning (Book, Jan 2017), Michael Nielsen. [[html]](http://neuralnetworksanddeeplearning.com/index.html)
 - Deep learning (Book, 2016), Goodfellow et al. [[html]](http://www.deeplearningbook.org/)
 - LSTM: A search space odyssey (2016), K. Greff et al. [[pdf]](https://arxiv.org/pdf/1503.04069.pdf?utm_content=buffereddc5&utm_medium=social&utm_source=plus.google.com&utm_campaign=buffer)
+- Tutorial on Variational Autoencoders (2016), C. Doersch. [[pdf]](https://arxiv.org/pdf/1606.05908)
 - Deep learning (2015), Y. LeCun, Y. Bengio and G. Hinton [[pdf]](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
 - Deep learning in neural networks: An overview (2015), J. Schmidhuber [[pdf]](http://arxiv.org/pdf/1404.7828)
 - Representation learning: A review and new perspectives (2013), Y. Bengio et al. [[pdf]](http://arxiv.org/pdf/1206.5538)
