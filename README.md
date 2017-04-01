@@ -8,7 +8,7 @@ We believe that there exist *classic* deep learning papers which are worth readi
 
 ## Background
 
-Before this list, there exist other *awesome deep learning lists*, for example, [Deep Vision](https://github.com/kjw0612/awesome-deep-vision) and [Awesome Recurrent Neural Networks](https://github.com/kjw0612/awesome-rnn). Also, after this list comes out, another awesome list for deep learning beginners. called [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap), has been created and loved by many deep learning researchers.
+Before this list, there exist other *awesome deep learning lists*, for example, [Deep Vision](https://github.com/kjw0612/awesome-deep-vision) and [Awesome Recurrent Neural Networks](https://github.com/kjw0612/awesome-rnn). Also, after this list comes out, another awesome list for deep learning beginners, called [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap), has been created and loved by many deep learning researchers.
 
 Although the *Roadmap List* includes lots of important deep learning papers, it feels overwhelming for me to read them all. As I mentioned in the introduction, I believe that seminal works can give us lessons regardless of their application domain. Thus, I would like to introduce **top 100 deep learning papers** here as a good starting point of overviewing deep learning researches.
 
