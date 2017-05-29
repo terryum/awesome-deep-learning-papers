@@ -204,6 +204,8 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - **Stacked attention networks for image question answering** (2016), Z. Yang et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yang_Stacked_Attention_Networks_CVPR_2016_paper.pdf)
 - **Hybrid computing using a neural network with dynamic external memory** (2016), A. Graves et al. [[pdf]](https://www.gwern.net/docs/2016-graves.pdf)
 - **Google's neural machine translation system: Bridging the gap between human and machine translation** (2016), Y. Wu et al. [[pdf]](https://arxiv.org/pdf/1609.08144)
+- **Large Scale Distributed Semi-Supervised Learning Using Streaming Approximation** (2016), Sujith Ravi et al. [[pdf]](https://arxiv.org/pdf/1512.01752)
+- **Smart Reply: Automated Response Suggestion for Email** (2016), Anjuli Kannan et al. [[pdf]](https://arxiv.org/pdf/1606.04870)
 
 * * *
 
