@@ -189,7 +189,6 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 <!---[Key researchers]  [Sergey Levine](https://scholar.google.ca/citations?user=8R35rCwAAAAJ), [Volodymyr Mnih](https://scholar.google.ca/citations?hl=en&user=rLdfJ1gAAAAJ), [David Silver](https://scholar.google.ca/citations?user=-8DNE4UAAAAJ)-->
 
 ### More Papers from 2016
-- **Accurate, Large Minibatch SGD:Training ImageNet in 1 Hour** (2017), Priya Goyal et al. [[pdf]](https://research.fb.com/wp-content/uploads/2017/06/imagenet1kin1h3.pdf)
 - **Layer Normalization** (2016), J. Ba et al. [[pdf]](https://arxiv.org/pdf/1607.06450v1.pdf)
 - **Learning to learn by gradient descent by gradient descent** (2016), M. Andrychowicz et al. [[pdf]](http://arxiv.org/pdf/1606.04474v1)
 - **Domain-adversarial training of neural networks** (2016), Y. Ganin et al. [[pdf]](http://www.jmlr.org/papers/volume17/15-239/source/15-239.pdf)
@@ -211,6 +210,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 ### New papers
 *Newly published papers (< 6 months) which are worth reading*
+- **Accurate, Large Minibatch SGD:Training ImageNet in 1 Hour** (2017), Priya Goyal et al. [[pdf]](https://research.fb.com/wp-content/uploads/2017/06/imagenet1kin1h3.pdf)
 - TACOTRON: Towards end-to-end speech synthesis (2017), Y. Wang et al. [[pdf]](https://arxiv.org/pdf/1703.10135.pdf)
 - Deep Photo Style Transfer (2017), F. Luan et al. [[pdf]](http://arxiv.org/pdf/1703.07511v1.pdf)
 - Evolution Strategies as a Scalable Alternative to Reinforcement Learning (2017), T. Salimans et al. [[pdf]](http://arxiv.org/pdf/1703.03864v1.pdf)
