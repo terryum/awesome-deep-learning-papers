@@ -36,4 +36,4 @@ with codecs.open('README.md', encoding='utf-8', mode='r', buffering=1, errors='s
                         with open(os.path.join(section_path, paper + '.pdf'), 'wb') as f:
                             f.write(response.content)
                     except requests.exceptions.RequestException as e:
-                        print "Error: {}".format(e)
+                        print("Error: {}".format(e))
