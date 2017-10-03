@@ -249,6 +249,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 
 ### HW / SW / Dataset
+-  SQuAD: 100,000+ Questions for Machine Comprehension of Text (2016), Rajpurkar et al. [[pdf]](https://arxiv.org/pdf/1606.05250.pdf)
 - OpenAI gym (2016), G. Brockman et al. [[pdf]](https://arxiv.org/pdf/1606.01540)
 - TensorFlow: Large-scale machine learning on heterogeneous distributed systems (2016), M. Abadi et al. [[pdf]](http://arxiv.org/pdf/1603.04467)
 - Theano: A Python framework for fast computation of mathematical expressions, R. Al-Rfou et al.
