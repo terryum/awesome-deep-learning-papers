@@ -19,4 +19,4 @@ $$
 o(n^{3})
 $$
 
-[Eq:On3]: http://rogercortesi.com/eqn/tempimagedir/eqn3062.png
+[Eq:On3]: http://rogercortesi.com/eqn/tempimagedir/eqn8190.png
