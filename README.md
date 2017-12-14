@@ -211,6 +211,9 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 ### New papers
 *Newly published papers (< 6 months) which are worth reading*
+- MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications (2017), Andrew G. Howard et al. [[pdf]](https://arxiv.org/pdf/1704.04861.pdf)
+- Convolutional Sequence to Sequence Learning (2017), Jonas Gehring et al. [[pdf]](https://arxiv.org/pdf/1705.03122)
+- A Knowledge-Grounded Neural Conversation Model (2017), Marjan Ghazvininejad et al. [[pdf]](https://arxiv.org/pdf/1702.01932)
 - A simple neural network module for relational reasoning (2017), Adam Santoro et al. [[pdf]](https://arxiv.org/pdf/1706.01427.pdf)
 - Accurate, Large Minibatch SGD:Training ImageNet in 1 Hour (2017), Priya Goyal et al. [[pdf]](https://research.fb.com/wp-content/uploads/2017/06/imagenet1kin1h3.pdf)
 - TACOTRON: Towards end-to-end speech synthesis (2017), Y. Wang et al. [[pdf]](https://arxiv.org/pdf/1703.10135.pdf)
@@ -248,6 +251,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 
 ### HW / SW / Dataset
+-  SQuAD: 100,000+ Questions for Machine Comprehension of Text (2016), Rajpurkar et al. [[pdf]](https://arxiv.org/pdf/1606.05250.pdf)
 - OpenAI gym (2016), G. Brockman et al. [[pdf]](https://arxiv.org/pdf/1606.01540)
 - TensorFlow: Large-scale machine learning on heterogeneous distributed systems (2016), M. Abadi et al. [[pdf]](http://arxiv.org/pdf/1603.04467)
 - Theano: A Python framework for fast computation of mathematical expressions, R. Al-Rfou et al.
