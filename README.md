@@ -277,6 +277,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - CS231n, Convolutional Neural Networks for Visual Recognition, Stanford University [[web]](http://cs231n.stanford.edu/)
 - CS224d, Deep Learning for Natural Language Processing, Stanford University [[web]](http://cs224d.stanford.edu/)
 - Oxford Deep NLP 2017, Deep Learning for Natural Language Processing, University of Oxford [[web]](https://github.com/oxford-cs-deepnlp-2017/lectures)
+- JHU CS 601.465, Natural Language Processing, Johns Hopkins University [[web]](http://www.cs.jhu.edu/~jason/465/)
 
 *(Tutorials)*
 - NIPS 2016 Tutorials, Long Beach [[web]](https://nips.cc/Conferences/2016/Schedule?type=Tutorial)
