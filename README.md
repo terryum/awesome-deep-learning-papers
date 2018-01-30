@@ -226,6 +226,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - Wasserstein GAN (2017), M. Arjovsky et al. [[pdf]](https://arxiv.org/pdf/1701.07875v1)
 - Understanding deep learning requires rethinking generalization (2017), C. Zhang et al. [[pdf]](https://arxiv.org/pdf/1611.03530)
 - Least squares generative adversarial networks (2016), X. Mao et al. [[pdf]](https://arxiv.org/abs/1611.04076v2)
+- Dynamic Routing Between Capsules (2017), Geoffrey E. Hinton. [[pdf]](https://arxiv.org/pdf/1710.09829.pdf)
 
 
 ### Old Papers
