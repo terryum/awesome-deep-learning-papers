@@ -4,13 +4,13 @@
 
 A curated list of the most cited deep learning papers (since 2012)
 
-We believe that there exist *classic* deep learning papers which are worth reading regardless of their application domain. Rather than providing overwhelming amount of papers, We would like to provide a *curated list* of the awesome deep learning papers which are considered as *must-reads* in certain research domains.
+We believe that there exist *classic* deep learning papers which are worth reading regardless of their application domains. Rather than providing overwhelming amount of papers, we would like to provide a *curated list* of the awesome deep learning papers which are considered as *must-reads* in certain research domains.
 
 ## Background
 
-Before this list, there exist other *awesome deep learning lists*, for example, [Deep Vision](https://github.com/kjw0612/awesome-deep-vision) and [Awesome Recurrent Neural Networks](https://github.com/kjw0612/awesome-rnn). Also, after this list comes out, another awesome list for deep learning beginners, called [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap), has been created and loved by many deep learning researchers.
+Before this list, there are other *awesome deep learning lists*, for example, [Deep Vision](https://github.com/kjw0612/awesome-deep-vision) and [Awesome Recurrent Neural Networks](https://github.com/kjw0612/awesome-rnn). Also, after this list comes out, another awesome list for deep learning beginners, called [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap), has been created and loved by many deep learning researchers.
 
-Although the *Roadmap List* includes lots of important deep learning papers, it feels overwhelming for me to read them all. As I mentioned in the introduction, I believe that seminal works can give us lessons regardless of their application domain. Thus, I would like to introduce **top 100 deep learning papers** here as a good starting point of overviewing deep learning researches.
+Although the *Roadmap List* includes lots of important deep learning papers, it is overwhelming for me to read them all. As I mentioned in the introduction, I believe that seminal works can give us lessons regardless of their application domains. Thus, I would like to introduce **top 100 deep learning papers** here as a good starting point for overviewing deep learning researches.
 
 To get the news for newly released papers everyday, follow my [twitter](https://twitter.com/TerryUm_ML) or [facebook page](https://www.facebook.com/terryum.io/)! 
 
