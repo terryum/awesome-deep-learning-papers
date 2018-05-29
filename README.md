@@ -293,6 +293,9 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - WildML [[Web]](http://www.wildml.com/)
 - FastML [[web]](http://www.fastml.com/)
 - TheMorningPaper [[web]](https://blog.acolyer.org)
+- arg min (Ben Recht's) blog [[web]](https://www.argmin.net/)
+- Off the convex path [[web]](https://www.offconvex.org/)
+- Berkeley Artificial Intelligence Research (BAIR) [[web]](http://bair.berkeley.edu/blog/)
 
 ### Appendix: More than Top 100
 *(2016)*
