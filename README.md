@@ -2,7 +2,9 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of the most cited deep learning papers (since 2012)
+[Notice] This list is not being maintained anymore because of the overwhelming amount of deep learning papers published every day since 2017.
+
+A curated list of the most cited deep learning papers (2012-2016)
 
 We believe that there exist *classic* deep learning papers which are worth reading regardless of their application domain. Rather than providing overwhelming amount of papers, We would like to provide a *curated list* of the awesome deep learning papers which are considered as *must-reads* in certain research domains.
 
