@@ -39,7 +39,7 @@ Please note that we prefer seminal deep learning papers that can be applied to v
 If you have any suggestions (missing papers, new papers, key researchers or typos), please feel free to edit and pull a request.
 (Please read the [contributing guide](https://github.com/terryum/awesome-deep-learning-papers/blob/master/Contributing.md) for further instructions, though just letting me know the title of papers can also be a big contribution to us.)
 
-(Update) You can download all top-100 papers with [this](https://github.com/terryum/awesome-deep-learning-papers/blob/master/fetch_papers.py) and collect all authors' names with [this](https://github.com/terryum/awesome-deep-learning-papers/blob/master/get_authors.py). Also, [bib file](https://github.com/terryum/awesome-deep-learning-papers/blob/master/top100papers.bib) for all top-100 papers are available. Thanks, doodhwala, [Sven](https://github.com/sunshinemyson) and [grepinsight](https://github.com/grepinsight)!
+(Update) You can download all top-100 papers with [this](https://github.com/terryum/awesome-deep-learning-papers/blob/master/fetch_papers.py) and collect all authors' names with [this](https://github.com/terryum/awesome-deep-learning-papers/blob/master/get_authors.py). Also, [bib file](https://github.com/terryum/awesome-deep-learning-papers/blob/master/top100papers.bib) for all top-100 papers are available. Thanks, [mohit-surana](https://github.com/mohit-surana), [Sven](https://github.com/sunshinemyson) and [grepinsight](https://github.com/grepinsight)!
 
 + Can anyone contribute the code for obtaining the statistics of the authors of Top-100 papers?
 
@@ -139,7 +139,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - **DeepFace: Closing the gap to human-level performance in face verification** (2014), Y. Taigman et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Taigman_DeepFace_Closing_the_2014_CVPR_paper.pdf):
 - **Large-scale video classification with convolutional neural networks** (2014), A. Karpathy et al. [[pdf]](http://vision.stanford.edu/pdf/karpathy14.pdf)
 - **Two-stream convolutional networks for action recognition in videos** (2014), K. Simonyan et al. [[pdf]](http://papers.nips.cc/paper/5353-two-stream-convolutional-networks-for-action-recognition-in-videos.pdf)
-- **3D convolutional neural networks for human action recognition** (2013), S. Ji et al. [[pdf]](http://machinelearning.wustl.edu/mlpapers/paper_files/icml2010_JiXYY10.pdf)
+- **3D convolutional neural networks for human action recognition** (2013), S. Ji et al. [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.169.4046&rep=rep1&type=pdf)
 
 <!---[Key researchers]  [Oriol Vinyals](https://scholar.google.ca/citations?user=NkzyCvUAAAAJ), [Andrej Karpathy](https://scholar.google.ca/citations?user=l8WuQJgAAAAJ)-->
 
@@ -178,11 +178,11 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 <!---[Key researchers]  [Alex Graves](https://scholar.google.ca/citations?user=DaFHynwAAAAJ), [Geoffrey Hinton](https://scholar.google.ca/citations?user=JicYPdAAAAAJ), [Dong Yu](https://scholar.google.ca/citations?hl=en&user=tMY31_gAAAAJ)-->
 
 ### Reinforcement Learning / Robotics
-- **End-to-end training of deep visuomotor policies** (2016), S. Levine et al. [[pdf]](http://www.jmlr.org/papers/volume17/15-522/source/15-522.pdf)
+- **End-to-end training of deep visuomotor policies** (2016), S. Levine et al. [[pdf]](https://arxiv.org/pdf/1504.00702.pdf)
 - **Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection** (2016), S. Levine et al. [[pdf]](https://arxiv.org/pdf/1603.02199)
 - **Asynchronous methods for deep reinforcement learning** (2016), V. Mnih et al. [[pdf]](http://www.jmlr.org/proceedings/papers/v48/mniha16.pdf)
 - **Deep Reinforcement Learning with Double Q-Learning** (2016), H. Hasselt et al. [[pdf]](https://arxiv.org/pdf/1509.06461.pdf )
-- **Mastering the game of Go with deep neural networks and tree search** (2016), D. Silver et al. [[pdf]](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html)
+- **Mastering the game of Go with deep neural networks and tree search** (2016), D. Silver et al. [[pdf]](https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf)
 - **Continuous control with deep reinforcement learning** (2015), T. Lillicrap et al. [[pdf]](https://arxiv.org/pdf/1509.02971)
 - **Human-level control through deep reinforcement learning** (2015), V. Mnih et al. [[pdf]](http://www.davidqiu.com:8888/research/nature14236.pdf)
 - **Deep learning for detecting robotic grasps** (2015), I. Lenz et al. [[pdf]](http://www.cs.cornell.edu/~asaxena/papers/lenz_lee_saxena_deep_learning_grasping_ijrr2014.pdf)
