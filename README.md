@@ -69,6 +69,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 * * *
 
 ### Understanding / Generalization / Transfer
+- **Understanding deep learning requires rethinking generalization** (2016), C. Zhang et al. [[pdf]](https://arxiv.org/pdf/1611.03530)
 - **Distilling the knowledge in a neural network** (2015), G. Hinton et al. [[pdf]](http://arxiv.org/pdf/1503.02531)
 - **Deep neural networks are easily fooled: High confidence predictions for unrecognizable images** (2015), A. Nguyen et al. [[pdf]](http://arxiv.org/pdf/1412.1897)
 - **How transferable are features in deep neural networks?** (2014), J. Yosinski et al. [[pdf]](http://papers.nips.cc/paper/5347-how-transferable-are-features-in-deep-neural-networks.pdf)
