@@ -129,6 +129,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 <!---[Key researchers]  [Ross Girshick](https://scholar.google.ca/citations?hl=en&user=W8VIEZgAAAAJ), [Jeff Donahue](https://scholar.google.ca/citations?hl=en&user=UfbuDH8AAAAJ), [Trevor Darrell](https://scholar.google.ca/citations?hl=en&user=bh-uRFMAAAAJ)-->
 
 ### Image / Video / Etc
+- **Fully Context Aware Video Prediction** (2017), W. Byeon et al. [[pdf]](https://arxiv.org/pdf/1710.08518.pdf)
 - **Image Super-Resolution Using Deep Convolutional Networks** (2016), C. Dong et al. [[pdf]](https://arxiv.org/pdf/1501.00092v3.pdf)
 - **A neural algorithm of artistic style** (2015), L. Gatys et al. [[pdf]](https://arxiv.org/pdf/1508.06576)
 - **Deep visual-semantic alignments for generating image descriptions** (2015), A. Karpathy and L. Fei-Fei [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.pdf)
@@ -215,6 +216,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications (2017), Andrew G. Howard et al. [[pdf]](https://arxiv.org/pdf/1704.04861.pdf)
 - Convolutional Sequence to Sequence Learning (2017), Jonas Gehring et al. [[pdf]](https://arxiv.org/pdf/1705.03122)
 - A Knowledge-Grounded Neural Conversation Model (2017), Marjan Ghazvininejad et al. [[pdf]](https://arxiv.org/pdf/1702.01932)
+- A simple neural network module for relational reasoning (2017), Adam Santoro et al. [[pdf]](https://arxiv.org/pdf/1706.01427.pdf)
 - Accurate, Large Minibatch SGD:Training ImageNet in 1 Hour (2017), Priya Goyal et al. [[pdf]](https://research.fb.com/wp-content/uploads/2017/06/imagenet1kin1h3.pdf)
 - TACOTRON: Towards end-to-end speech synthesis (2017), Y. Wang et al. [[pdf]](https://arxiv.org/pdf/1703.10135.pdf)
 - Deep Photo Style Transfer (2017), F. Luan et al. [[pdf]](http://arxiv.org/pdf/1703.07511v1.pdf)
