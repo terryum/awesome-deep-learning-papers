@@ -293,7 +293,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - Andrej Karpathy Blog [[web]](http://karpathy.github.io/)
 - Colah's Blog [[Web]](http://colah.github.io/)
 - WildML [[Web]](http://www.wildml.com/)
-- FastML [[web]](http://www.fastml.com/)
+- FastML [[web]](http://fastml.com/)
 - TheMorningPaper [[web]](https://blog.acolyer.org)
 
 ### Appendix: More than Top 100
