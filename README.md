@@ -98,6 +98,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - **Generative adversarial nets** (2014), I. Goodfellow et al. [[pdf]](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
 - **Auto-encoding variational Bayes** (2013), D. Kingma and M. Welling [[pdf]](http://arxiv.org/pdf/1312.6114)
 - **Building high-level features using large scale unsupervised learning** (2013), Q. Le et al. [[pdf]](http://arxiv.org/pdf/1112.6209)
+- **GAN-based synthetic medical image augmentation for increased CNN performance in liver lesion classification** (2018), Frid-Adar, Maayan, et al. [[link] (GAN-based synthetic medical image augmentation for increased CNN performance in liver lesion classification)]
 
 <!---[Key researchers] [Yoshua Bengio](https://scholar.google.ca/citations?user=kukA0LcAAAAJ), [Ian Goodfellow](https://scholar.google.ca/citations?user=iYN86KEAAAAJ), [Alex Graves](https://scholar.google.ca/citations?user=DaFHynwAAAAJ)-->
 ### Convolutional Neural Network Models
