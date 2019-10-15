@@ -213,6 +213,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 ### New papers
 *Newly published papers (< 6 months) which are worth reading*
 - Improving Image Captioning with Conditional Generative Adversarial Nets (2019),Chen Chen et al[[pdf]](https://www.aaai.org/ojs/index.php/AAAI/article/view/4823)
+- Understanding Deep Neural Networks with Rectified Linear Units(2018),Raman Arora et al[[pdf]](https://arxiv.org/pdf/1611.01491.pdf)
 - MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications (2017), Andrew G. Howard et al. [[pdf]](https://arxiv.org/pdf/1704.04861.pdf)
 - Convolutional Sequence to Sequence Learning (2017), Jonas Gehring et al. [[pdf]](https://arxiv.org/pdf/1705.03122)
 - A Knowledge-Grounded Neural Conversation Model (2017), Marjan Ghazvininejad et al. [[pdf]](https://arxiv.org/pdf/1702.01932)
