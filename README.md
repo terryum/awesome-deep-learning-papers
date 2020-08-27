@@ -248,6 +248,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - A fast learning algorithm for deep belief nets (2006), G. Hinton et al. [[pdf]](http://nuyoo.utm.mx/~jjf/rna/A8%20A%20fast%20learning%20algorithm%20for%20deep%20belief%20nets.pdf)
 - Gradient-based learning applied to document recognition (1998), Y. LeCun et al. [[pdf]](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
 - Long short-term memory (1997), S. Hochreiter and J. Schmidhuber. [[pdf]](http://www.mitpressjournals.org/doi/pdfplus/10.1162/neco.1997.9.8.1735)
+- Learning Internal Representations By Error Propagation (1985) D. Rumelhart,  G. Hinton and R. Williams. [[pdf]](https://apps.dtic.mil/dtic/tr/fulltext/u2/a164453.pdf) 
 
 
 ### HW / SW / Dataset
