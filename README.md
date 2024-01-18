@@ -272,6 +272,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - Deep learning (2015), Y. LeCun, Y. Bengio and G. Hinton [[pdf]](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
 - Deep learning in neural networks: An overview (2015), J. Schmidhuber [[pdf]](http://arxiv.org/pdf/1404.7828)
 - Representation learning: A review and new perspectives (2013), Y. Bengio et al. [[pdf]](http://arxiv.org/pdf/1206.5538)
+- Deep Learning with PyTorch, Second Edition  (2023), Luca Antiga, Eli Stevens, Howard Huang, Thomas Viehmann [[book]](https://www.manning.com/books/deep-learning-with-pytorch-second-edition)
 
 ### Video Lectures / Tutorials / Blogs
 
